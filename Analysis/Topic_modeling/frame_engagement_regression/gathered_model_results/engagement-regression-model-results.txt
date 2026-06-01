@@ -1,0 +1,333 @@
+Engagement Regression Model Results
+Input CSV: C:/Users/marie/Desktop/MA-Thesis/Datasets/gl-cl-w-topics-FINAL.csv 
+Generated: 2026-05-31 19:26:47 CEST 
+
+This file gathers 9 models:
+  1-3. All frames compared with Nature/Tourism, for views, comments, and likes.
+  4-6. Geopolitics compared with all other frames, for views, comments, and likes.
+  7-9. Geopolitics compared with all other frames with log subscribers controlled, for views, comments, and likes.
+
+Dependent variables are log1p transformed engagement variables.
+Subscriber control is log1p(channel_subscriber_count).
+95% confidence intervals for coefficients use the t-distribution critical value with df.residual(model), not a fixed z = 1.96.
+Percent difference rows are computed as (exp(coefficient) - 1) * 100, and their CIs are exponentiated from the coefficient bounds.
+Reference frame for all-frame models: Nature/Tourism 
+Reference group for geopolitics models: Other Frames
+
+
+================================================================================
+1. All frames model: views, reference = Nature/Tourism 
+================================================================================
+
+Formula: log_views ~ frame 
+Rows used: 26378 
+Adjusted R-squared: 0.029 
+
+Interpretable log-coefficient transformations
+  frameGeopolitics: coefficient = 1.279, percent difference = 259.2%, 95% CI = [228.4%, 292.8%], p = < 1e-04
+  frameKnowledge/Facts: coefficient = 0.554, percent difference = 74.0%, 95% CI = [58.9%, 90.6%], p = < 1e-04
+  frameIndigenous Life: coefficient = 0.619, percent difference = 85.6%, 95% CI = [65.4%, 108.4%], p = < 1e-04
+  frameClimate Change: coefficient = 0.424, percent difference = 52.9%, 95% CI = [27.8%, 82.9%], p = < 1e-04
+
+
+Call:
+lm(formula = log_views ~ frame, data = all_frame_df)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-6.767 -1.899 -0.015  1.585 12.070 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(>|t|)    
+(Intercept)           5.48799    0.03225 170.188  < 2e-16 ***
+frameGeopolitics      1.27866    0.04564  28.018  < 2e-16 ***
+frameKnowledge/Facts  0.55415    0.04643  11.936  < 2e-16 ***
+frameIndigenous Life  0.61856    0.05895  10.493  < 2e-16 ***
+frameClimate Change   0.42437    0.09148   4.639 3.52e-06 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 2.8 on 26373 degrees of freedom
+  (1 observation deleted due to missingness)
+Multiple R-squared:  0.02923,	Adjusted R-squared:  0.02908 
+F-statistic: 198.5 on 4 and 26373 DF,  p-value: < 2.2e-16
+
+
+
+================================================================================
+2. All frames model: comments, reference = Nature/Tourism 
+================================================================================
+
+Formula: log_comments ~ frame 
+Rows used: 25865 
+Adjusted R-squared: 0.051 
+
+Interpretable log-coefficient transformations
+  frameGeopolitics: coefficient = 1.033, percent difference = 180.8%, 95% CI = [165.1%, 197.4%], p = < 1e-04
+  frameKnowledge/Facts: coefficient = 0.218, percent difference = 24.3%, 95% CI = [17.3%, 31.8%], p = < 1e-04
+  frameIndigenous Life: coefficient = 0.340, percent difference = 40.4%, 95% CI = [30.4%, 51.3%], p = < 1e-04
+  frameClimate Change: coefficient = 0.525, percent difference = 69.1%, 95% CI = [50.5%, 90.0%], p = < 1e-04
+
+
+Call:
+lm(formula = log_comments ~ frame, data = all_frame_df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.7947 -0.9800 -0.7622  0.5079  9.7780 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(>|t|)    
+(Intercept)           0.76217    0.02069  36.831  < 2e-16 ***
+frameGeopolitics      1.03251    0.02930  35.240  < 2e-16 ***
+frameKnowledge/Facts  0.21786    0.02983   7.303 2.89e-13 ***
+frameIndigenous Life  0.33953    0.03790   8.959  < 2e-16 ***
+frameClimate Change   0.52529    0.05937   8.848  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 1.782 on 25860 degrees of freedom
+  (514 observations deleted due to missingness)
+Multiple R-squared:  0.05074,	Adjusted R-squared:  0.05059 
+F-statistic: 345.6 on 4 and 25860 DF,  p-value: < 2.2e-16
+
+
+
+================================================================================
+3. All frames model: likes, reference = Nature/Tourism 
+================================================================================
+
+Formula: log_likes ~ frame 
+Rows used: 25098 
+Adjusted R-squared: 0.028 
+
+Interpretable log-coefficient transformations
+  frameGeopolitics: coefficient = 1.023, percent difference = 178.1%, 95% CI = [158.0%, 199.7%], p = < 1e-04
+  frameKnowledge/Facts: coefficient = 0.447, percent difference = 56.3%, 95% CI = [44.7%, 68.8%], p = < 1e-04
+  frameIndigenous Life: coefficient = 0.428, percent difference = 53.4%, 95% CI = [39.2%, 69.0%], p = < 1e-04
+  frameClimate Change: coefficient = 0.302, percent difference = 35.2%, 95% CI = [16.5%, 57.1%], p = < 1e-04
+
+
+Call:
+lm(formula = log_likes ~ frame, data = all_frame_likes_df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-3.2509 -1.5762 -0.4365  1.0576 12.3217 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(>|t|)    
+(Intercept)           2.22826    0.02694  82.706  < 2e-16 ***
+frameGeopolitics      1.02267    0.03818  26.785  < 2e-16 ***
+frameKnowledge/Facts  0.44654    0.03924  11.380  < 2e-16 ***
+frameIndigenous Life  0.42775    0.04942   8.656  < 2e-16 ***
+frameClimate Change   0.30188    0.07632   3.956 7.66e-05 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 2.298 on 25093 degrees of freedom
+Multiple R-squared:  0.02823,	Adjusted R-squared:  0.02807 
+F-statistic: 182.2 on 4 and 25093 DF,  p-value: < 2.2e-16
+
+
+
+================================================================================
+4. Geopolitics vs all other frames: views 
+================================================================================
+
+Formula: log_views ~ binary_frame 
+Rows used: 26378 
+Adjusted R-squared: 0.022 
+
+Interpretable log-coefficient transformations
+  binary_frameGeopolitics: coefficient = 0.942, percent difference = 156.6%, 95% CI = [138.1%, 176.6%], p = < 1e-04
+
+
+Call:
+lm(formula = log_views ~ binary_frame, data = geopolitics_df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.7667 -1.9122 -0.0312  1.5889 12.0103 
+
+Coefficients:
+                        Estimate Std. Error t value Pr(>|t|)    
+(Intercept)              5.82419    0.02046  284.64   <2e-16 ***
+binary_frameGeopolitics  0.94246    0.03832   24.59   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 2.81 on 26376 degrees of freedom
+  (1 observation deleted due to missingness)
+Multiple R-squared:  0.02241,	Adjusted R-squared:  0.02238 
+F-statistic: 604.8 on 1 and 26376 DF,  p-value: < 2.2e-16
+
+
+
+================================================================================
+5. Geopolitics vs all other frames: comments 
+================================================================================
+
+Formula: log_comments ~ binary_frame 
+Rows used: 25865 
+Adjusted R-squared: 0.046 
+
+Interpretable log-coefficient transformations
+  binary_frameGeopolitics: coefficient = 0.864, percent difference = 137.3%, 95% CI = [126.2%, 149.1%], p = < 1e-04
+
+
+Call:
+lm(formula = log_comments ~ binary_frame, data = geopolitics_df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.7947 -0.9304 -0.9304  0.4559  9.8276 
+
+Coefficients:
+                        Estimate Std. Error t value Pr(>|t|)    
+(Intercept)              0.93039    0.01315   70.77   <2e-16 ***
+binary_frameGeopolitics  0.86429    0.02460   35.13   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 1.787 on 25863 degrees of freedom
+  (514 observations deleted due to missingness)
+Multiple R-squared:  0.04554,	Adjusted R-squared:  0.0455 
+F-statistic:  1234 on 1 and 25863 DF,  p-value: < 2.2e-16
+
+
+
+================================================================================
+6. Geopolitics vs all other frames: likes 
+================================================================================
+
+Formula: log_likes ~ binary_frame 
+Rows used: 25098 
+Adjusted R-squared: 0.022 
+
+Interpretable log-coefficient transformations
+  binary_frameGeopolitics: coefficient = 0.769, percent difference = 115.9%, 95% CI = [102.7%, 129.9%], p = < 1e-04
+
+
+Call:
+lm(formula = log_likes ~ binary_frame, data = geopolitics_likes_df)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-3.251 -1.788 -0.402  1.053 12.515 
+
+Coefficients:
+                        Estimate Std. Error t value Pr(>|t|)    
+(Intercept)              2.48146    0.01724  143.95   <2e-16 ***
+binary_frameGeopolitics  0.76948    0.03215   23.94   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 2.305 on 25096 degrees of freedom
+Multiple R-squared:  0.02232,	Adjusted R-squared:  0.02228 
+F-statistic: 572.9 on 1 and 25096 DF,  p-value: < 2.2e-16
+
+
+
+================================================================================
+7. Subscriber-controlled geopolitics model: views 
+================================================================================
+
+Formula: log_views ~ is_geopolitical + log_subscribers 
+Rows used: 26378 
+Adjusted R-squared: 0.440 
+
+Interpretable log-coefficient transformations
+  is_geopolitical: coefficient = -0.018, percent difference = -1.7%, 95% CI = [-7.3%, 4.2%], p = 0.5555
+
+
+Call:
+lm(formula = log_views ~ is_geopolitical + log_subscribers, data = subscriber_df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-8.0769 -1.4818  0.0108  1.4719  9.3182 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)      2.760878   0.026779  103.10   <2e-16 ***
+is_geopolitical -0.017572   0.029805   -0.59    0.555    
+log_subscribers  0.497385   0.003547  140.22   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 2.127 on 26375 degrees of freedom
+  (1 observation deleted due to missingness)
+Multiple R-squared:  0.4399,	Adjusted R-squared:  0.4399 
+F-statistic: 1.036e+04 on 2 and 26375 DF,  p-value: < 2.2e-16
+
+
+
+================================================================================
+8. Subscriber-controlled geopolitics model: comments 
+================================================================================
+
+Formula: log_comments ~ is_geopolitical + log_subscribers 
+Rows used: 25865 
+Adjusted R-squared: 0.439 
+
+Interpretable log-coefficient transformations
+  is_geopolitical: coefficient = 0.279, percent difference = 32.2%, 95% CI = [27.3%, 37.3%], p = < 1e-04
+
+
+Call:
+lm(formula = log_comments ~ is_geopolitical + log_subscribers, 
+    data = subscriber_df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-4.4639 -0.8721 -0.1348  0.6686  8.0482 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     -0.988666   0.017441  -56.69   <2e-16 ***
+is_geopolitical  0.279227   0.019349   14.43   <2e-16 ***
+log_subscribers  0.311754   0.002313  134.80   <2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 1.37 on 25862 degrees of freedom
+  (514 observations deleted due to missingness)
+Multiple R-squared:  0.4394,	Adjusted R-squared:  0.4394 
+F-statistic: 1.014e+04 on 2 and 25862 DF,  p-value: < 2.2e-16
+
+
+
+================================================================================
+9. Subscriber-controlled geopolitics model: likes 
+================================================================================
+
+Formula: log_likes ~ is_geopolitical + log_subscribers 
+Rows used: 25098 
+Adjusted R-squared: 0.464 
+
+Interpretable log-coefficient transformations
+  is_geopolitical: coefficient = -0.054, percent difference = -5.3%, 95% CI = [-9.7%, -0.6%], p = 0.02628
+
+
+Call:
+lm(formula = log_likes ~ is_geopolitical + log_subscribers, data = subscriber_likes_df)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.6050 -1.0989 -0.0765  0.9590 10.1473 
+
+Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+(Intercept)     -0.077772   0.021909  -3.550 0.000386 ***
+is_geopolitical -0.054416   0.024488  -2.222 0.026285 *  
+log_subscribers  0.415301   0.002889 143.735  < 2e-16 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 1.707 on 25095 degrees of freedom
+  (1281 observations deleted due to missingness)
+Multiple R-squared:  0.4638,	Adjusted R-squared:  0.4637 
+F-statistic: 1.085e+04 on 2 and 25095 DF,  p-value: < 2.2e-16
+
+

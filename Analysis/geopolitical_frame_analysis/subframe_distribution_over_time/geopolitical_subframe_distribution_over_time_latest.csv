@@ -1,0 +1,221 @@
+period,subframe,count,total_videos_in_period,prevalence
+2019-01/02,American Expansionism,1,5,0.200000
+2019-01/02,Great Power Rivalry,0,5,0.000000
+2019-01/02,Diplomatic Resistance,2,5,0.400000
+2019-01/02,Defense Infrastructure,1,5,0.200000
+2019-01/02,Resource Extraction and Investment,1,5,0.200000
+2019-03/04,American Expansionism,1,24,0.041667
+2019-03/04,Great Power Rivalry,3,24,0.125000
+2019-03/04,Diplomatic Resistance,0,24,0.000000
+2019-03/04,Defense Infrastructure,2,24,0.083333
+2019-03/04,Resource Extraction and Investment,18,24,0.750000
+2019-05/06,American Expansionism,3,24,0.125000
+2019-05/06,Great Power Rivalry,2,24,0.083333
+2019-05/06,Diplomatic Resistance,11,24,0.458333
+2019-05/06,Defense Infrastructure,2,24,0.083333
+2019-05/06,Resource Extraction and Investment,6,24,0.250000
+2019-07/08,American Expansionism,136,243,0.559671
+2019-07/08,Great Power Rivalry,5,243,0.020576
+2019-07/08,Diplomatic Resistance,89,243,0.366255
+2019-07/08,Defense Infrastructure,7,243,0.028807
+2019-07/08,Resource Extraction and Investment,6,243,0.024691
+2019-09/10,American Expansionism,10,26,0.384615
+2019-09/10,Great Power Rivalry,5,26,0.192308
+2019-09/10,Diplomatic Resistance,4,26,0.153846
+2019-09/10,Defense Infrastructure,2,26,0.076923
+2019-09/10,Resource Extraction and Investment,5,26,0.192308
+2019-11/12,American Expansionism,5,18,0.277778
+2019-11/12,Great Power Rivalry,0,18,0.000000
+2019-11/12,Diplomatic Resistance,1,18,0.055556
+2019-11/12,Defense Infrastructure,4,18,0.222222
+2019-11/12,Resource Extraction and Investment,8,18,0.444444
+2020-01/02,American Expansionism,9,27,0.333333
+2020-01/02,Great Power Rivalry,3,27,0.111111
+2020-01/02,Diplomatic Resistance,2,27,0.074074
+2020-01/02,Defense Infrastructure,2,27,0.074074
+2020-01/02,Resource Extraction and Investment,11,27,0.407407
+2020-03/04,American Expansionism,6,36,0.166667
+2020-03/04,Great Power Rivalry,4,36,0.111111
+2020-03/04,Diplomatic Resistance,7,36,0.194444
+2020-03/04,Defense Infrastructure,2,36,0.055556
+2020-03/04,Resource Extraction and Investment,17,36,0.472222
+2020-05/06,American Expansionism,1,10,0.100000
+2020-05/06,Great Power Rivalry,3,10,0.300000
+2020-05/06,Diplomatic Resistance,3,10,0.300000
+2020-05/06,Defense Infrastructure,2,10,0.200000
+2020-05/06,Resource Extraction and Investment,1,10,0.100000
+2020-07/08,American Expansionism,14,24,0.583333
+2020-07/08,Great Power Rivalry,2,24,0.083333
+2020-07/08,Diplomatic Resistance,0,24,0.000000
+2020-07/08,Defense Infrastructure,3,24,0.125000
+2020-07/08,Resource Extraction and Investment,5,24,0.208333
+2020-09/10,American Expansionism,2,11,0.181818
+2020-09/10,Great Power Rivalry,0,11,0.000000
+2020-09/10,Diplomatic Resistance,1,11,0.090909
+2020-09/10,Defense Infrastructure,2,11,0.181818
+2020-09/10,Resource Extraction and Investment,6,11,0.545455
+2020-11/12,American Expansionism,4,17,0.235294
+2020-11/12,Great Power Rivalry,1,17,0.058824
+2020-11/12,Diplomatic Resistance,2,17,0.117647
+2020-11/12,Defense Infrastructure,5,17,0.294118
+2020-11/12,Resource Extraction and Investment,5,17,0.294118
+2021-01/02,American Expansionism,5,19,0.263158
+2021-01/02,Great Power Rivalry,10,19,0.526316
+2021-01/02,Diplomatic Resistance,2,19,0.105263
+2021-01/02,Defense Infrastructure,0,19,0.000000
+2021-01/02,Resource Extraction and Investment,2,19,0.105263
+2021-03/04,American Expansionism,5,43,0.116279
+2021-03/04,Great Power Rivalry,8,43,0.186047
+2021-03/04,Diplomatic Resistance,9,43,0.209302
+2021-03/04,Defense Infrastructure,5,43,0.116279
+2021-03/04,Resource Extraction and Investment,16,43,0.372093
+2021-05/06,American Expansionism,7,17,0.411765
+2021-05/06,Great Power Rivalry,5,17,0.294118
+2021-05/06,Diplomatic Resistance,3,17,0.176471
+2021-05/06,Defense Infrastructure,0,17,0.000000
+2021-05/06,Resource Extraction and Investment,2,17,0.117647
+2021-07/08,American Expansionism,5,16,0.312500
+2021-07/08,Great Power Rivalry,5,16,0.312500
+2021-07/08,Diplomatic Resistance,2,16,0.125000
+2021-07/08,Defense Infrastructure,2,16,0.125000
+2021-07/08,Resource Extraction and Investment,2,16,0.125000
+2021-09/10,American Expansionism,3,24,0.125000
+2021-09/10,Great Power Rivalry,6,24,0.250000
+2021-09/10,Diplomatic Resistance,3,24,0.125000
+2021-09/10,Defense Infrastructure,3,24,0.125000
+2021-09/10,Resource Extraction and Investment,9,24,0.375000
+2021-11/12,American Expansionism,3,16,0.187500
+2021-11/12,Great Power Rivalry,8,16,0.500000
+2021-11/12,Diplomatic Resistance,1,16,0.062500
+2021-11/12,Defense Infrastructure,1,16,0.062500
+2021-11/12,Resource Extraction and Investment,3,16,0.187500
+2022-01/02,American Expansionism,2,15,0.133333
+2022-01/02,Great Power Rivalry,2,15,0.133333
+2022-01/02,Diplomatic Resistance,2,15,0.133333
+2022-01/02,Defense Infrastructure,1,15,0.066667
+2022-01/02,Resource Extraction and Investment,8,15,0.533333
+2022-03/04,American Expansionism,2,12,0.166667
+2022-03/04,Great Power Rivalry,3,12,0.250000
+2022-03/04,Diplomatic Resistance,1,12,0.083333
+2022-03/04,Defense Infrastructure,2,12,0.166667
+2022-03/04,Resource Extraction and Investment,4,12,0.333333
+2022-05/06,American Expansionism,3,17,0.176471
+2022-05/06,Great Power Rivalry,2,17,0.117647
+2022-05/06,Diplomatic Resistance,3,17,0.176471
+2022-05/06,Defense Infrastructure,1,17,0.058824
+2022-05/06,Resource Extraction and Investment,8,17,0.470588
+2022-07/08,American Expansionism,6,19,0.315789
+2022-07/08,Great Power Rivalry,2,19,0.105263
+2022-07/08,Diplomatic Resistance,1,19,0.052632
+2022-07/08,Defense Infrastructure,1,19,0.052632
+2022-07/08,Resource Extraction and Investment,9,19,0.473684
+2022-09/10,American Expansionism,8,18,0.444444
+2022-09/10,Great Power Rivalry,3,18,0.166667
+2022-09/10,Diplomatic Resistance,0,18,0.000000
+2022-09/10,Defense Infrastructure,3,18,0.166667
+2022-09/10,Resource Extraction and Investment,4,18,0.222222
+2022-11/12,American Expansionism,13,22,0.590909
+2022-11/12,Great Power Rivalry,2,22,0.090909
+2022-11/12,Diplomatic Resistance,1,22,0.045455
+2022-11/12,Defense Infrastructure,1,22,0.045455
+2022-11/12,Resource Extraction and Investment,5,22,0.227273
+2023-01/02,American Expansionism,7,23,0.304348
+2023-01/02,Great Power Rivalry,6,23,0.260870
+2023-01/02,Diplomatic Resistance,2,23,0.086957
+2023-01/02,Defense Infrastructure,3,23,0.130435
+2023-01/02,Resource Extraction and Investment,5,23,0.217391
+2023-03/04,American Expansionism,7,22,0.318182
+2023-03/04,Great Power Rivalry,5,22,0.227273
+2023-03/04,Diplomatic Resistance,1,22,0.045455
+2023-03/04,Defense Infrastructure,5,22,0.227273
+2023-03/04,Resource Extraction and Investment,4,22,0.181818
+2023-05/06,American Expansionism,8,19,0.421053
+2023-05/06,Great Power Rivalry,7,19,0.368421
+2023-05/06,Diplomatic Resistance,1,19,0.052632
+2023-05/06,Defense Infrastructure,2,19,0.105263
+2023-05/06,Resource Extraction and Investment,1,19,0.052632
+2023-07/08,American Expansionism,5,14,0.357143
+2023-07/08,Great Power Rivalry,2,14,0.142857
+2023-07/08,Diplomatic Resistance,2,14,0.142857
+2023-07/08,Defense Infrastructure,2,14,0.142857
+2023-07/08,Resource Extraction and Investment,3,14,0.214286
+2023-09/10,American Expansionism,5,20,0.250000
+2023-09/10,Great Power Rivalry,4,20,0.200000
+2023-09/10,Diplomatic Resistance,4,20,0.200000
+2023-09/10,Defense Infrastructure,2,20,0.100000
+2023-09/10,Resource Extraction and Investment,5,20,0.250000
+2023-11/12,American Expansionism,8,18,0.444444
+2023-11/12,Great Power Rivalry,3,18,0.166667
+2023-11/12,Diplomatic Resistance,1,18,0.055556
+2023-11/12,Defense Infrastructure,2,18,0.111111
+2023-11/12,Resource Extraction and Investment,4,18,0.222222
+2024-01/02,American Expansionism,5,15,0.333333
+2024-01/02,Great Power Rivalry,3,15,0.200000
+2024-01/02,Diplomatic Resistance,0,15,0.000000
+2024-01/02,Defense Infrastructure,2,15,0.133333
+2024-01/02,Resource Extraction and Investment,5,15,0.333333
+2024-03/04,American Expansionism,19,35,0.542857
+2024-03/04,Great Power Rivalry,3,35,0.085714
+2024-03/04,Diplomatic Resistance,1,35,0.028571
+2024-03/04,Defense Infrastructure,2,35,0.057143
+2024-03/04,Resource Extraction and Investment,10,35,0.285714
+2024-05/06,American Expansionism,4,18,0.222222
+2024-05/06,Great Power Rivalry,5,18,0.277778
+2024-05/06,Diplomatic Resistance,2,18,0.111111
+2024-05/06,Defense Infrastructure,3,18,0.166667
+2024-05/06,Resource Extraction and Investment,4,18,0.222222
+2024-07/08,American Expansionism,11,17,0.647059
+2024-07/08,Great Power Rivalry,1,17,0.058824
+2024-07/08,Diplomatic Resistance,3,17,0.176471
+2024-07/08,Defense Infrastructure,2,17,0.117647
+2024-07/08,Resource Extraction and Investment,0,17,0.000000
+2024-09/10,American Expansionism,9,22,0.409091
+2024-09/10,Great Power Rivalry,4,22,0.181818
+2024-09/10,Diplomatic Resistance,4,22,0.181818
+2024-09/10,Defense Infrastructure,3,22,0.136364
+2024-09/10,Resource Extraction and Investment,2,22,0.090909
+2024-11/12,American Expansionism,86,132,0.651515
+2024-11/12,Great Power Rivalry,8,132,0.060606
+2024-11/12,Diplomatic Resistance,18,132,0.136364
+2024-11/12,Defense Infrastructure,13,132,0.098485
+2024-11/12,Resource Extraction and Investment,7,132,0.053030
+2025-01/02,American Expansionism,270,473,0.570825
+2025-01/02,Great Power Rivalry,51,473,0.107822
+2025-01/02,Diplomatic Resistance,116,473,0.245243
+2025-01/02,Defense Infrastructure,18,473,0.038055
+2025-01/02,Resource Extraction and Investment,18,473,0.038055
+2025-03/04,American Expansionism,364,577,0.630849
+2025-03/04,Great Power Rivalry,69,577,0.119584
+2025-03/04,Diplomatic Resistance,107,577,0.185442
+2025-03/04,Defense Infrastructure,26,577,0.045061
+2025-03/04,Resource Extraction and Investment,11,577,0.019064
+2025-05/06,American Expansionism,89,180,0.494444
+2025-05/06,Great Power Rivalry,32,180,0.177778
+2025-05/06,Diplomatic Resistance,35,180,0.194444
+2025-05/06,Defense Infrastructure,18,180,0.100000
+2025-05/06,Resource Extraction and Investment,6,180,0.033333
+2025-07/08,American Expansionism,46,118,0.389831
+2025-07/08,Great Power Rivalry,12,118,0.101695
+2025-07/08,Diplomatic Resistance,34,118,0.288136
+2025-07/08,Defense Infrastructure,17,118,0.144068
+2025-07/08,Resource Extraction and Investment,9,118,0.076271
+2025-09/10,American Expansionism,31,92,0.336957
+2025-09/10,Great Power Rivalry,16,92,0.173913
+2025-09/10,Diplomatic Resistance,12,92,0.130435
+2025-09/10,Defense Infrastructure,30,92,0.326087
+2025-09/10,Resource Extraction and Investment,3,92,0.032609
+2025-11/12,American Expansionism,75,182,0.412088
+2025-11/12,Great Power Rivalry,29,182,0.159341
+2025-11/12,Diplomatic Resistance,50,182,0.274725
+2025-11/12,Defense Infrastructure,22,182,0.120879
+2025-11/12,Resource Extraction and Investment,6,182,0.032967
+2026-01/02,American Expansionism,1305,2707,0.482083
+2026-01/02,Great Power Rivalry,614,2707,0.226819
+2026-01/02,Diplomatic Resistance,517,2707,0.190986
+2026-01/02,Defense Infrastructure,169,2707,0.062431
+2026-01/02,Resource Extraction and Investment,102,2707,0.037680
+2026-03/04,American Expansionism,902,2113,0.426881
+2026-03/04,Great Power Rivalry,611,2113,0.289162
+2026-03/04,Diplomatic Resistance,228,2113,0.107903
+2026-03/04,Defense Infrastructure,265,2113,0.125414
+2026-03/04,Resource Extraction and Investment,107,2113,0.050639

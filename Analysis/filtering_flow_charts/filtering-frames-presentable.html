@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Frame assignment in the final analytical dataset</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: #fff;
+      color: #000;
+      font-family: "Times New Roman", Times, serif;
+      line-height: 1.2;
+    }
+
+    .page {
+      width: min(760px, calc(100vw - 24px));
+      margin: 12px auto;
+      padding: 16px;
+      border: 1px solid #000;
+      background: #fff;
+    }
+
+    .panel-header {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: baseline;
+      padding-bottom: 7px;
+      margin-bottom: 10px;
+      border-bottom: 1px solid #000;
+    }
+
+    .panel-title {
+      font-size: 18px;
+      font-weight: 700;
+    }
+
+    .panel-total {
+      font-size: 17px;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .frame-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 8px;
+    }
+
+    .frame {
+      min-height: 98px;
+      padding: 8px;
+      border: 1px solid #000;
+      background: #fff;
+    }
+
+    .frame-name {
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .frame-meta {
+      display: block;
+      margin-top: 8px;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section aria-label="Frame assignment">
+      <div class="panel-header">
+        <div class="panel-title">Frame assignment in the final analytical dataset</div>
+        <div class="panel-total">n = 26,379 videos</div>
+      </div>
+
+      <div class="frame-grid">
+        <div class="frame">
+          <div class="frame-name">Geopolitical and Strategic</div>
+          <span class="frame-meta">112 topics<br>7,519 videos<br>28.5%</span>
+        </div>
+        <div class="frame">
+          <div class="frame-name">Nature and Tourism</div>
+          <span class="frame-meta">119 topics<br>7,541 videos<br>28.6%</span>
+        </div>
+        <div class="frame">
+          <div class="frame-name">Knowledge and Education</div>
+          <span class="frame-meta">113 topics<br>7,028 videos<br>26.6%</span>
+        </div>
+        <div class="frame">
+          <div class="frame-name">Local Cultures and Everyday life</div>
+          <span class="frame-meta">54 topics<br>3,221 videos<br>12.2%</span>
+        </div>
+        <div class="frame">
+          <div class="frame-name">Climate change and Natural Disaster</div>
+          <span class="frame-meta">15 topics<br>1,070 videos<br>4.1%</span>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

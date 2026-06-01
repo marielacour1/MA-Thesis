@@ -1,0 +1,8 @@
+.env
+.DS_Store
+**/.venv/
+scraper_progress_*.txt
+pending_*.txt
+__pycache__/
+*.pyc
+.history/

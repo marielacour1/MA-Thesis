@@ -1,0 +1,529 @@
+date,frame,count,total_videos_in_date,prevalence
+2019-01-01,"Entertainment, memes & low-context content",41,128,0.320312
+2019-01-01,"Nature, landscape & tourism",32,128,0.250000
+2019-01-01,Geopolitics & strategic competition,22,128,0.171875
+2019-01-01,"Society, culture & everyday life",16,128,0.125000
+2019-01-01,"Knowledge, facts & educational content",14,128,0.109375
+2019-01-01,Climate change & environmental risk,3,128,0.023438
+2019-02-01,"Entertainment, memes & low-context content",42,106,0.396226
+2019-02-01,"Nature, landscape & tourism",27,106,0.254717
+2019-02-01,Geopolitics & strategic competition,19,106,0.179245
+2019-02-01,"Society, culture & everyday life",4,106,0.037736
+2019-02-01,"Knowledge, facts & educational content",9,106,0.084906
+2019-02-01,Climate change & environmental risk,5,106,0.047170
+2019-03-01,"Entertainment, memes & low-context content",26,115,0.226087
+2019-03-01,"Nature, landscape & tourism",37,115,0.321739
+2019-03-01,Geopolitics & strategic competition,10,115,0.086957
+2019-03-01,"Society, culture & everyday life",14,115,0.121739
+2019-03-01,"Knowledge, facts & educational content",26,115,0.226087
+2019-03-01,Climate change & environmental risk,2,115,0.017391
+2019-04-01,"Entertainment, memes & low-context content",19,96,0.197917
+2019-04-01,"Nature, landscape & tourism",23,96,0.239583
+2019-04-01,Geopolitics & strategic competition,25,96,0.260417
+2019-04-01,"Society, culture & everyday life",7,96,0.072917
+2019-04-01,"Knowledge, facts & educational content",20,96,0.208333
+2019-04-01,Climate change & environmental risk,2,96,0.020833
+2019-05-01,"Entertainment, memes & low-context content",22,97,0.226804
+2019-05-01,"Nature, landscape & tourism",35,97,0.360825
+2019-05-01,Geopolitics & strategic competition,24,97,0.247423
+2019-05-01,"Society, culture & everyday life",7,97,0.072165
+2019-05-01,"Knowledge, facts & educational content",8,97,0.082474
+2019-05-01,Climate change & environmental risk,1,97,0.010309
+2019-06-01,"Entertainment, memes & low-context content",49,175,0.280000
+2019-06-01,"Nature, landscape & tourism",36,175,0.205714
+2019-06-01,Geopolitics & strategic competition,46,175,0.262857
+2019-06-01,"Society, culture & everyday life",26,175,0.148571
+2019-06-01,"Knowledge, facts & educational content",14,175,0.080000
+2019-06-01,Climate change & environmental risk,4,175,0.022857
+2019-07-01,"Entertainment, memes & low-context content",21,129,0.162791
+2019-07-01,"Nature, landscape & tourism",48,129,0.372093
+2019-07-01,Geopolitics & strategic competition,23,129,0.178295
+2019-07-01,"Society, culture & everyday life",12,129,0.093023
+2019-07-01,"Knowledge, facts & educational content",23,129,0.178295
+2019-07-01,Climate change & environmental risk,2,129,0.015504
+2019-08-01,"Entertainment, memes & low-context content",47,410,0.114634
+2019-08-01,"Nature, landscape & tourism",68,410,0.165854
+2019-08-01,Geopolitics & strategic competition,60,410,0.146341
+2019-08-01,"Society, culture & everyday life",152,410,0.370732
+2019-08-01,"Knowledge, facts & educational content",11,410,0.026829
+2019-08-01,Climate change & environmental risk,72,410,0.175610
+2019-09-01,"Entertainment, memes & low-context content",32,138,0.231884
+2019-09-01,"Nature, landscape & tourism",43,138,0.311594
+2019-09-01,Geopolitics & strategic competition,20,138,0.144928
+2019-09-01,"Society, culture & everyday life",22,138,0.159420
+2019-09-01,"Knowledge, facts & educational content",17,138,0.123188
+2019-09-01,Climate change & environmental risk,4,138,0.028986
+2019-10-01,"Entertainment, memes & low-context content",39,158,0.246835
+2019-10-01,"Nature, landscape & tourism",37,158,0.234177
+2019-10-01,Geopolitics & strategic competition,42,158,0.265823
+2019-10-01,"Society, culture & everyday life",14,158,0.088608
+2019-10-01,"Knowledge, facts & educational content",24,158,0.151899
+2019-10-01,Climate change & environmental risk,2,158,0.012658
+2019-11-01,"Entertainment, memes & low-context content",39,124,0.314516
+2019-11-01,"Nature, landscape & tourism",39,124,0.314516
+2019-11-01,Geopolitics & strategic competition,26,124,0.209677
+2019-11-01,"Society, culture & everyday life",3,124,0.024194
+2019-11-01,"Knowledge, facts & educational content",14,124,0.112903
+2019-11-01,Climate change & environmental risk,3,124,0.024194
+2019-12-01,"Entertainment, memes & low-context content",20,138,0.144928
+2019-12-01,"Nature, landscape & tourism",41,138,0.297101
+2019-12-01,Geopolitics & strategic competition,38,138,0.275362
+2019-12-01,"Society, culture & everyday life",21,138,0.152174
+2019-12-01,"Knowledge, facts & educational content",15,138,0.108696
+2019-12-01,Climate change & environmental risk,3,138,0.021739
+2020-01-01,"Entertainment, memes & low-context content",33,138,0.239130
+2020-01-01,"Nature, landscape & tourism",35,138,0.253623
+2020-01-01,Geopolitics & strategic competition,24,138,0.173913
+2020-01-01,"Society, culture & everyday life",13,138,0.094203
+2020-01-01,"Knowledge, facts & educational content",30,138,0.217391
+2020-01-01,Climate change & environmental risk,3,138,0.021739
+2020-02-01,"Entertainment, memes & low-context content",37,154,0.240260
+2020-02-01,"Nature, landscape & tourism",38,154,0.246753
+2020-02-01,Geopolitics & strategic competition,36,154,0.233766
+2020-02-01,"Society, culture & everyday life",10,154,0.064935
+2020-02-01,"Knowledge, facts & educational content",28,154,0.181818
+2020-02-01,Climate change & environmental risk,5,154,0.032468
+2020-03-01,"Entertainment, memes & low-context content",36,164,0.219512
+2020-03-01,"Nature, landscape & tourism",43,164,0.262195
+2020-03-01,Geopolitics & strategic competition,39,164,0.237805
+2020-03-01,"Society, culture & everyday life",17,164,0.103659
+2020-03-01,"Knowledge, facts & educational content",26,164,0.158537
+2020-03-01,Climate change & environmental risk,3,164,0.018293
+2020-04-01,"Entertainment, memes & low-context content",49,196,0.250000
+2020-04-01,"Nature, landscape & tourism",56,196,0.285714
+2020-04-01,Geopolitics & strategic competition,52,196,0.265306
+2020-04-01,"Society, culture & everyday life",10,196,0.051020
+2020-04-01,"Knowledge, facts & educational content",27,196,0.137755
+2020-04-01,Climate change & environmental risk,2,196,0.010204
+2020-05-01,"Entertainment, memes & low-context content",45,157,0.286624
+2020-05-01,"Nature, landscape & tourism",44,157,0.280255
+2020-05-01,Geopolitics & strategic competition,32,157,0.203822
+2020-05-01,"Society, culture & everyday life",9,157,0.057325
+2020-05-01,"Knowledge, facts & educational content",24,157,0.152866
+2020-05-01,Climate change & environmental risk,3,157,0.019108
+2020-06-01,"Entertainment, memes & low-context content",28,99,0.282828
+2020-06-01,"Nature, landscape & tourism",19,99,0.191919
+2020-06-01,Geopolitics & strategic competition,27,99,0.272727
+2020-06-01,"Society, culture & everyday life",10,99,0.101010
+2020-06-01,"Knowledge, facts & educational content",13,99,0.131313
+2020-06-01,Climate change & environmental risk,2,99,0.020202
+2020-07-01,"Entertainment, memes & low-context content",33,115,0.286957
+2020-07-01,"Nature, landscape & tourism",34,115,0.295652
+2020-07-01,Geopolitics & strategic competition,22,115,0.191304
+2020-07-01,"Society, culture & everyday life",10,115,0.086957
+2020-07-01,"Knowledge, facts & educational content",11,115,0.095652
+2020-07-01,Climate change & environmental risk,5,115,0.043478
+2020-08-01,"Entertainment, memes & low-context content",26,146,0.178082
+2020-08-01,"Nature, landscape & tourism",34,146,0.232877
+2020-08-01,Geopolitics & strategic competition,30,146,0.205479
+2020-08-01,"Society, culture & everyday life",30,146,0.205479
+2020-08-01,"Knowledge, facts & educational content",24,146,0.164384
+2020-08-01,Climate change & environmental risk,2,146,0.013699
+2020-09-01,"Entertainment, memes & low-context content",18,110,0.163636
+2020-09-01,"Nature, landscape & tourism",37,110,0.336364
+2020-09-01,Geopolitics & strategic competition,24,110,0.218182
+2020-09-01,"Society, culture & everyday life",9,110,0.081818
+2020-09-01,"Knowledge, facts & educational content",18,110,0.163636
+2020-09-01,Climate change & environmental risk,4,110,0.036364
+2020-10-01,"Entertainment, memes & low-context content",26,132,0.196970
+2020-10-01,"Nature, landscape & tourism",39,132,0.295455
+2020-10-01,Geopolitics & strategic competition,28,132,0.212121
+2020-10-01,"Society, culture & everyday life",12,132,0.090909
+2020-10-01,"Knowledge, facts & educational content",23,132,0.174242
+2020-10-01,Climate change & environmental risk,4,132,0.030303
+2020-11-01,"Entertainment, memes & low-context content",37,125,0.296000
+2020-11-01,"Nature, landscape & tourism",36,125,0.288000
+2020-11-01,Geopolitics & strategic competition,25,125,0.200000
+2020-11-01,"Society, culture & everyday life",7,125,0.056000
+2020-11-01,"Knowledge, facts & educational content",17,125,0.136000
+2020-11-01,Climate change & environmental risk,3,125,0.024000
+2020-12-01,"Entertainment, memes & low-context content",37,138,0.268116
+2020-12-01,"Nature, landscape & tourism",39,138,0.282609
+2020-12-01,Geopolitics & strategic competition,33,138,0.239130
+2020-12-01,"Society, culture & everyday life",8,138,0.057971
+2020-12-01,"Knowledge, facts & educational content",19,138,0.137681
+2020-12-01,Climate change & environmental risk,2,138,0.014493
+2021-01-01,"Entertainment, memes & low-context content",40,152,0.263158
+2021-01-01,"Nature, landscape & tourism",43,152,0.282895
+2021-01-01,Geopolitics & strategic competition,36,152,0.236842
+2021-01-01,"Society, culture & everyday life",9,152,0.059211
+2021-01-01,"Knowledge, facts & educational content",21,152,0.138158
+2021-01-01,Climate change & environmental risk,3,152,0.019737
+2021-02-01,"Entertainment, memes & low-context content",45,160,0.281250
+2021-02-01,"Nature, landscape & tourism",40,160,0.250000
+2021-02-01,Geopolitics & strategic competition,35,160,0.218750
+2021-02-01,"Society, culture & everyday life",11,160,0.068750
+2021-02-01,"Knowledge, facts & educational content",23,160,0.143750
+2021-02-01,Climate change & environmental risk,6,160,0.037500
+2021-03-01,"Entertainment, memes & low-context content",49,193,0.253886
+2021-03-01,"Nature, landscape & tourism",47,193,0.243523
+2021-03-01,Geopolitics & strategic competition,46,193,0.238342
+2021-03-01,"Society, culture & everyday life",15,193,0.077720
+2021-03-01,"Knowledge, facts & educational content",27,193,0.139896
+2021-03-01,Climate change & environmental risk,9,193,0.046632
+2021-04-01,"Entertainment, memes & low-context content",49,192,0.255208
+2021-04-01,"Nature, landscape & tourism",49,192,0.255208
+2021-04-01,Geopolitics & strategic competition,32,192,0.166667
+2021-04-01,"Society, culture & everyday life",22,192,0.114583
+2021-04-01,"Knowledge, facts & educational content",34,192,0.177083
+2021-04-01,Climate change & environmental risk,6,192,0.031250
+2021-05-01,"Entertainment, memes & low-context content",55,192,0.286458
+2021-05-01,"Nature, landscape & tourism",47,192,0.244792
+2021-05-01,Geopolitics & strategic competition,51,192,0.265625
+2021-05-01,"Society, culture & everyday life",18,192,0.093750
+2021-05-01,"Knowledge, facts & educational content",20,192,0.104167
+2021-05-01,Climate change & environmental risk,1,192,0.005208
+2021-06-01,"Entertainment, memes & low-context content",34,143,0.237762
+2021-06-01,"Nature, landscape & tourism",35,143,0.244755
+2021-06-01,Geopolitics & strategic competition,38,143,0.265734
+2021-06-01,"Society, culture & everyday life",12,143,0.083916
+2021-06-01,"Knowledge, facts & educational content",22,143,0.153846
+2021-06-01,Climate change & environmental risk,2,143,0.013986
+2021-07-01,"Entertainment, memes & low-context content",57,196,0.290816
+2021-07-01,"Nature, landscape & tourism",44,196,0.224490
+2021-07-01,Geopolitics & strategic competition,42,196,0.214286
+2021-07-01,"Society, culture & everyday life",20,196,0.102041
+2021-07-01,"Knowledge, facts & educational content",27,196,0.137755
+2021-07-01,Climate change & environmental risk,6,196,0.030612
+2021-08-01,"Entertainment, memes & low-context content",53,187,0.283422
+2021-08-01,"Nature, landscape & tourism",52,187,0.278075
+2021-08-01,Geopolitics & strategic competition,36,187,0.192513
+2021-08-01,"Society, culture & everyday life",24,187,0.128342
+2021-08-01,"Knowledge, facts & educational content",16,187,0.085561
+2021-08-01,Climate change & environmental risk,6,187,0.032086
+2021-09-01,"Entertainment, memes & low-context content",62,175,0.354286
+2021-09-01,"Nature, landscape & tourism",47,175,0.268571
+2021-09-01,Geopolitics & strategic competition,31,175,0.177143
+2021-09-01,"Society, culture & everyday life",13,175,0.074286
+2021-09-01,"Knowledge, facts & educational content",15,175,0.085714
+2021-09-01,Climate change & environmental risk,7,175,0.040000
+2021-10-01,"Entertainment, memes & low-context content",58,201,0.288557
+2021-10-01,"Nature, landscape & tourism",56,201,0.278607
+2021-10-01,Geopolitics & strategic competition,34,201,0.169154
+2021-10-01,"Society, culture & everyday life",21,201,0.104478
+2021-10-01,"Knowledge, facts & educational content",23,201,0.114428
+2021-10-01,Climate change & environmental risk,9,201,0.044776
+2021-11-01,"Entertainment, memes & low-context content",56,183,0.306011
+2021-11-01,"Nature, landscape & tourism",45,183,0.245902
+2021-11-01,Geopolitics & strategic competition,45,183,0.245902
+2021-11-01,"Society, culture & everyday life",16,183,0.087432
+2021-11-01,"Knowledge, facts & educational content",14,183,0.076503
+2021-11-01,Climate change & environmental risk,7,183,0.038251
+2021-12-01,"Entertainment, memes & low-context content",68,202,0.336634
+2021-12-01,"Nature, landscape & tourism",58,202,0.287129
+2021-12-01,Geopolitics & strategic competition,42,202,0.207921
+2021-12-01,"Society, culture & everyday life",12,202,0.059406
+2021-12-01,"Knowledge, facts & educational content",14,202,0.069307
+2021-12-01,Climate change & environmental risk,8,202,0.039604
+2022-01-01,"Entertainment, memes & low-context content",55,198,0.277778
+2022-01-01,"Nature, landscape & tourism",47,198,0.237374
+2022-01-01,Geopolitics & strategic competition,43,198,0.217172
+2022-01-01,"Society, culture & everyday life",25,198,0.126263
+2022-01-01,"Knowledge, facts & educational content",18,198,0.090909
+2022-01-01,Climate change & environmental risk,10,198,0.050505
+2022-02-01,"Entertainment, memes & low-context content",55,198,0.277778
+2022-02-01,"Nature, landscape & tourism",57,198,0.287879
+2022-02-01,Geopolitics & strategic competition,41,198,0.207071
+2022-02-01,"Society, culture & everyday life",21,198,0.106061
+2022-02-01,"Knowledge, facts & educational content",20,198,0.101010
+2022-02-01,Climate change & environmental risk,4,198,0.020202
+2022-03-01,"Entertainment, memes & low-context content",82,223,0.367713
+2022-03-01,"Nature, landscape & tourism",55,223,0.246637
+2022-03-01,Geopolitics & strategic competition,35,223,0.156951
+2022-03-01,"Society, culture & everyday life",18,223,0.080717
+2022-03-01,"Knowledge, facts & educational content",25,223,0.112108
+2022-03-01,Climate change & environmental risk,8,223,0.035874
+2022-04-01,"Entertainment, memes & low-context content",49,185,0.264865
+2022-04-01,"Nature, landscape & tourism",57,185,0.308108
+2022-04-01,Geopolitics & strategic competition,40,185,0.216216
+2022-04-01,"Society, culture & everyday life",15,185,0.081081
+2022-04-01,"Knowledge, facts & educational content",20,185,0.108108
+2022-04-01,Climate change & environmental risk,4,185,0.021622
+2022-05-01,"Entertainment, memes & low-context content",69,222,0.310811
+2022-05-01,"Nature, landscape & tourism",70,222,0.315315
+2022-05-01,Geopolitics & strategic competition,39,222,0.175676
+2022-05-01,"Society, culture & everyday life",17,222,0.076577
+2022-05-01,"Knowledge, facts & educational content",23,222,0.103604
+2022-05-01,Climate change & environmental risk,4,222,0.018018
+2022-06-01,"Entertainment, memes & low-context content",60,212,0.283019
+2022-06-01,"Nature, landscape & tourism",66,212,0.311321
+2022-06-01,Geopolitics & strategic competition,36,212,0.169811
+2022-06-01,"Society, culture & everyday life",13,212,0.061321
+2022-06-01,"Knowledge, facts & educational content",22,212,0.103774
+2022-06-01,Climate change & environmental risk,15,212,0.070755
+2022-07-01,"Entertainment, memes & low-context content",61,298,0.204698
+2022-07-01,"Nature, landscape & tourism",77,298,0.258389
+2022-07-01,Geopolitics & strategic competition,46,298,0.154362
+2022-07-01,"Society, culture & everyday life",70,298,0.234899
+2022-07-01,"Knowledge, facts & educational content",35,298,0.117450
+2022-07-01,Climate change & environmental risk,9,298,0.030201
+2022-08-01,"Entertainment, memes & low-context content",71,272,0.261029
+2022-08-01,"Nature, landscape & tourism",73,272,0.268382
+2022-08-01,Geopolitics & strategic competition,43,272,0.158088
+2022-08-01,"Society, culture & everyday life",51,272,0.187500
+2022-08-01,"Knowledge, facts & educational content",25,272,0.091912
+2022-08-01,Climate change & environmental risk,9,272,0.033088
+2022-09-01,"Entertainment, memes & low-context content",54,248,0.217742
+2022-09-01,"Nature, landscape & tourism",73,248,0.294355
+2022-09-01,Geopolitics & strategic competition,55,248,0.221774
+2022-09-01,"Society, culture & everyday life",39,248,0.157258
+2022-09-01,"Knowledge, facts & educational content",19,248,0.076613
+2022-09-01,Climate change & environmental risk,8,248,0.032258
+2022-10-01,"Entertainment, memes & low-context content",68,230,0.295652
+2022-10-01,"Nature, landscape & tourism",54,230,0.234783
+2022-10-01,Geopolitics & strategic competition,60,230,0.260870
+2022-10-01,"Society, culture & everyday life",24,230,0.104348
+2022-10-01,"Knowledge, facts & educational content",16,230,0.069565
+2022-10-01,Climate change & environmental risk,8,230,0.034783
+2022-11-01,"Entertainment, memes & low-context content",79,259,0.305019
+2022-11-01,"Nature, landscape & tourism",67,259,0.258687
+2022-11-01,Geopolitics & strategic competition,51,259,0.196911
+2022-11-01,"Society, culture & everyday life",29,259,0.111969
+2022-11-01,"Knowledge, facts & educational content",27,259,0.104247
+2022-11-01,Climate change & environmental risk,6,259,0.023166
+2022-12-01,"Entertainment, memes & low-context content",89,293,0.303754
+2022-12-01,"Nature, landscape & tourism",78,293,0.266212
+2022-12-01,Geopolitics & strategic competition,56,293,0.191126
+2022-12-01,"Society, culture & everyday life",31,293,0.105802
+2022-12-01,"Knowledge, facts & educational content",30,293,0.102389
+2022-12-01,Climate change & environmental risk,9,293,0.030717
+2023-01-01,"Entertainment, memes & low-context content",80,238,0.336134
+2023-01-01,"Nature, landscape & tourism",70,238,0.294118
+2023-01-01,Geopolitics & strategic competition,59,238,0.247899
+2023-01-01,"Society, culture & everyday life",15,238,0.063025
+2023-01-01,"Knowledge, facts & educational content",9,238,0.037815
+2023-01-01,Climate change & environmental risk,5,238,0.021008
+2023-02-01,"Entertainment, memes & low-context content",71,252,0.281746
+2023-02-01,"Nature, landscape & tourism",68,252,0.269841
+2023-02-01,Geopolitics & strategic competition,63,252,0.250000
+2023-02-01,"Society, culture & everyday life",24,252,0.095238
+2023-02-01,"Knowledge, facts & educational content",17,252,0.067460
+2023-02-01,Climate change & environmental risk,9,252,0.035714
+2023-03-01,"Entertainment, memes & low-context content",96,278,0.345324
+2023-03-01,"Nature, landscape & tourism",70,278,0.251799
+2023-03-01,Geopolitics & strategic competition,66,278,0.237410
+2023-03-01,"Society, culture & everyday life",18,278,0.064748
+2023-03-01,"Knowledge, facts & educational content",22,278,0.079137
+2023-03-01,Climate change & environmental risk,6,278,0.021583
+2023-04-01,"Entertainment, memes & low-context content",90,252,0.357143
+2023-04-01,"Nature, landscape & tourism",68,252,0.269841
+2023-04-01,Geopolitics & strategic competition,50,252,0.198413
+2023-04-01,"Society, culture & everyday life",17,252,0.067460
+2023-04-01,"Knowledge, facts & educational content",19,252,0.075397
+2023-04-01,Climate change & environmental risk,8,252,0.031746
+2023-05-01,"Entertainment, memes & low-context content",99,306,0.323529
+2023-05-01,"Nature, landscape & tourism",74,306,0.241830
+2023-05-01,Geopolitics & strategic competition,81,306,0.264706
+2023-05-01,"Society, culture & everyday life",26,306,0.084967
+2023-05-01,"Knowledge, facts & educational content",12,306,0.039216
+2023-05-01,Climate change & environmental risk,14,306,0.045752
+2023-06-01,"Entertainment, memes & low-context content",80,242,0.330579
+2023-06-01,"Nature, landscape & tourism",70,242,0.289256
+2023-06-01,Geopolitics & strategic competition,57,242,0.235537
+2023-06-01,"Society, culture & everyday life",15,242,0.061983
+2023-06-01,"Knowledge, facts & educational content",16,242,0.066116
+2023-06-01,Climate change & environmental risk,4,242,0.016529
+2023-07-01,"Entertainment, memes & low-context content",80,243,0.329218
+2023-07-01,"Nature, landscape & tourism",53,243,0.218107
+2023-07-01,Geopolitics & strategic competition,65,243,0.267490
+2023-07-01,"Society, culture & everyday life",24,243,0.098765
+2023-07-01,"Knowledge, facts & educational content",15,243,0.061728
+2023-07-01,Climate change & environmental risk,6,243,0.024691
+2023-08-01,"Entertainment, memes & low-context content",77,235,0.327660
+2023-08-01,"Nature, landscape & tourism",56,235,0.238298
+2023-08-01,Geopolitics & strategic competition,51,235,0.217021
+2023-08-01,"Society, culture & everyday life",26,235,0.110638
+2023-08-01,"Knowledge, facts & educational content",13,235,0.055319
+2023-08-01,Climate change & environmental risk,12,235,0.051064
+2023-09-01,"Entertainment, memes & low-context content",105,334,0.314371
+2023-09-01,"Nature, landscape & tourism",60,334,0.179641
+2023-09-01,Geopolitics & strategic competition,92,334,0.275449
+2023-09-01,"Society, culture & everyday life",35,334,0.104790
+2023-09-01,"Knowledge, facts & educational content",35,334,0.104790
+2023-09-01,Climate change & environmental risk,7,334,0.020958
+2023-10-01,"Entertainment, memes & low-context content",137,322,0.425466
+2023-10-01,"Nature, landscape & tourism",50,322,0.155280
+2023-10-01,Geopolitics & strategic competition,88,322,0.273292
+2023-10-01,"Society, culture & everyday life",26,322,0.080745
+2023-10-01,"Knowledge, facts & educational content",19,322,0.059006
+2023-10-01,Climate change & environmental risk,2,322,0.006211
+2023-11-01,"Entertainment, memes & low-context content",88,265,0.332075
+2023-11-01,"Nature, landscape & tourism",68,265,0.256604
+2023-11-01,Geopolitics & strategic competition,70,265,0.264151
+2023-11-01,"Society, culture & everyday life",11,265,0.041509
+2023-11-01,"Knowledge, facts & educational content",23,265,0.086792
+2023-11-01,Climate change & environmental risk,5,265,0.018868
+2023-12-01,"Entertainment, memes & low-context content",55,225,0.244444
+2023-12-01,"Nature, landscape & tourism",68,225,0.302222
+2023-12-01,Geopolitics & strategic competition,59,225,0.262222
+2023-12-01,"Society, culture & everyday life",18,225,0.080000
+2023-12-01,"Knowledge, facts & educational content",18,225,0.080000
+2023-12-01,Climate change & environmental risk,7,225,0.031111
+2024-01-01,"Entertainment, memes & low-context content",95,266,0.357143
+2024-01-01,"Nature, landscape & tourism",59,266,0.221805
+2024-01-01,Geopolitics & strategic competition,57,266,0.214286
+2024-01-01,"Society, culture & everyday life",27,266,0.101504
+2024-01-01,"Knowledge, facts & educational content",19,266,0.071429
+2024-01-01,Climate change & environmental risk,9,266,0.033835
+2024-02-01,"Entertainment, memes & low-context content",79,230,0.343478
+2024-02-01,"Nature, landscape & tourism",40,230,0.173913
+2024-02-01,Geopolitics & strategic competition,62,230,0.269565
+2024-02-01,"Society, culture & everyday life",18,230,0.078261
+2024-02-01,"Knowledge, facts & educational content",20,230,0.086957
+2024-02-01,Climate change & environmental risk,11,230,0.047826
+2024-03-01,"Entertainment, memes & low-context content",76,210,0.361905
+2024-03-01,"Nature, landscape & tourism",38,210,0.180952
+2024-03-01,Geopolitics & strategic competition,55,210,0.261905
+2024-03-01,"Society, culture & everyday life",18,210,0.085714
+2024-03-01,"Knowledge, facts & educational content",16,210,0.076190
+2024-03-01,Climate change & environmental risk,7,210,0.033333
+2024-04-01,"Entertainment, memes & low-context content",71,240,0.295833
+2024-04-01,"Nature, landscape & tourism",46,240,0.191667
+2024-04-01,Geopolitics & strategic competition,81,240,0.337500
+2024-04-01,"Society, culture & everyday life",18,240,0.075000
+2024-04-01,"Knowledge, facts & educational content",12,240,0.050000
+2024-04-01,Climate change & environmental risk,12,240,0.050000
+2024-05-01,"Entertainment, memes & low-context content",92,267,0.344569
+2024-05-01,"Nature, landscape & tourism",59,267,0.220974
+2024-05-01,Geopolitics & strategic competition,75,267,0.280899
+2024-05-01,"Society, culture & everyday life",18,267,0.067416
+2024-05-01,"Knowledge, facts & educational content",20,267,0.074906
+2024-05-01,Climate change & environmental risk,3,267,0.011236
+2024-06-01,"Entertainment, memes & low-context content",77,238,0.323529
+2024-06-01,"Nature, landscape & tourism",64,238,0.268908
+2024-06-01,Geopolitics & strategic competition,46,238,0.193277
+2024-06-01,"Society, culture & everyday life",20,238,0.084034
+2024-06-01,"Knowledge, facts & educational content",21,238,0.088235
+2024-06-01,Climate change & environmental risk,10,238,0.042017
+2024-07-01,"Entertainment, memes & low-context content",86,250,0.344000
+2024-07-01,"Nature, landscape & tourism",64,250,0.256000
+2024-07-01,Geopolitics & strategic competition,50,250,0.200000
+2024-07-01,"Society, culture & everyday life",15,250,0.060000
+2024-07-01,"Knowledge, facts & educational content",26,250,0.104000
+2024-07-01,Climate change & environmental risk,9,250,0.036000
+2024-08-01,"Entertainment, memes & low-context content",107,289,0.370242
+2024-08-01,"Nature, landscape & tourism",70,289,0.242215
+2024-08-01,Geopolitics & strategic competition,59,289,0.204152
+2024-08-01,"Society, culture & everyday life",19,289,0.065744
+2024-08-01,"Knowledge, facts & educational content",23,289,0.079585
+2024-08-01,Climate change & environmental risk,11,289,0.038062
+2024-09-01,"Entertainment, memes & low-context content",96,298,0.322148
+2024-09-01,"Nature, landscape & tourism",65,298,0.218121
+2024-09-01,Geopolitics & strategic competition,61,298,0.204698
+2024-09-01,"Society, culture & everyday life",43,298,0.144295
+2024-09-01,"Knowledge, facts & educational content",23,298,0.077181
+2024-09-01,Climate change & environmental risk,10,298,0.033557
+2024-10-01,"Entertainment, memes & low-context content",95,285,0.333333
+2024-10-01,"Nature, landscape & tourism",74,285,0.259649
+2024-10-01,Geopolitics & strategic competition,53,285,0.185965
+2024-10-01,"Society, culture & everyday life",29,285,0.101754
+2024-10-01,"Knowledge, facts & educational content",24,285,0.084211
+2024-10-01,Climate change & environmental risk,10,285,0.035088
+2024-11-01,"Entertainment, memes & low-context content",70,242,0.289256
+2024-11-01,"Nature, landscape & tourism",72,242,0.297521
+2024-11-01,Geopolitics & strategic competition,43,242,0.177686
+2024-11-01,"Society, culture & everyday life",22,242,0.090909
+2024-11-01,"Knowledge, facts & educational content",25,242,0.103306
+2024-11-01,Climate change & environmental risk,10,242,0.041322
+2024-12-01,"Entertainment, memes & low-context content",60,273,0.219780
+2024-12-01,"Nature, landscape & tourism",51,273,0.186813
+2024-12-01,Geopolitics & strategic competition,63,273,0.230769
+2024-12-01,"Society, culture & everyday life",40,273,0.146520
+2024-12-01,"Knowledge, facts & educational content",43,273,0.157509
+2024-12-01,Climate change & environmental risk,16,273,0.058608
+2025-01-01,"Entertainment, memes & low-context content",89,422,0.210900
+2025-01-01,"Nature, landscape & tourism",39,422,0.092417
+2025-01-01,Geopolitics & strategic competition,88,422,0.208531
+2025-01-01,"Society, culture & everyday life",75,422,0.177725
+2025-01-01,"Knowledge, facts & educational content",58,422,0.137441
+2025-01-01,Climate change & environmental risk,73,422,0.172986
+2025-02-01,"Entertainment, memes & low-context content",52,244,0.213115
+2025-02-01,"Nature, landscape & tourism",36,244,0.147541
+2025-02-01,Geopolitics & strategic competition,65,244,0.266393
+2025-02-01,"Society, culture & everyday life",39,244,0.159836
+2025-02-01,"Knowledge, facts & educational content",20,244,0.081967
+2025-02-01,Climate change & environmental risk,32,244,0.131148
+2025-03-01,"Entertainment, memes & low-context content",228,581,0.392427
+2025-03-01,"Nature, landscape & tourism",63,581,0.108434
+2025-03-01,Geopolitics & strategic competition,167,581,0.287435
+2025-03-01,"Society, culture & everyday life",45,581,0.077453
+2025-03-01,"Knowledge, facts & educational content",40,581,0.068847
+2025-03-01,Climate change & environmental risk,38,581,0.065404
+2025-04-01,"Entertainment, memes & low-context content",89,269,0.330855
+2025-04-01,"Nature, landscape & tourism",35,269,0.130112
+2025-04-01,Geopolitics & strategic competition,63,269,0.234201
+2025-04-01,"Society, culture & everyday life",28,269,0.104089
+2025-04-01,"Knowledge, facts & educational content",28,269,0.104089
+2025-04-01,Climate change & environmental risk,26,269,0.096654
+2025-05-01,"Entertainment, memes & low-context content",116,330,0.351515
+2025-05-01,"Nature, landscape & tourism",49,330,0.148485
+2025-05-01,Geopolitics & strategic competition,86,330,0.260606
+2025-05-01,"Society, culture & everyday life",28,330,0.084848
+2025-05-01,"Knowledge, facts & educational content",29,330,0.087879
+2025-05-01,Climate change & environmental risk,22,330,0.066667
+2025-06-01,"Entertainment, memes & low-context content",111,309,0.359223
+2025-06-01,"Nature, landscape & tourism",51,309,0.165049
+2025-06-01,Geopolitics & strategic competition,77,309,0.249191
+2025-06-01,"Society, culture & everyday life",25,309,0.080906
+2025-06-01,"Knowledge, facts & educational content",30,309,0.097087
+2025-06-01,Climate change & environmental risk,15,309,0.048544
+2025-07-01,"Entertainment, memes & low-context content",60,251,0.239044
+2025-07-01,"Nature, landscape & tourism",71,251,0.282869
+2025-07-01,Geopolitics & strategic competition,57,251,0.227092
+2025-07-01,"Society, culture & everyday life",27,251,0.107570
+2025-07-01,"Knowledge, facts & educational content",30,251,0.119522
+2025-07-01,Climate change & environmental risk,6,251,0.023904
+2025-08-01,"Entertainment, memes & low-context content",90,323,0.278638
+2025-08-01,"Nature, landscape & tourism",86,323,0.266254
+2025-08-01,Geopolitics & strategic competition,74,323,0.229102
+2025-08-01,"Society, culture & everyday life",34,323,0.105263
+2025-08-01,"Knowledge, facts & educational content",27,323,0.083591
+2025-08-01,Climate change & environmental risk,12,323,0.037152
+2025-09-01,"Entertainment, memes & low-context content",59,239,0.246862
+2025-09-01,"Nature, landscape & tourism",55,239,0.230126
+2025-09-01,Geopolitics & strategic competition,52,239,0.217573
+2025-09-01,"Society, culture & everyday life",18,239,0.075314
+2025-09-01,"Knowledge, facts & educational content",36,239,0.150628
+2025-09-01,Climate change & environmental risk,19,239,0.079498
+2025-10-01,"Entertainment, memes & low-context content",73,227,0.321586
+2025-10-01,"Nature, landscape & tourism",41,227,0.180617
+2025-10-01,Geopolitics & strategic competition,48,227,0.211454
+2025-10-01,"Society, culture & everyday life",17,227,0.074890
+2025-10-01,"Knowledge, facts & educational content",37,227,0.162996
+2025-10-01,Climate change & environmental risk,11,227,0.048458
+2025-11-01,"Entertainment, memes & low-context content",71,242,0.293388
+2025-11-01,"Nature, landscape & tourism",52,242,0.214876
+2025-11-01,Geopolitics & strategic competition,39,242,0.161157
+2025-11-01,"Society, culture & everyday life",37,242,0.152893
+2025-11-01,"Knowledge, facts & educational content",34,242,0.140496
+2025-11-01,Climate change & environmental risk,9,242,0.037190
+2025-12-01,"Entertainment, memes & low-context content",77,270,0.285185
+2025-12-01,"Nature, landscape & tourism",87,270,0.322222
+2025-12-01,Geopolitics & strategic competition,45,270,0.166667
+2025-12-01,"Society, culture & everyday life",23,270,0.085185
+2025-12-01,"Knowledge, facts & educational content",19,270,0.070370
+2025-12-01,Climate change & environmental risk,19,270,0.070370
+2026-01-01,"Entertainment, memes & low-context content",454,1389,0.326854
+2026-01-01,"Nature, landscape & tourism",180,1389,0.129590
+2026-01-01,Geopolitics & strategic competition,371,1389,0.267099
+2026-01-01,"Society, culture & everyday life",135,1389,0.097192
+2026-01-01,"Knowledge, facts & educational content",84,1389,0.060475
+2026-01-01,Climate change & environmental risk,165,1389,0.118790
+2026-02-01,"Entertainment, memes & low-context content",629,2090,0.300957
+2026-02-01,"Nature, landscape & tourism",337,2090,0.161244
+2026-02-01,Geopolitics & strategic competition,518,2090,0.247847
+2026-02-01,"Society, culture & everyday life",189,2090,0.090431
+2026-02-01,"Knowledge, facts & educational content",233,2090,0.111483
+2026-02-01,Climate change & environmental risk,184,2090,0.088038
+2026-03-01,"Entertainment, memes & low-context content",767,2616,0.293196
+2026-03-01,"Nature, landscape & tourism",553,2616,0.211391
+2026-03-01,Geopolitics & strategic competition,564,2616,0.215596
+2026-03-01,"Society, culture & everyday life",254,2616,0.097095
+2026-03-01,"Knowledge, facts & educational content",266,2616,0.101682
+2026-03-01,Climate change & environmental risk,212,2616,0.081040
+2026-04-01,"Entertainment, memes & low-context content",398,1517,0.262360
+2026-04-01,"Nature, landscape & tourism",466,1517,0.307185
+2026-04-01,Geopolitics & strategic competition,325,1517,0.214239
+2026-04-01,"Society, culture & everyday life",136,1517,0.089651
+2026-04-01,"Knowledge, facts & educational content",139,1517,0.091628
+2026-04-01,Climate change & environmental risk,53,1517,0.034937

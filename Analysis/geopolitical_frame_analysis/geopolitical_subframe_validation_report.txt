@@ -1,0 +1,29 @@
+Geopolitical Subframe Validation Report
+======================================
+
+Input dataset: C:\Users\marie\Desktop\MA-Thesis\Datasets\gl-cl-w-topics-FINAL.csv
+Geopolitical frame rows: 7,519
+Distinct geopolitical topics in dataset: 112
+
+Subframe breakdown
+------------------
+American Expansionism: 3,510 videos (46.7%)
+Great Power Rivalry: 1,569 videos (20.9%)
+Diplomatic Resistance: 1,288 videos (17.1%)
+Defense Infrastructure: 660 videos (8.8%)
+Resource Extraction and Investment: 473 videos (6.3%)
+Unassigned geopolitical subframe: 19 videos (0.3%)
+
+Instruction topics not found among geopolitical-frame rows
+---------------------------------------------------------
+None
+
+Geopolitical-frame topics not assigned to a subframe
+---------------------------------------------------
+449
+
+Outputs
+-------
+Subset with subframes: C:\Users\marie\Desktop\MA-Thesis\Analysis\geopolitical_frame_analysis\geopolitical_frame_videos_with_subframes.csv
+Subframe breakdown: C:\Users\marie\Desktop\MA-Thesis\Analysis\geopolitical_frame_analysis\geopolitical_subframe_breakdown.csv
+Topic breakdown: C:\Users\marie\Desktop\MA-Thesis\Analysis\geopolitical_frame_analysis\geopolitical_topic_subframe_breakdown.csv

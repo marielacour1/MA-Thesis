@@ -1,0 +1,441 @@
+period,frame,count,total_videos_in_period,prevalence
+2019-01,Nature/Tourism,67,132,0.507576
+2019-01,Geopolitics,3,132,0.022727
+2019-01,Knowledge/Facts,13,132,0.098485
+2019-01,Indigenous Life,27,132,0.204545
+2019-01,Climate Change,22,132,0.166667
+2019-02,Nature/Tourism,65,110,0.590909
+2019-02,Geopolitics,2,110,0.018182
+2019-02,Knowledge/Facts,23,110,0.209091
+2019-02,Indigenous Life,13,110,0.118182
+2019-02,Climate Change,7,110,0.063636
+2019-03,Nature/Tourism,43,113,0.380531
+2019-03,Geopolitics,16,113,0.141593
+2019-03,Knowledge/Facts,8,113,0.070796
+2019-03,Indigenous Life,20,113,0.176991
+2019-03,Climate Change,26,113,0.230088
+2019-04,Nature/Tourism,45,88,0.511364
+2019-04,Geopolitics,8,88,0.090909
+2019-04,Knowledge/Facts,6,88,0.068182
+2019-04,Indigenous Life,21,88,0.238636
+2019-04,Climate Change,8,88,0.090909
+2019-05,Nature/Tourism,46,89,0.516854
+2019-05,Geopolitics,4,89,0.044944
+2019-05,Knowledge/Facts,12,89,0.134831
+2019-05,Indigenous Life,22,89,0.247191
+2019-05,Climate Change,5,89,0.056180
+2019-06,Nature/Tourism,58,197,0.294416
+2019-06,Geopolitics,20,197,0.101523
+2019-06,Knowledge/Facts,38,197,0.192893
+2019-06,Indigenous Life,44,197,0.223350
+2019-06,Climate Change,37,197,0.187817
+2019-07,Nature/Tourism,56,127,0.440945
+2019-07,Geopolitics,1,127,0.007874
+2019-07,Knowledge/Facts,13,127,0.102362
+2019-07,Indigenous Life,44,127,0.346457
+2019-07,Climate Change,13,127,0.102362
+2019-08,Nature/Tourism,87,441,0.197279
+2019-08,Geopolitics,244,441,0.553288
+2019-08,Knowledge/Facts,13,441,0.029478
+2019-08,Indigenous Life,23,441,0.052154
+2019-08,Climate Change,74,441,0.167800
+2019-09,Nature/Tourism,72,148,0.486486
+2019-09,Geopolitics,14,148,0.094595
+2019-09,Knowledge/Facts,16,148,0.108108
+2019-09,Indigenous Life,22,148,0.148649
+2019-09,Climate Change,24,148,0.162162
+2019-10,Nature/Tourism,69,156,0.442308
+2019-10,Geopolitics,12,156,0.076923
+2019-10,Knowledge/Facts,23,156,0.147436
+2019-10,Indigenous Life,44,156,0.282051
+2019-10,Climate Change,8,156,0.051282
+2019-11,Nature/Tourism,62,120,0.516667
+2019-11,Geopolitics,9,120,0.075000
+2019-11,Knowledge/Facts,22,120,0.183333
+2019-11,Indigenous Life,22,120,0.183333
+2019-11,Climate Change,5,120,0.041667
+2019-12,Nature/Tourism,59,142,0.415493
+2019-12,Geopolitics,9,142,0.063380
+2019-12,Knowledge/Facts,23,142,0.161972
+2019-12,Indigenous Life,28,142,0.197183
+2019-12,Climate Change,23,142,0.161972
+2020-01,Nature/Tourism,71,139,0.510791
+2020-01,Geopolitics,9,139,0.064748
+2020-01,Knowledge/Facts,20,139,0.143885
+2020-01,Indigenous Life,27,139,0.194245
+2020-01,Climate Change,12,139,0.086331
+2020-02,Nature/Tourism,56,124,0.451613
+2020-02,Geopolitics,18,124,0.145161
+2020-02,Knowledge/Facts,16,124,0.129032
+2020-02,Indigenous Life,27,124,0.217742
+2020-02,Climate Change,7,124,0.056452
+2020-03,Nature/Tourism,62,164,0.378049
+2020-03,Geopolitics,16,164,0.097561
+2020-03,Knowledge/Facts,32,164,0.195122
+2020-03,Indigenous Life,35,164,0.213415
+2020-03,Climate Change,19,164,0.115854
+2020-04,Nature/Tourism,80,181,0.441989
+2020-04,Geopolitics,20,181,0.110497
+2020-04,Knowledge/Facts,37,181,0.204420
+2020-04,Indigenous Life,33,181,0.182320
+2020-04,Climate Change,11,181,0.060773
+2020-05,Nature/Tourism,80,152,0.526316
+2020-05,Geopolitics,6,152,0.039474
+2020-05,Knowledge/Facts,34,152,0.223684
+2020-05,Indigenous Life,22,152,0.144737
+2020-05,Climate Change,10,152,0.065789
+2020-06,Nature/Tourism,45,102,0.441176
+2020-06,Geopolitics,4,102,0.039216
+2020-06,Knowledge/Facts,33,102,0.323529
+2020-06,Indigenous Life,16,102,0.156863
+2020-06,Climate Change,4,102,0.039216
+2020-07,Nature/Tourism,54,123,0.439024
+2020-07,Geopolitics,8,123,0.065041
+2020-07,Knowledge/Facts,38,123,0.308943
+2020-07,Indigenous Life,19,123,0.154472
+2020-07,Climate Change,4,123,0.032520
+2020-08,Nature/Tourism,59,167,0.353293
+2020-08,Geopolitics,16,167,0.095808
+2020-08,Knowledge/Facts,27,167,0.161677
+2020-08,Indigenous Life,22,167,0.131737
+2020-08,Climate Change,43,167,0.257485
+2020-09,Nature/Tourism,41,122,0.336066
+2020-09,Geopolitics,3,122,0.024590
+2020-09,Knowledge/Facts,38,122,0.311475
+2020-09,Indigenous Life,26,122,0.213115
+2020-09,Climate Change,14,122,0.114754
+2020-10,Nature/Tourism,66,142,0.464789
+2020-10,Geopolitics,8,142,0.056338
+2020-10,Knowledge/Facts,28,142,0.197183
+2020-10,Indigenous Life,26,142,0.183099
+2020-10,Climate Change,14,142,0.098592
+2020-11,Nature/Tourism,66,130,0.507692
+2020-11,Geopolitics,8,130,0.061538
+2020-11,Knowledge/Facts,30,130,0.230769
+2020-11,Indigenous Life,19,130,0.146154
+2020-11,Climate Change,7,130,0.053846
+2020-12,Nature/Tourism,49,125,0.392000
+2020-12,Geopolitics,9,125,0.072000
+2020-12,Knowledge/Facts,22,125,0.176000
+2020-12,Indigenous Life,37,125,0.296000
+2020-12,Climate Change,8,125,0.064000
+2021-01,Nature/Tourism,69,148,0.466216
+2021-01,Geopolitics,5,148,0.033784
+2021-01,Knowledge/Facts,24,148,0.162162
+2021-01,Indigenous Life,44,148,0.297297
+2021-01,Climate Change,6,148,0.040541
+2021-02,Nature/Tourism,62,140,0.442857
+2021-02,Geopolitics,14,140,0.100000
+2021-02,Knowledge/Facts,22,140,0.157143
+2021-02,Indigenous Life,34,140,0.242857
+2021-02,Climate Change,8,140,0.057143
+2021-03,Nature/Tourism,64,175,0.365714
+2021-03,Geopolitics,14,175,0.080000
+2021-03,Knowledge/Facts,39,175,0.222857
+2021-03,Indigenous Life,40,175,0.228571
+2021-03,Climate Change,18,175,0.102857
+2021-04,Nature/Tourism,59,177,0.333333
+2021-04,Geopolitics,29,177,0.163842
+2021-04,Knowledge/Facts,36,177,0.203390
+2021-04,Indigenous Life,33,177,0.186441
+2021-04,Climate Change,20,177,0.112994
+2021-05,Nature/Tourism,82,172,0.476744
+2021-05,Geopolitics,7,172,0.040698
+2021-05,Knowledge/Facts,41,172,0.238372
+2021-05,Indigenous Life,26,172,0.151163
+2021-05,Climate Change,16,172,0.093023
+2021-06,Nature/Tourism,68,146,0.465753
+2021-06,Geopolitics,10,146,0.068493
+2021-06,Knowledge/Facts,35,146,0.239726
+2021-06,Indigenous Life,30,146,0.205479
+2021-06,Climate Change,3,146,0.020548
+2021-07,Nature/Tourism,76,183,0.415301
+2021-07,Geopolitics,8,183,0.043716
+2021-07,Knowledge/Facts,44,183,0.240437
+2021-07,Indigenous Life,36,183,0.196721
+2021-07,Climate Change,19,183,0.103825
+2021-08,Nature/Tourism,68,215,0.316279
+2021-08,Geopolitics,8,215,0.037209
+2021-08,Knowledge/Facts,53,215,0.246512
+2021-08,Indigenous Life,40,215,0.186047
+2021-08,Climate Change,46,215,0.213953
+2021-09,Nature/Tourism,76,175,0.434286
+2021-09,Geopolitics,6,175,0.034286
+2021-09,Knowledge/Facts,50,175,0.285714
+2021-09,Indigenous Life,27,175,0.154286
+2021-09,Climate Change,16,175,0.091429
+2021-10,Nature/Tourism,74,193,0.383420
+2021-10,Geopolitics,18,193,0.093264
+2021-10,Knowledge/Facts,44,193,0.227979
+2021-10,Indigenous Life,45,193,0.233161
+2021-10,Climate Change,12,193,0.062176
+2021-11,Nature/Tourism,69,183,0.377049
+2021-11,Geopolitics,11,183,0.060109
+2021-11,Knowledge/Facts,44,183,0.240437
+2021-11,Indigenous Life,40,183,0.218579
+2021-11,Climate Change,19,183,0.103825
+2021-12,Nature/Tourism,89,195,0.456410
+2021-12,Geopolitics,5,195,0.025641
+2021-12,Knowledge/Facts,48,195,0.246154
+2021-12,Indigenous Life,44,195,0.225641
+2021-12,Climate Change,9,195,0.046154
+2022-01,Nature/Tourism,77,192,0.401042
+2022-01,Geopolitics,11,192,0.057292
+2022-01,Knowledge/Facts,59,192,0.307292
+2022-01,Indigenous Life,28,192,0.145833
+2022-01,Climate Change,17,192,0.088542
+2022-02,Nature/Tourism,79,183,0.431694
+2022-02,Geopolitics,4,183,0.021858
+2022-02,Knowledge/Facts,53,183,0.289617
+2022-02,Indigenous Life,35,183,0.191257
+2022-02,Climate Change,12,183,0.065574
+2022-03,Nature/Tourism,90,220,0.409091
+2022-03,Geopolitics,7,220,0.031818
+2022-03,Knowledge/Facts,66,220,0.300000
+2022-03,Indigenous Life,49,220,0.222727
+2022-03,Climate Change,8,220,0.036364
+2022-04,Nature/Tourism,68,165,0.412121
+2022-04,Geopolitics,5,165,0.030303
+2022-04,Knowledge/Facts,54,165,0.327273
+2022-04,Indigenous Life,34,165,0.206061
+2022-04,Climate Change,4,165,0.024242
+2022-05,Nature/Tourism,90,187,0.481283
+2022-05,Geopolitics,8,187,0.042781
+2022-05,Knowledge/Facts,48,187,0.256684
+2022-05,Indigenous Life,30,187,0.160428
+2022-05,Climate Change,11,187,0.058824
+2022-06,Nature/Tourism,66,204,0.323529
+2022-06,Geopolitics,9,204,0.044118
+2022-06,Knowledge/Facts,93,204,0.455882
+2022-06,Indigenous Life,32,204,0.156863
+2022-06,Climate Change,4,204,0.019608
+2022-07,Nature/Tourism,77,289,0.266436
+2022-07,Geopolitics,6,289,0.020761
+2022-07,Knowledge/Facts,141,289,0.487889
+2022-07,Indigenous Life,53,289,0.183391
+2022-07,Climate Change,12,289,0.041522
+2022-08,Nature/Tourism,95,265,0.358491
+2022-08,Geopolitics,13,265,0.049057
+2022-08,Knowledge/Facts,110,265,0.415094
+2022-08,Indigenous Life,36,265,0.135849
+2022-08,Climate Change,11,265,0.041509
+2022-09,Nature/Tourism,92,243,0.378601
+2022-09,Geopolitics,12,243,0.049383
+2022-09,Knowledge/Facts,76,243,0.312757
+2022-09,Indigenous Life,51,243,0.209877
+2022-09,Climate Change,12,243,0.049383
+2022-10,Nature/Tourism,105,248,0.423387
+2022-10,Geopolitics,6,248,0.024194
+2022-10,Knowledge/Facts,89,248,0.358871
+2022-10,Indigenous Life,42,248,0.169355
+2022-10,Climate Change,6,248,0.024194
+2022-11,Nature/Tourism,93,258,0.360465
+2022-11,Geopolitics,10,258,0.038760
+2022-11,Knowledge/Facts,115,258,0.445736
+2022-11,Indigenous Life,31,258,0.120155
+2022-11,Climate Change,9,258,0.034884
+2022-12,Nature/Tourism,85,273,0.311355
+2022-12,Geopolitics,12,273,0.043956
+2022-12,Knowledge/Facts,122,273,0.446886
+2022-12,Indigenous Life,46,273,0.168498
+2022-12,Climate Change,8,273,0.029304
+2023-01,Nature/Tourism,67,235,0.285106
+2023-01,Geopolitics,8,235,0.034043
+2023-01,Knowledge/Facts,101,235,0.429787
+2023-01,Indigenous Life,55,235,0.234043
+2023-01,Climate Change,4,235,0.017021
+2023-02,Nature/Tourism,88,239,0.368201
+2023-02,Geopolitics,15,239,0.062762
+2023-02,Knowledge/Facts,104,239,0.435146
+2023-02,Indigenous Life,28,239,0.117155
+2023-02,Climate Change,4,239,0.016736
+2023-03,Nature/Tourism,105,266,0.394737
+2023-03,Geopolitics,5,266,0.018797
+2023-03,Knowledge/Facts,110,266,0.413534
+2023-03,Indigenous Life,37,266,0.139098
+2023-03,Climate Change,9,266,0.033835
+2023-04,Nature/Tourism,95,250,0.380000
+2023-04,Geopolitics,17,250,0.068000
+2023-04,Knowledge/Facts,88,250,0.352000
+2023-04,Indigenous Life,39,250,0.156000
+2023-04,Climate Change,11,250,0.044000
+2023-05,Nature/Tourism,103,302,0.341060
+2023-05,Geopolitics,8,302,0.026490
+2023-05,Knowledge/Facts,133,302,0.440397
+2023-05,Indigenous Life,52,302,0.172185
+2023-05,Climate Change,6,302,0.019868
+2023-06,Nature/Tourism,95,246,0.386179
+2023-06,Geopolitics,11,246,0.044715
+2023-06,Knowledge/Facts,93,246,0.378049
+2023-06,Indigenous Life,43,246,0.174797
+2023-06,Climate Change,4,246,0.016260
+2023-07,Nature/Tourism,88,206,0.427184
+2023-07,Geopolitics,8,206,0.038835
+2023-07,Knowledge/Facts,70,206,0.339806
+2023-07,Indigenous Life,29,206,0.140777
+2023-07,Climate Change,11,206,0.053398
+2023-08,Nature/Tourism,84,190,0.442105
+2023-08,Geopolitics,6,190,0.031579
+2023-08,Knowledge/Facts,60,190,0.315789
+2023-08,Indigenous Life,37,190,0.194737
+2023-08,Climate Change,3,190,0.015789
+2023-09,Nature/Tourism,120,330,0.363636
+2023-09,Geopolitics,8,330,0.024242
+2023-09,Knowledge/Facts,129,330,0.390909
+2023-09,Indigenous Life,66,330,0.200000
+2023-09,Climate Change,7,330,0.021212
+2023-10,Nature/Tourism,96,304,0.315789
+2023-10,Geopolitics,12,304,0.039474
+2023-10,Knowledge/Facts,144,304,0.473684
+2023-10,Indigenous Life,43,304,0.141447
+2023-10,Climate Change,9,304,0.029605
+2023-11,Nature/Tourism,112,261,0.429119
+2023-11,Geopolitics,9,261,0.034483
+2023-11,Knowledge/Facts,109,261,0.417625
+2023-11,Indigenous Life,23,261,0.088123
+2023-11,Climate Change,8,261,0.030651
+2023-12,Nature/Tourism,106,240,0.441667
+2023-12,Geopolitics,9,240,0.037500
+2023-12,Knowledge/Facts,88,240,0.366667
+2023-12,Indigenous Life,30,240,0.125000
+2023-12,Climate Change,7,240,0.029167
+2024-01,Nature/Tourism,110,264,0.416667
+2024-01,Geopolitics,11,264,0.041667
+2024-01,Knowledge/Facts,100,264,0.378788
+2024-01,Indigenous Life,31,264,0.117424
+2024-01,Climate Change,12,264,0.045455
+2024-02,Nature/Tourism,72,225,0.320000
+2024-02,Geopolitics,4,225,0.017778
+2024-02,Knowledge/Facts,106,225,0.471111
+2024-02,Indigenous Life,38,225,0.168889
+2024-02,Climate Change,5,225,0.022222
+2024-03,Nature/Tourism,58,214,0.271028
+2024-03,Geopolitics,19,214,0.088785
+2024-03,Knowledge/Facts,93,214,0.434579
+2024-03,Indigenous Life,38,214,0.177570
+2024-03,Climate Change,6,214,0.028037
+2024-04,Nature/Tourism,94,246,0.382114
+2024-04,Geopolitics,16,246,0.065041
+2024-04,Knowledge/Facts,102,246,0.414634
+2024-04,Indigenous Life,28,246,0.113821
+2024-04,Climate Change,6,246,0.024390
+2024-05,Nature/Tourism,114,276,0.413043
+2024-05,Geopolitics,9,276,0.032609
+2024-05,Knowledge/Facts,115,276,0.416667
+2024-05,Indigenous Life,35,276,0.126812
+2024-05,Climate Change,3,276,0.010870
+2024-06,Nature/Tourism,103,247,0.417004
+2024-06,Geopolitics,9,247,0.036437
+2024-06,Knowledge/Facts,101,247,0.408907
+2024-06,Indigenous Life,32,247,0.129555
+2024-06,Climate Change,2,247,0.008097
+2024-07,Nature/Tourism,133,250,0.532000
+2024-07,Geopolitics,10,250,0.040000
+2024-07,Knowledge/Facts,80,250,0.320000
+2024-07,Indigenous Life,24,250,0.096000
+2024-07,Climate Change,3,250,0.012000
+2024-08,Nature/Tourism,130,288,0.451389
+2024-08,Geopolitics,7,288,0.024306
+2024-08,Knowledge/Facts,108,288,0.375000
+2024-08,Indigenous Life,36,288,0.125000
+2024-08,Climate Change,7,288,0.024306
+2024-09,Nature/Tourism,141,302,0.466887
+2024-09,Geopolitics,11,302,0.036424
+2024-09,Knowledge/Facts,90,302,0.298013
+2024-09,Indigenous Life,32,302,0.105960
+2024-09,Climate Change,28,302,0.092715
+2024-10,Nature/Tourism,109,272,0.400735
+2024-10,Geopolitics,11,272,0.040441
+2024-10,Knowledge/Facts,96,272,0.352941
+2024-10,Indigenous Life,46,272,0.169118
+2024-10,Climate Change,10,272,0.036765
+2024-11,Nature/Tourism,95,233,0.407725
+2024-11,Geopolitics,19,233,0.081545
+2024-11,Knowledge/Facts,85,233,0.364807
+2024-11,Indigenous Life,29,233,0.124464
+2024-11,Climate Change,5,233,0.021459
+2024-12,Nature/Tourism,72,287,0.250871
+2024-12,Geopolitics,113,287,0.393728
+2024-12,Knowledge/Facts,74,287,0.257840
+2024-12,Indigenous Life,23,287,0.080139
+2024-12,Climate Change,5,287,0.017422
+2025-01,Nature/Tourism,32,465,0.068817
+2025-01,Geopolitics,343,465,0.737634
+2025-01,Knowledge/Facts,73,465,0.156989
+2025-01,Indigenous Life,15,465,0.032258
+2025-01,Climate Change,2,465,0.004301
+2025-02,Nature/Tourism,38,262,0.145038
+2025-02,Geopolitics,134,262,0.511450
+2025-02,Knowledge/Facts,72,262,0.274809
+2025-02,Indigenous Life,15,262,0.057252
+2025-02,Climate Change,3,262,0.011450
+2025-03,Nature/Tourism,45,621,0.072464
+2025-03,Geopolitics,455,621,0.732689
+2025-03,Knowledge/Facts,82,621,0.132045
+2025-03,Indigenous Life,35,621,0.056361
+2025-03,Climate Change,4,621,0.006441
+2025-04,Nature/Tourism,46,281,0.163701
+2025-04,Geopolitics,122,281,0.434164
+2025-04,Knowledge/Facts,93,281,0.330961
+2025-04,Indigenous Life,18,281,0.064057
+2025-04,Climate Change,2,281,0.007117
+2025-05,Nature/Tourism,70,341,0.205279
+2025-05,Geopolitics,114,341,0.334311
+2025-05,Knowledge/Facts,128,341,0.375367
+2025-05,Indigenous Life,25,341,0.073314
+2025-05,Climate Change,4,341,0.011730
+2025-06,Nature/Tourism,80,297,0.269360
+2025-06,Geopolitics,68,297,0.228956
+2025-06,Knowledge/Facts,103,297,0.346801
+2025-06,Indigenous Life,37,297,0.124579
+2025-06,Climate Change,9,297,0.030303
+2025-07,Nature/Tourism,100,272,0.367647
+2025-07,Geopolitics,39,272,0.143382
+2025-07,Knowledge/Facts,89,272,0.327206
+2025-07,Indigenous Life,36,272,0.132353
+2025-07,Climate Change,8,272,0.029412
+2025-08,Nature/Tourism,121,325,0.372308
+2025-08,Geopolitics,79,325,0.243077
+2025-08,Knowledge/Facts,84,325,0.258462
+2025-08,Indigenous Life,30,325,0.092308
+2025-08,Climate Change,11,325,0.033846
+2025-09,Nature/Tourism,88,273,0.322344
+2025-09,Geopolitics,51,273,0.186813
+2025-09,Knowledge/Facts,79,273,0.289377
+2025-09,Indigenous Life,49,273,0.179487
+2025-09,Climate Change,6,273,0.021978
+2025-10,Nature/Tourism,83,250,0.332000
+2025-10,Geopolitics,41,250,0.164000
+2025-10,Knowledge/Facts,99,250,0.396000
+2025-10,Indigenous Life,24,250,0.096000
+2025-10,Climate Change,3,250,0.012000
+2025-11,Nature/Tourism,80,257,0.311284
+2025-11,Geopolitics,39,257,0.151751
+2025-11,Knowledge/Facts,96,257,0.373541
+2025-11,Indigenous Life,33,257,0.128405
+2025-11,Climate Change,9,257,0.035019
+2025-12,Nature/Tourism,39,290,0.134483
+2025-12,Geopolitics,143,290,0.493103
+2025-12,Knowledge/Facts,78,290,0.268966
+2025-12,Indigenous Life,28,290,0.096552
+2025-12,Climate Change,2,290,0.006897
+2026-01,Nature/Tourism,67,1491,0.044936
+2026-01,Geopolitics,1213,1491,0.813548
+2026-01,Knowledge/Facts,156,1491,0.104628
+2026-01,Indigenous Life,50,1491,0.033535
+2026-01,Climate Change,5,1491,0.003353
+2026-02,Nature/Tourism,249,2249,0.110716
+2026-02,Geopolitics,1497,2249,0.665629
+2026-02,Knowledge/Facts,382,2249,0.169853
+2026-02,Indigenous Life,91,2249,0.040462
+2026-02,Climate Change,30,2249,0.013339
+2026-03,Nature/Tourism,418,2680,0.155970
+2026-03,Geopolitics,1403,2680,0.523507
+2026-03,Knowledge/Facts,609,2680,0.227239
+2026-03,Indigenous Life,197,2680,0.073507
+2026-03,Climate Change,53,2680,0.019776
+2026-04,Nature/Tourism,264,1489,0.177300
+2026-04,Geopolitics,718,1489,0.482203
+2026-04,Knowledge/Facts,355,1489,0.238415
+2026-04,Indigenous Life,119,1489,0.079919
+2026-04,Climate Change,33,1489,0.022163

@@ -1,0 +1,1236 @@
+{
+  "csv": "C:\\Users\\marie\\Desktop\\Thesis tests\\MA-Thesis\\youtube_scraper\\news_channels_analysis\\youtube-greenland-cleaned-news-channels-only.csv",
+  "title_column": "video_title",
+  "description_column": "video_description",
+  "text_mode": "title_description",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "k_values": [
+    8,
+    10,
+    12,
+    14
+  ],
+  "results": [
+    {
+      "k": 8,
+      "silhouette": 0.06489329785108566,
+      "topic_count": 8,
+      "noise_count": 0,
+      "topic_sizes": {
+        "0": 183,
+        "1": 158,
+        "2": 141,
+        "3": 124,
+        "4": 102,
+        "5": 90,
+        "6": 86,
+        "7": 78
+      },
+      "top_words": {
+        "0": [
+          "denmark",
+          "nato",
+          "arctic",
+          "us",
+          "trump",
+          "military",
+          "india",
+          "danish",
+          "has",
+          "president"
+        ],
+        "1": [
+          "trump",
+          "us",
+          "russia",
+          "nato",
+          "arctic",
+          "donald",
+          "president",
+          "military",
+          "has",
+          "new"
+        ],
+        "2": [
+          "denmark",
+          "trump",
+          "danish",
+          "president",
+          "us",
+          "donald",
+          "prime",
+          "minister",
+          "frederiksen",
+          "trumps"
+        ],
+        "3": [
+          "ice",
+          "melting",
+          "sheet",
+          "climate",
+          "scientists",
+          "change",
+          "melt",
+          "sea",
+          "glaciers",
+          "glacier"
+        ],
+        "4": [
+          "trump",
+          "deal",
+          "tariffs",
+          "european",
+          "president",
+          "davos",
+          "he",
+          "framework",
+          "donald",
+          "nato"
+        ],
+        "5": [
+          "trump",
+          "us",
+          "president",
+          "donald",
+          "he",
+          "island",
+          "buy",
+          "aptn",
+          "denmark",
+          "territory"
+        ],
+        "6": [
+          "canada",
+          "consulate",
+          "arctic",
+          "nuuk",
+          "canadian",
+          "their",
+          "inuit",
+          "consulates",
+          "open",
+          "new"
+        ],
+        "7": [
+          "television",
+          "survey",
+          "keys",
+          "trusted",
+          "network",
+          "trump",
+          "found",
+          "source",
+          "engagement",
+          "vance"
+        ]
+      },
+      "topic_examples": {
+        "0": [
+          "Denmark To Cede Greenland To Trump? \u2018Angers\u2019 Putin & Xi, Backs Permanent NATO Presence In Arctic (1 video)",
+          "'Mind Your Own Business!': Trump RAGES As Greenland PM Picks Denmark Over US | 'NATO Ineffective...' (1 video)",
+          "Denmark, Greenland \u201cIn Serious Situation\u2019, Frederiksen Says as Troops Train Under \u2018Arctic Endurance\u2019 (1 video)",
+          "Denmark TRICKS Trump Over Greenland? \u2018Fight For Power Begins\u2026\u2019 | Trump Core Team In Huddle (1 video)",
+          "Watch: Danish F-35s Roar Over Greenland As European Troops Land In Denmark Territory Amid US Threat (1 video)"
+        ],
+        "1": [
+          "Greenland Partitioned: Trump Takes Control of Arctic Bases in Major NATO Deal | GRAVITAS (1 video)",
+          "Greenland Deal Done? NATO Boss' Full Speech Fuels Trump Power Play Speculation | Denmark on Edge? (1 video)",
+          "US-Greenland Takeover LIVE: Greenland Pushes Back After Trump Claims \u2018Total\u2019 US Access | Trump LIVE (1 video)",
+          "Donald Trump Mulls Over 3 Options to Take Greenland | Vantage with Palki Sharma | N18G (1 video)",
+          "Putin Says Trump Has 'Serious Plans' to Annex Greenland (2 videos)"
+        ],
+        "2": [
+          "Trump Says US Will Get Greenland, Holds \u201cFiery\u201d Talks With Danish PM | Subscribe to Firstpost | N18G (1 video)",
+          "US-Greenland Takeover LIVE: Trump Still Wants Greenland, Danish PM Issues Fresh Warning | WION (2 videos)",
+          "Denmark Calls For Snap Polls Amid Trump's Greenland Threat | Vantage with Palki Sharma | N18G (1 video)",
+          "Denmark's PM says Trump wanting Greenland 'should be taken seriously' (2 videos)",
+          "Trump\u2019s Greenland push triggers snap election in Denmark as tensions escalate (1 video)"
+        ],
+        "3": [
+          "How Greenland's massive ice melt will totally transform the world (1 video)",
+          "Climate change: Greenland's ice sheet has melted past the point of no return (1 video)",
+          "Greenland ice sheet begins melting again ++REPLAY++ (2 videos)",
+          "Greenland losing 250 billion tonnes of ice yearly, says study (1 video)",
+          "Ice sheets in Greenland, Antarctica melting faster than previously thought, research shows (1 video)"
+        ],
+        "4": [
+          "Donald Trump drops threat of tariffs over Greenland after Nato talks in Davos | BBC News (1 video)",
+          "Greenland latest: What comes next after Trump's \u2018framework\u2019 deal (4 videos)",
+          "Greenland Deal DONE, Europe Blindsided? Trump Drops Bombshell Details After Talks With NATO Chief (1 video)",
+          "Has Trump backed down on Greenland? | Global News Podcast (1 video)",
+          "Donald Trump backtracks on using force over Greenland and drops new tariffs on allies | BBC News (1 video)"
+        ],
+        "5": [
+          "Why Donald Trump Wants to Buy Greenland | The Full Story Explained (3 videos)",
+          "Here's why Trump is getting serious about acquiring Greenland (1 video)",
+          "Why is Donald Trump so interested in Greenland? | AFP (1 video)",
+          "Why Trump says America needs Greenland (1 video)",
+          "Why Trump wants to buy Greenland ... and what the people have to say about it (1 video)"
+        ],
+        "6": [
+          "LIVE | Macron, Carney Dare Trump As France, Canada Open Greenland consulates In Nuuk (2 videos)",
+          "Canada And France Open Greenland Consulates In Show Of Denmark Support | WION (1 video)",
+          "France, Canada Open Greenland Posts Amid US Arctic Push | WION World DNA (1 video)",
+          "Inuit delegates from Canada arrive in Greenland to show solidarity (1 video)",
+          "NATO\u2019s New Challenge To Trump\u2019s Greenland Claim? Canada, France Open Nuuk Consulate, Unfurl Flag |4K (1 video)"
+        ],
+        "7": [
+          "BREAKING: Trump announces framework of a future deal on Greenland has been reached (1 video)",
+          "Trump HINTS at how far he will go to acquire Greenland: 'You'll find out' (2 videos)",
+          "Trump reveals DEADLINE for Greenland deal (1 video)",
+          "BREAKING: Trump announces tariffs on countries opposing US control of Greenland #foxnews #news (1 video)",
+          "Trump doubles down on acquiring Greenland: 'We'll go as far as we have to go' (1 video)"
+        ]
+      }
+    },
+    {
+      "k": 10,
+      "silhouette": 0.06872996687889099,
+      "topic_count": 10,
+      "noise_count": 0,
+      "topic_sizes": {
+        "0": 168,
+        "1": 139,
+        "2": 122,
+        "3": 106,
+        "4": 96,
+        "5": 86,
+        "6": 86,
+        "7": 75,
+        "8": 48,
+        "9": 36
+      },
+      "top_words": {
+        "0": [
+          "trump",
+          "us",
+          "nato",
+          "arctic",
+          "military",
+          "russia",
+          "donald",
+          "has",
+          "security",
+          "president"
+        ],
+        "1": [
+          "trump",
+          "denmark",
+          "danish",
+          "president",
+          "donald",
+          "prime",
+          "frederiksen",
+          "us",
+          "minister",
+          "island"
+        ],
+        "2": [
+          "ice",
+          "melting",
+          "sheet",
+          "climate",
+          "scientists",
+          "melt",
+          "change",
+          "sea",
+          "glaciers",
+          "glacier"
+        ],
+        "3": [
+          "trump",
+          "deal",
+          "tariffs",
+          "davos",
+          "he",
+          "president",
+          "european",
+          "framework",
+          "donald",
+          "nato"
+        ],
+        "4": [
+          "denmark",
+          "us",
+          "trump",
+          "india",
+          "danish",
+          "arctic",
+          "envoy",
+          "has",
+          "nato",
+          "donald"
+        ],
+        "5": [
+          "denmark",
+          "nato",
+          "military",
+          "arctic",
+          "macron",
+          "troops",
+          "danish",
+          "us",
+          "french",
+          "trump"
+        ],
+        "6": [
+          "trump",
+          "vance",
+          "president",
+          "jd",
+          "us",
+          "visit",
+          "donald",
+          "buy",
+          "island",
+          "aptn"
+        ],
+        "7": [
+          "trump",
+          "television",
+          "network",
+          "survey",
+          "keys",
+          "trusted",
+          "found",
+          "source",
+          "engagement",
+          "one"
+        ],
+        "8": [
+          "canada",
+          "consulate",
+          "canadian",
+          "nuuk",
+          "arctic",
+          "consulates",
+          "open",
+          "their",
+          "opening",
+          "new"
+        ],
+        "9": [
+          "women",
+          "inuit",
+          "contraception",
+          "forced",
+          "knr",
+          "victims",
+          "young",
+          "danish",
+          "campaign",
+          "consent"
+        ]
+      },
+      "topic_examples": {
+        "0": [
+          "Greenland Partitioned: Trump Takes Control of Arctic Bases in Major NATO Deal | GRAVITAS (1 video)",
+          "Greenland Deal Done? NATO Boss' Full Speech Fuels Trump Power Play Speculation | Denmark on Edge? (1 video)",
+          "\u2018New US Operation\u2026\u2019: Trump\u2019s Greenland Fixation Stuns NATO After \u2018Military Use Plan LEAKED\u2019 | Watch (1 video)",
+          "Putin Says Trump Has 'Serious Plans' to Annex Greenland (2 videos)",
+          "US-Greenland Takeover LIVE: Greenland Pushes Back After Trump Claims \u2018Total\u2019 US Access | Trump LIVE (1 video)"
+        ],
+        "1": [
+          "US-Greenland Takeover LIVE: Trump Still Wants Greenland, Danish PM Issues Fresh Warning | WION (2 videos)",
+          "Trump Says US Will Get Greenland, Holds \u201cFiery\u201d Talks With Danish PM | Subscribe to Firstpost | N18G (1 video)",
+          "Denmark's PM says Trump wanting Greenland 'should be taken seriously' (2 videos)",
+          "Trump\u2019s Greenland push triggers snap election in Denmark as tensions escalate (1 video)",
+          "Denmark Calls For Snap Polls Amid Trump's Greenland Threat | Vantage with Palki Sharma | N18G (1 video)"
+        ],
+        "2": [
+          "How Greenland's massive ice melt will totally transform the world (1 video)",
+          "Climate change: Greenland's ice sheet has melted past the point of no return (1 video)",
+          "Greenland ice sheet begins melting again ++REPLAY++ (2 videos)",
+          "Greenland losing 250 billion tonnes of ice yearly, says study (1 video)",
+          "Ice sheets in Greenland, Antarctica melting faster than previously thought, research shows (1 video)"
+        ],
+        "3": [
+          "Donald Trump drops threat of tariffs over Greenland after Nato talks in Davos | BBC News (1 video)",
+          "Greenland latest: What comes next after Trump's \u2018framework\u2019 deal (4 videos)",
+          "Greenland Deal DONE, Europe Blindsided? Trump Drops Bombshell Details After Talks With NATO Chief (1 video)",
+          "Has Trump backed down on Greenland? | Global News Podcast (1 video)",
+          "Donald Trump backtracks on using force over Greenland and drops new tariffs on allies | BBC News (1 video)"
+        ],
+        "4": [
+          "Denmark To Cede Greenland To Trump? \u2018Angers\u2019 Putin & Xi, Backs Permanent NATO Presence In Arctic (1 video)",
+          "GREENLAND TENSIONS SPIKE, Denmark Summons US Envoy After Trump Pushes Annexation | Times Now World (1 video)",
+          "Denmark TRICKS Trump Over Greenland? \u2018Fight For Power Begins\u2026\u2019 | Trump Core Team In Huddle (1 video)",
+          "Denmark Says, \"Shoot First, Talk Later\" Amid Row With Trump Over Greenland | Firstpost America (1 video)",
+          "'Mind Your Own Business!': Trump RAGES As Greenland PM Picks Denmark Over US | 'NATO Ineffective...' (1 video)"
+        ],
+        "5": [
+          "Watch: Danish F-35s Roar Over Greenland As European Troops Land In Denmark Territory Amid US Threat (1 video)",
+          "Denmark, Greenland \u201cIn Serious Situation\u2019, Frederiksen Says as Troops Train Under \u2018Arctic Endurance\u2019 (1 video)",
+          "On Cam: Danish Troops Storm Greenland As US-Canadian Command Declares Military Aircraft Deployment (1 video)",
+          "Danish soldiers land in Greenland amid Trump threats | REUTERS (1 video)",
+          "Danish troops touch down in Greenland \u2744\ufe0f (1 video)"
+        ],
+        "6": [
+          "Trump says world needs U.S. takeover of Greenland (1 video)",
+          "Why Donald Trump Wants to Buy Greenland | The Full Story Explained (3 videos)",
+          "Trump Pushes for Greenland Takeover as JD Vance, Usha Head to Island | Firstpost America | N18G (1 video)",
+          "Greenland PM on Trump offer: It's not amusing (1 video)",
+          "Why has Trump offered to buy Greenland? (1 video)"
+        ],
+        "7": [
+          "BREAKING: Trump announces framework of a future deal on Greenland has been reached (1 video)",
+          "NATO leaders RIP Trump's new tariffs over Greenland: 'UNACCEPTABLE' (1 video)",
+          "BREAKING: Trump announces tariffs on countries opposing US control of Greenland #foxnews #news (1 video)",
+          "Trump reveals DEADLINE for Greenland deal (1 video)",
+          "NEW: Trump considers tariffs for countries opposing US control of Greenland #shorts (1 video)"
+        ],
+        "8": [
+          "Canada opens new consulate in Greenland amid Arctic tensions (3 videos)",
+          "LIVE: Canada Opens New Embassy in Greenland | Historic Opening Ceremony in Nuuk! | Mark Carney (2 videos)",
+          "Canada, France deepen Arctic ties with consulates in Greenland (3 videos)",
+          "LIVE | Macron, Carney Dare Trump As France, Canada Open Greenland consulates In Nuuk (1 video)",
+          "Canada, France embassies open in Greenland amid Trump\u2019s threats (1 video)"
+        ],
+        "9": [
+          "#REPORTERS - The despair of Greenland's Inuit youth (1 video)",
+          "Greenland, breaking the silence: The scandal of Denmark's forced contraception campaign (1 video)",
+          "Victims recall forced contraception of Indigenous women and girls in Greenland (1 video)",
+          "Future Greenland 2019 (4:4) KNR 15.05.2019 (2 videos)",
+          "Greenland: The last hunters of Ittoqqortoormiit | AFP (1 video)"
+        ]
+      }
+    },
+    {
+      "k": 12,
+      "silhouette": 0.07087475806474686,
+      "topic_count": 12,
+      "noise_count": 0,
+      "topic_sizes": {
+        "0": 146,
+        "1": 124,
+        "2": 118,
+        "3": 100,
+        "4": 94,
+        "5": 87,
+        "6": 66,
+        "7": 60,
+        "8": 59,
+        "9": 54,
+        "10": 35,
+        "11": 19
+      },
+      "top_words": {
+        "0": [
+          "denmark",
+          "trump",
+          "us",
+          "danish",
+          "president",
+          "island",
+          "donald",
+          "arctic",
+          "election",
+          "its"
+        ],
+        "1": [
+          "ice",
+          "melting",
+          "sheet",
+          "climate",
+          "scientists",
+          "melt",
+          "change",
+          "sea",
+          "glaciers",
+          "glacier"
+        ],
+        "2": [
+          "trump",
+          "sharma",
+          "us",
+          "donald",
+          "president",
+          "he",
+          "new",
+          "force",
+          "headlines",
+          "show"
+        ],
+        "3": [
+          "trump",
+          "deal",
+          "tariffs",
+          "european",
+          "davos",
+          "framework",
+          "he",
+          "president",
+          "donald",
+          "nato"
+        ],
+        "4": [
+          "arctic",
+          "nato",
+          "russia",
+          "india",
+          "trump",
+          "us",
+          "military",
+          "now",
+          "putin",
+          "security"
+        ],
+        "5": [
+          "denmark",
+          "nato",
+          "military",
+          "arctic",
+          "macron",
+          "danish",
+          "troops",
+          "trump",
+          "us",
+          "french"
+        ],
+        "6": [
+          "trump",
+          "danish",
+          "buying",
+          "buy",
+          "president",
+          "sale",
+          "donald",
+          "denmark",
+          "he",
+          "said"
+        ],
+        "7": [
+          "television",
+          "survey",
+          "keys",
+          "trusted",
+          "network",
+          "found",
+          "source",
+          "engagement",
+          "trump",
+          "fbn"
+        ],
+        "8": [
+          "canada",
+          "consulate",
+          "inuit",
+          "nuuk",
+          "canadian",
+          "consulates",
+          "their",
+          "open",
+          "new",
+          "arctic"
+        ],
+        "9": [
+          "vance",
+          "jd",
+          "visit",
+          "aptn",
+          "president",
+          "trump",
+          "us",
+          "usha",
+          "island",
+          "donald"
+        ],
+        "10": [
+          "envoy",
+          "us",
+          "denmark",
+          "hospital",
+          "trump",
+          "ship",
+          "special",
+          "has",
+          "landry",
+          "jeff"
+        ],
+        "11": [
+          "knr",
+          "05",
+          "03",
+          "11",
+          "great",
+          "15",
+          "awg2016",
+          "aallakaatitaq",
+          "container",
+          "futsal"
+        ]
+      },
+      "topic_examples": {
+        "0": [
+          "Denmark Says, \"Shoot First, Talk Later\" Amid Row With Trump Over Greenland | Firstpost America (1 video)",
+          "US-Greenland Takeover LIVE: Trump Still Wants Greenland, Danish PM Issues Fresh Warning | WION (2 videos)",
+          "How Denmark views Trump's threats to take over Greenland (1 video)",
+          "'Mind Your Own Business!': Trump RAGES As Greenland PM Picks Denmark Over US | 'NATO Ineffective...' (1 video)",
+          "Denmark Calls For Snap Polls Amid Trump's Greenland Threat | Vantage with Palki Sharma | N18G (1 video)"
+        ],
+        "1": [
+          "How Greenland's massive ice melt will totally transform the world (1 video)",
+          "Climate change: Greenland's ice sheet has melted past the point of no return (1 video)",
+          "Greenland ice sheet begins melting again ++REPLAY++ (2 videos)",
+          "Greenland losing 250 billion tonnes of ice yearly, says study (1 video)",
+          "Ice sheets in Greenland, Antarctica melting faster than previously thought, research shows (1 video)"
+        ],
+        "2": [
+          "Donald Trump Mulls Over 3 Options to Take Greenland | Vantage with Palki Sharma | N18G (1 video)",
+          "Trump Rules Out Force Against Greenland but Demands \"Immediate\" Talks | Vantage with Palki Sharma (1 video)",
+          "Why Trump Wants Greenland | Vantage with Palki Sharma | Subscribe to Firstpost (2 videos)",
+          "Trump Wants NATO to Help \"Annex\" Greenland. How Will it Work? | Vantage with Palki Sharma | N18G (2 videos)",
+          "Trump Hints at Military Action to take over Greenland, Panama Canal | Vantage with Palki Sharma (1 video)"
+        ],
+        "3": [
+          "Donald Trump drops threat of tariffs over Greenland after Nato talks in Davos | BBC News (1 video)",
+          "Greenland latest: What comes next after Trump's \u2018framework\u2019 deal (4 videos)",
+          "Greenland Deal DONE, Europe Blindsided? Trump Drops Bombshell Details After Talks With NATO Chief (1 video)",
+          "Has Trump backed down on Greenland? | Global News Podcast (1 video)",
+          "Greenland: Will Europe fight Trump or surrender (1 video)"
+        ],
+        "4": [
+          "Greenland Partitioned: Trump Takes Control of Arctic Bases in Major NATO Deal | GRAVITAS (1 video)",
+          "Greenland Deal Done? NATO Boss' Full Speech Fuels Trump Power Play Speculation | Denmark on Edge? (1 video)",
+          "NATO Chief \u2018Counters\u2019 Trump\u2019s Greenland Claims, PUBLICLY Breaks Rank After Huge Deal Announcement (1 video)",
+          "\u2018NATO STRIKES\u2019 Before Trump Seizes Greenland; Canada Draws Battle Lines | \u2018Difficult But\u2026\u2019 (1 video)",
+          "Breaking: Putin Orders Russian Troops Movement Near Greenland In Arctic, Issues Warning To US Trump (1 video)"
+        ],
+        "5": [
+          "Watch: Danish F-35s Roar Over Greenland As European Troops Land In Denmark Territory Amid US Threat (1 video)",
+          "Denmark, Greenland \u201cIn Serious Situation\u2019, Frederiksen Says as Troops Train Under \u2018Arctic Endurance\u2019 (1 video)",
+          "Denmark To Cede Greenland To Trump? \u2018Angers\u2019 Putin & Xi, Backs Permanent NATO Presence In Arctic (1 video)",
+          "On Cam: Danish Troops Storm Greenland As US-Canadian Command Declares Military Aircraft Deployment (1 video)",
+          "Danish soldiers land in Greenland amid Trump threats | REUTERS (1 video)"
+        ],
+        "6": [
+          "Why Trump can\u2019t let Greenland go (1 video)",
+          "Donald Trump Planning To 'Buy' Greenland, Danish MPs Hit Back | CRUX (1 video)",
+          "Greenland not for sale: Why The Fuss? (1 video)",
+          "Why Trump wants to buy Greenland ... and what the people have to say about it (2 videos)",
+          "Trump cancels Denmark trip as Greenland says it\u2019s not for sale (1 video)"
+        ],
+        "7": [
+          "BREAKING: Trump announces framework of a future deal on Greenland has been reached (1 video)",
+          "BREAKING: Trump announces tariffs on countries opposing US control of Greenland #foxnews #news (1 video)",
+          "NATO leaders RIP Trump's new tariffs over Greenland: 'UNACCEPTABLE' (1 video)",
+          "Trump reveals DEADLINE for Greenland deal (1 video)",
+          "NEW: Trump considers tariffs for countries opposing US control of Greenland #shorts (1 video)"
+        ],
+        "8": [
+          "Canada And France Open Greenland Consulates In Show Of Denmark Support | WION (2 videos)",
+          "Canada opens new consulate in Greenland amid Arctic tensions (3 videos)",
+          "France, Canada Open Greenland Posts Amid US Arctic Push | WION World DNA (1 video)",
+          "LIVE | Macron, Carney Dare Trump As France, Canada Open Greenland consulates In Nuuk (1 video)",
+          "Canada, France embassies open in Greenland amid Trump\u2019s threats (1 video)"
+        ],
+        "9": [
+          "Trump says world needs U.S. takeover of Greenland (1 video)",
+          "Donald Trump to keep pushing to take control over Greenland (1 video)",
+          "Trump Pushes for Greenland Takeover as JD Vance, Usha Head to Island | Firstpost America | N18G (1 video)",
+          "Greenland reacts to JD Vance's visit amid Trump comments (1 video)",
+          "Greenland cold on US annexation as VP JD Vance visits (1 video)"
+        ],
+        "10": [
+          "Trump Appoints Special Envoy For Greenland: Denmark To Summon US Ambassador Over Matter | WION (1 video)",
+          "Denmark Summons US Envoy After Donald Trump's Men 'Spotted' In Greenland | 4K Video | N18G (1 video)",
+          "Trump appoints Greenland envoy sparking diplomatic crisis | 7NEWS (1 video)",
+          "Trump Reignites Greenland Dispute With New US Envoy | Vantage with Palki Sharma | N18G (1 video)",
+          "What is going on in Greenland? (1 video)"
+        ],
+        "11": [
+          "Future Greenland 2022 (4:4) KNR 18.05.2022 (2 videos)",
+          "AWG2016 Futsal Nunavut - Greenland Junior male 07-03-2016 (1 video)",
+          "AWG2016 Futsal Alaska - Greenland junior female 07-03-2016 (1 video)",
+          "Greenland Everest Expedition (6:6) KNR oktobari 2019 (2 videos)",
+          "Local Guide Greenland, KNR 05.05.2025 (1 video)"
+        ]
+      }
+    },
+    {
+      "k": 14,
+      "silhouette": 0.07113852351903915,
+      "topic_count": 14,
+      "noise_count": 0,
+      "topic_sizes": {
+        "0": 126,
+        "1": 122,
+        "2": 96,
+        "3": 88,
+        "4": 81,
+        "5": 77,
+        "6": 70,
+        "7": 64,
+        "8": 57,
+        "9": 52,
+        "10": 48,
+        "11": 45,
+        "12": 19,
+        "13": 17
+      },
+      "top_words": {
+        "0": [
+          "denmark",
+          "trump",
+          "danish",
+          "us",
+          "president",
+          "donald",
+          "island",
+          "election",
+          "trumps",
+          "frederiksen"
+        ],
+        "1": [
+          "ice",
+          "melting",
+          "sheet",
+          "climate",
+          "scientists",
+          "melt",
+          "change",
+          "sea",
+          "glaciers",
+          "glacier"
+        ],
+        "2": [
+          "trump",
+          "deal",
+          "tariffs",
+          "european",
+          "framework",
+          "davos",
+          "he",
+          "president",
+          "donald",
+          "nato"
+        ],
+        "3": [
+          "denmark",
+          "trump",
+          "us",
+          "india",
+          "nato",
+          "danish",
+          "arctic",
+          "envoy",
+          "has",
+          "daily"
+        ],
+        "4": [
+          "trump",
+          "sharma",
+          "headlines",
+          "show",
+          "panama",
+          "force",
+          "canal",
+          "donald",
+          "new",
+          "davos"
+        ],
+        "5": [
+          "military",
+          "denmark",
+          "nato",
+          "arctic",
+          "macron",
+          "troops",
+          "french",
+          "danish",
+          "us",
+          "european"
+        ],
+        "6": [
+          "arctic",
+          "russia",
+          "nato",
+          "india",
+          "putin",
+          "trump",
+          "us",
+          "now",
+          "china",
+          "military"
+        ],
+        "7": [
+          "trump",
+          "buying",
+          "buy",
+          "sale",
+          "president",
+          "donald",
+          "he",
+          "denmark",
+          "danish",
+          "said"
+        ],
+        "8": [
+          "television",
+          "survey",
+          "keys",
+          "trusted",
+          "found",
+          "network",
+          "source",
+          "engagement",
+          "trump",
+          "fbn"
+        ],
+        "9": [
+          "trump",
+          "us",
+          "president",
+          "donald",
+          "nato",
+          "he",
+          "has",
+          "security",
+          "says",
+          "control"
+        ],
+        "10": [
+          "vance",
+          "jd",
+          "aptn",
+          "president",
+          "visit",
+          "usha",
+          "trump",
+          "us",
+          "island",
+          "take"
+        ],
+        "11": [
+          "canada",
+          "consulate",
+          "canadian",
+          "nuuk",
+          "consulates",
+          "arctic",
+          "open",
+          "opening",
+          "new",
+          "their"
+        ],
+        "12": [
+          "knr",
+          "05",
+          "03",
+          "11",
+          "great",
+          "15",
+          "awg2016",
+          "aallakaatitaq",
+          "container",
+          "futsal"
+        ],
+        "13": [
+          "women",
+          "inuit",
+          "contraception",
+          "forced",
+          "victims",
+          "young",
+          "danish",
+          "campaign",
+          "contraceptive",
+          "consent"
+        ]
+      },
+      "topic_examples": {
+        "0": [
+          "US-Greenland Takeover LIVE: Trump Still Wants Greenland, Danish PM Issues Fresh Warning | WION (2 videos)",
+          "Trump Says US Will Get Greenland, Holds \u201cFiery\u201d Talks With Danish PM | Subscribe to Firstpost | N18G (1 video)",
+          "How Denmark views Trump's threats to take over Greenland (1 video)",
+          "Denmark Calls For Snap Polls Amid Trump's Greenland Threat | Vantage with Palki Sharma | N18G (1 video)",
+          "Denmark's PM says Trump wanting Greenland 'should be taken seriously' (2 videos)"
+        ],
+        "1": [
+          "How Greenland's massive ice melt will totally transform the world (1 video)",
+          "Climate change: Greenland's ice sheet has melted past the point of no return (1 video)",
+          "Greenland ice sheet begins melting again ++REPLAY++ (2 videos)",
+          "Greenland losing 250 billion tonnes of ice yearly, says study (1 video)",
+          "Ice sheets in Greenland, Antarctica melting faster than previously thought, research shows (1 video)"
+        ],
+        "2": [
+          "Donald Trump drops threat of tariffs over Greenland after Nato talks in Davos | BBC News (1 video)",
+          "Greenland latest: What comes next after Trump's \u2018framework\u2019 deal (4 videos)",
+          "Greenland Deal DONE, Europe Blindsided? Trump Drops Bombshell Details After Talks With NATO Chief (1 video)",
+          "Has Trump backed down on Greenland? | Global News Podcast (1 video)",
+          "Greenland: Will Europe fight Trump or surrender (1 video)"
+        ],
+        "3": [
+          "Denmark To Cede Greenland To Trump? \u2018Angers\u2019 Putin & Xi, Backs Permanent NATO Presence In Arctic (1 video)",
+          "GREENLAND TENSIONS SPIKE, Denmark Summons US Envoy After Trump Pushes Annexation | Times Now World (1 video)",
+          "Denmark TRICKS Trump Over Greenland? \u2018Fight For Power Begins\u2026\u2019 | Trump Core Team In Huddle (1 video)",
+          "'Mind Your Own Business!': Trump RAGES As Greenland PM Picks Denmark Over US | 'NATO Ineffective...' (1 video)",
+          "Denmark Says, \"Shoot First, Talk Later\" Amid Row With Trump Over Greenland | Firstpost America (1 video)"
+        ],
+        "4": [
+          "Donald Trump Mulls Over 3 Options to Take Greenland | Vantage with Palki Sharma | N18G (1 video)",
+          "Trump Rules Out Force Against Greenland but Demands \"Immediate\" Talks | Vantage with Palki Sharma (1 video)",
+          "Trump Hints at Military Action to take over Greenland, Panama Canal | Vantage with Palki Sharma (1 video)",
+          "Why Trump Wants Greenland | Vantage with Palki Sharma | Subscribe to Firstpost (2 videos)",
+          "Trump Wants NATO to Help \"Annex\" Greenland. How Will it Work? | Vantage with Palki Sharma | N18G (2 videos)"
+        ],
+        "5": [
+          "Watch: Danish F-35s Roar Over Greenland As European Troops Land In Denmark Territory Amid US Threat (1 video)",
+          "Denmark, Greenland \u201cIn Serious Situation\u2019, Frederiksen Says as Troops Train Under \u2018Arctic Endurance\u2019 (1 video)",
+          "On Cam: Danish Troops Storm Greenland As US-Canadian Command Declares Military Aircraft Deployment (1 video)",
+          "Danish soldiers land in Greenland amid Trump threats | REUTERS (1 video)",
+          "Danish troops touch down in Greenland \u2744\ufe0f (1 video)"
+        ],
+        "6": [
+          "Greenland Partitioned: Trump Takes Control of Arctic Bases in Major NATO Deal | GRAVITAS (1 video)",
+          "Breaking: Putin Orders Russian Troops Movement Near Greenland In Arctic, Issues Warning To US Trump (1 video)",
+          "LIVE: Will NATO\u2019S \u201cArctic Sentry\u201d Ease Tensions Over Trump\u2019s Greenland Push? | Firstpost America (1 video)",
+          "Greenland Deal Done? NATO Boss' Full Speech Fuels Trump Power Play Speculation | Denmark on Edge? (1 video)",
+          "Russia Threatens Military Action Over Greenland, Confirms Nuclear Pact Stance | WION Pulse (1 video)"
+        ],
+        "7": [
+          "Why Trump wants to buy Greenland ... and what the people have to say about it (2 videos)",
+          "Why Trump can\u2019t let Greenland go (1 video)",
+          "Why Donald Trump Wants to Buy Greenland | The Full Story Explained (2 videos)",
+          "Donald Trump Planning To 'Buy' Greenland, Danish MPs Hit Back | CRUX (1 video)",
+          "Greenland not for sale: Why The Fuss? (1 video)"
+        ],
+        "8": [
+          "BREAKING: Trump announces framework of a future deal on Greenland has been reached (1 video)",
+          "BREAKING: Trump announces tariffs on countries opposing US control of Greenland #foxnews #news (1 video)",
+          "NATO leaders RIP Trump's new tariffs over Greenland: 'UNACCEPTABLE' (1 video)",
+          "Trump reveals DEADLINE for Greenland deal (1 video)",
+          "NEW: Trump considers tariffs for countries opposing US control of Greenland #shorts (1 video)"
+        ],
+        "9": [
+          "The real reason Trump wants Greenland (2 videos)",
+          "Trump Says Greenland 'Is Going to Want Us' (1 video)",
+          "Why Trump says America needs Greenland (1 video)",
+          "Breaking: Trump Threatens To Use U.S Army To Annex Greenland, Says \"We Need Greenland for Security\" (1 video)",
+          "Trump\u2019s Obsession With Greenland Explained (3 videos)"
+        ],
+        "10": [
+          "Trump says world needs U.S. takeover of Greenland (1 video)",
+          "Greenland reacts to JD Vance's visit amid Trump comments (1 video)",
+          "Donald Trump to keep pushing to take control over Greenland (1 video)",
+          "Trump Pushes for Greenland Takeover as JD Vance, Usha Head to Island | Firstpost America | N18G (1 video)",
+          "Vance Criticizes Denmark as Trump Restates Desire for Greenland (1 video)"
+        ],
+        "11": [
+          "Canada opens new consulate in Greenland amid Arctic tensions (3 videos)",
+          "LIVE: Canada Opens New Embassy in Greenland | Historic Opening Ceremony in Nuuk! | Mark Carney (2 videos)",
+          "Canada, France deepen Arctic ties with consulates in Greenland (3 videos)",
+          "Canada, France embassies open in Greenland amid Trump\u2019s threats (1 video)",
+          "Canada And France Open Greenland Consulates In Show Of Denmark Support | WION (1 video)"
+        ],
+        "12": [
+          "Future Greenland 2022 (4:4) KNR 18.05.2022 (2 videos)",
+          "AWG2016 Futsal Nunavut - Greenland Junior male 07-03-2016 (1 video)",
+          "AWG2016 Futsal Alaska - Greenland junior female 07-03-2016 (1 video)",
+          "Greenland Everest Expedition (6:6) KNR oktobari 2019 (2 videos)",
+          "Local Guide Greenland, KNR 05.05.2025 (1 video)"
+        ],
+        "13": [
+          "Greenland, breaking the silence: The scandal of Denmark's forced contraception campaign (1 video)",
+          "Victims recall forced contraception of Indigenous women and girls in Greenland (1 video)",
+          "\u2018Like torture, like rape\u2019: Greenland urges Denmark to confront its dark past \u2022 FRANCE 24 (1 video)",
+          "Greenland women recount forced contraception as Danish PM set to apologise \u2022 FRANCE 24 English (2 videos)",
+          "#REPORTERS - The despair of Greenland's Inuit youth (1 video)"
+        ]
+      }
+    }
+  ],
+  "best_k": 14,
+  "best_result": {
+    "k": 14,
+    "silhouette": 0.07113852351903915,
+    "topic_count": 14,
+    "noise_count": 0,
+    "topic_sizes": {
+      "0": 126,
+      "1": 122,
+      "2": 96,
+      "3": 88,
+      "4": 81,
+      "5": 77,
+      "6": 70,
+      "7": 64,
+      "8": 57,
+      "9": 52,
+      "10": 48,
+      "11": 45,
+      "12": 19,
+      "13": 17
+    },
+    "top_words": {
+      "0": [
+        "denmark",
+        "trump",
+        "danish",
+        "us",
+        "president",
+        "donald",
+        "island",
+        "election",
+        "trumps",
+        "frederiksen"
+      ],
+      "1": [
+        "ice",
+        "melting",
+        "sheet",
+        "climate",
+        "scientists",
+        "melt",
+        "change",
+        "sea",
+        "glaciers",
+        "glacier"
+      ],
+      "2": [
+        "trump",
+        "deal",
+        "tariffs",
+        "european",
+        "framework",
+        "davos",
+        "he",
+        "president",
+        "donald",
+        "nato"
+      ],
+      "3": [
+        "denmark",
+        "trump",
+        "us",
+        "india",
+        "nato",
+        "danish",
+        "arctic",
+        "envoy",
+        "has",
+        "daily"
+      ],
+      "4": [
+        "trump",
+        "sharma",
+        "headlines",
+        "show",
+        "panama",
+        "force",
+        "canal",
+        "donald",
+        "new",
+        "davos"
+      ],
+      "5": [
+        "military",
+        "denmark",
+        "nato",
+        "arctic",
+        "macron",
+        "troops",
+        "french",
+        "danish",
+        "us",
+        "european"
+      ],
+      "6": [
+        "arctic",
+        "russia",
+        "nato",
+        "india",
+        "putin",
+        "trump",
+        "us",
+        "now",
+        "china",
+        "military"
+      ],
+      "7": [
+        "trump",
+        "buying",
+        "buy",
+        "sale",
+        "president",
+        "donald",
+        "he",
+        "denmark",
+        "danish",
+        "said"
+      ],
+      "8": [
+        "television",
+        "survey",
+        "keys",
+        "trusted",
+        "found",
+        "network",
+        "source",
+        "engagement",
+        "trump",
+        "fbn"
+      ],
+      "9": [
+        "trump",
+        "us",
+        "president",
+        "donald",
+        "nato",
+        "he",
+        "has",
+        "security",
+        "says",
+        "control"
+      ],
+      "10": [
+        "vance",
+        "jd",
+        "aptn",
+        "president",
+        "visit",
+        "usha",
+        "trump",
+        "us",
+        "island",
+        "take"
+      ],
+      "11": [
+        "canada",
+        "consulate",
+        "canadian",
+        "nuuk",
+        "consulates",
+        "arctic",
+        "open",
+        "opening",
+        "new",
+        "their"
+      ],
+      "12": [
+        "knr",
+        "05",
+        "03",
+        "11",
+        "great",
+        "15",
+        "awg2016",
+        "aallakaatitaq",
+        "container",
+        "futsal"
+      ],
+      "13": [
+        "women",
+        "inuit",
+        "contraception",
+        "forced",
+        "victims",
+        "young",
+        "danish",
+        "campaign",
+        "contraceptive",
+        "consent"
+      ]
+    },
+    "topic_examples": {
+      "0": [
+        "US-Greenland Takeover LIVE: Trump Still Wants Greenland, Danish PM Issues Fresh Warning | WION (2 videos)",
+        "Trump Says US Will Get Greenland, Holds \u201cFiery\u201d Talks With Danish PM | Subscribe to Firstpost | N18G (1 video)",
+        "How Denmark views Trump's threats to take over Greenland (1 video)",
+        "Denmark Calls For Snap Polls Amid Trump's Greenland Threat | Vantage with Palki Sharma | N18G (1 video)",
+        "Denmark's PM says Trump wanting Greenland 'should be taken seriously' (2 videos)"
+      ],
+      "1": [
+        "How Greenland's massive ice melt will totally transform the world (1 video)",
+        "Climate change: Greenland's ice sheet has melted past the point of no return (1 video)",
+        "Greenland ice sheet begins melting again ++REPLAY++ (2 videos)",
+        "Greenland losing 250 billion tonnes of ice yearly, says study (1 video)",
+        "Ice sheets in Greenland, Antarctica melting faster than previously thought, research shows (1 video)"
+      ],
+      "2": [
+        "Donald Trump drops threat of tariffs over Greenland after Nato talks in Davos | BBC News (1 video)",
+        "Greenland latest: What comes next after Trump's \u2018framework\u2019 deal (4 videos)",
+        "Greenland Deal DONE, Europe Blindsided? Trump Drops Bombshell Details After Talks With NATO Chief (1 video)",
+        "Has Trump backed down on Greenland? | Global News Podcast (1 video)",
+        "Greenland: Will Europe fight Trump or surrender (1 video)"
+      ],
+      "3": [
+        "Denmark To Cede Greenland To Trump? \u2018Angers\u2019 Putin & Xi, Backs Permanent NATO Presence In Arctic (1 video)",
+        "GREENLAND TENSIONS SPIKE, Denmark Summons US Envoy After Trump Pushes Annexation | Times Now World (1 video)",
+        "Denmark TRICKS Trump Over Greenland? \u2018Fight For Power Begins\u2026\u2019 | Trump Core Team In Huddle (1 video)",
+        "'Mind Your Own Business!': Trump RAGES As Greenland PM Picks Denmark Over US | 'NATO Ineffective...' (1 video)",
+        "Denmark Says, \"Shoot First, Talk Later\" Amid Row With Trump Over Greenland | Firstpost America (1 video)"
+      ],
+      "4": [
+        "Donald Trump Mulls Over 3 Options to Take Greenland | Vantage with Palki Sharma | N18G (1 video)",
+        "Trump Rules Out Force Against Greenland but Demands \"Immediate\" Talks | Vantage with Palki Sharma (1 video)",
+        "Trump Hints at Military Action to take over Greenland, Panama Canal | Vantage with Palki Sharma (1 video)",
+        "Why Trump Wants Greenland | Vantage with Palki Sharma | Subscribe to Firstpost (2 videos)",
+        "Trump Wants NATO to Help \"Annex\" Greenland. How Will it Work? | Vantage with Palki Sharma | N18G (2 videos)"
+      ],
+      "5": [
+        "Watch: Danish F-35s Roar Over Greenland As European Troops Land In Denmark Territory Amid US Threat (1 video)",
+        "Denmark, Greenland \u201cIn Serious Situation\u2019, Frederiksen Says as Troops Train Under \u2018Arctic Endurance\u2019 (1 video)",
+        "On Cam: Danish Troops Storm Greenland As US-Canadian Command Declares Military Aircraft Deployment (1 video)",
+        "Danish soldiers land in Greenland amid Trump threats | REUTERS (1 video)",
+        "Danish troops touch down in Greenland \u2744\ufe0f (1 video)"
+      ],
+      "6": [
+        "Greenland Partitioned: Trump Takes Control of Arctic Bases in Major NATO Deal | GRAVITAS (1 video)",
+        "Breaking: Putin Orders Russian Troops Movement Near Greenland In Arctic, Issues Warning To US Trump (1 video)",
+        "LIVE: Will NATO\u2019S \u201cArctic Sentry\u201d Ease Tensions Over Trump\u2019s Greenland Push? | Firstpost America (1 video)",
+        "Greenland Deal Done? NATO Boss' Full Speech Fuels Trump Power Play Speculation | Denmark on Edge? (1 video)",
+        "Russia Threatens Military Action Over Greenland, Confirms Nuclear Pact Stance | WION Pulse (1 video)"
+      ],
+      "7": [
+        "Why Trump wants to buy Greenland ... and what the people have to say about it (2 videos)",
+        "Why Trump can\u2019t let Greenland go (1 video)",
+        "Why Donald Trump Wants to Buy Greenland | The Full Story Explained (2 videos)",
+        "Donald Trump Planning To 'Buy' Greenland, Danish MPs Hit Back | CRUX (1 video)",
+        "Greenland not for sale: Why The Fuss? (1 video)"
+      ],
+      "8": [
+        "BREAKING: Trump announces framework of a future deal on Greenland has been reached (1 video)",
+        "BREAKING: Trump announces tariffs on countries opposing US control of Greenland #foxnews #news (1 video)",
+        "NATO leaders RIP Trump's new tariffs over Greenland: 'UNACCEPTABLE' (1 video)",
+        "Trump reveals DEADLINE for Greenland deal (1 video)",
+        "NEW: Trump considers tariffs for countries opposing US control of Greenland #shorts (1 video)"
+      ],
+      "9": [
+        "The real reason Trump wants Greenland (2 videos)",
+        "Trump Says Greenland 'Is Going to Want Us' (1 video)",
+        "Why Trump says America needs Greenland (1 video)",
+        "Breaking: Trump Threatens To Use U.S Army To Annex Greenland, Says \"We Need Greenland for Security\" (1 video)",
+        "Trump\u2019s Obsession With Greenland Explained (3 videos)"
+      ],
+      "10": [
+        "Trump says world needs U.S. takeover of Greenland (1 video)",
+        "Greenland reacts to JD Vance's visit amid Trump comments (1 video)",
+        "Donald Trump to keep pushing to take control over Greenland (1 video)",
+        "Trump Pushes for Greenland Takeover as JD Vance, Usha Head to Island | Firstpost America | N18G (1 video)",
+        "Vance Criticizes Denmark as Trump Restates Desire for Greenland (1 video)"
+      ],
+      "11": [
+        "Canada opens new consulate in Greenland amid Arctic tensions (3 videos)",
+        "LIVE: Canada Opens New Embassy in Greenland | Historic Opening Ceremony in Nuuk! | Mark Carney (2 videos)",
+        "Canada, France deepen Arctic ties with consulates in Greenland (3 videos)",
+        "Canada, France embassies open in Greenland amid Trump\u2019s threats (1 video)",
+        "Canada And France Open Greenland Consulates In Show Of Denmark Support | WION (1 video)"
+      ],
+      "12": [
+        "Future Greenland 2022 (4:4) KNR 18.05.2022 (2 videos)",
+        "AWG2016 Futsal Nunavut - Greenland Junior male 07-03-2016 (1 video)",
+        "AWG2016 Futsal Alaska - Greenland junior female 07-03-2016 (1 video)",
+        "Greenland Everest Expedition (6:6) KNR oktobari 2019 (2 videos)",
+        "Local Guide Greenland, KNR 05.05.2025 (1 video)"
+      ],
+      "13": [
+        "Greenland, breaking the silence: The scandal of Denmark's forced contraception campaign (1 video)",
+        "Victims recall forced contraception of Indigenous women and girls in Greenland (1 video)",
+        "\u2018Like torture, like rape\u2019: Greenland urges Denmark to confront its dark past \u2022 FRANCE 24 (1 video)",
+        "Greenland women recount forced contraception as Danish PM set to apologise \u2022 FRANCE 24 English (2 videos)",
+        "#REPORTERS - The despair of Greenland's Inuit youth (1 video)"
+      ]
+    }
+  }
+}

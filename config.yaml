@@ -1,0 +1,39 @@
+# YouTube Content Scraper Configuration
+
+# Search keywords/queries
+search_keywords:
+  - "greenland"
+
+# Maximum number of videos to fetch
+max_videos: 50000
+
+# Timeframe: date_from + date_to (any range), or set month (YYYY-MM) only. Range is always split into 1-day windows.
+date_from: "2026-04-10"
+date_to: "2026-04-18"
+
+# month: "2017-01"  # optional shortcut when date_from/date_to not set
+month: null
+
+# Whether to fetch comments (true/false)
+# If false, only video titles and stats will be fetched
+fetch_comments: false
+
+# Whether to fetch and save video descriptions (true/false)
+fetch_descriptions: true
+
+# Re-fetch the configured date range and replace existing rows in that period
+# Use this when you want updated view counts / comment counts for videos already collected
+refresh_existing: true
+
+# Minimum number of views to include video in results (0 = no minimum)
+min_views: 0
+
+# Optional: If fetch_comments is true, configure comment filtering
+comment_keywords:
+  - "greenland"
+  - "nuuk"
+  - "trump"
+  - "annex"
+  - "buy"
+  - "america"
+  - "usa"

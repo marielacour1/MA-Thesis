@@ -1,0 +1,39 @@
+Precision and recall review
+===============================
+
+Sample results
+--------------
+Precision sample: 131/150 correctly kept
+Deleted sample: 139/150 correctly deleted
+
+Estimated confusion matrix
+--------------------------
+True positives  (kept and relevant):     23,037.7
+False positives (kept but irrelevant):    3,341.3
+False negatives (deleted but relevant):   1,344.6
+True negatives  (deleted and irrelevant): 16,991.4
+
+Scores
+------
+Precision: 0.873 (87.3%)
+Precision 95% CI: [0.811, 0.917] / [81.1%, 91.7%]
+Recall: 0.945 (94.5%)
+Recall 95% uncertainty interval: [0.910, 0.970] / [91.0%, 97.0%]
+
+Deletion sample diagnostics
+---------------------------
+Deleted-sample accuracy: 0.927 (92.7%)
+Deleted-sample accuracy 95% CI: [0.873, 0.959] / [87.3%, 95.9%]
+Deleted-sample false-negative rate: 0.073 (7.3%)
+False-negative rate 95% CI: [0.041, 0.127] / [4.1%, 12.7%]
+
+Pools
+-----
+Final dataset pool: 26,379 videos
+Deleted review pool: 18,336 videos
+
+Notes
+-----
+Precision is estimated from the reviewed final-dataset sample.
+Recall is estimated as TP / (TP + FN), where TP is inferred from the final-dataset sample and FN from deleted videos marked as incorrectly deleted.
+The recall interval uses a beta-binomial simulation with 20,000 draws; precision and deletion diagnostics use Wilson binomial intervals.

@@ -1,0 +1,1233 @@
+Geopolitics Frame Topic Results
+==============================================
+
+Source file:
+C:\Users\marie\Desktop\MA-Thesis\Analysis\Topic_modeling\Creating_frames\gl-cl-topic-results.txt
+
+Note: Topic result blocks are copied unchanged from the source topic-results file.
+
+Geopolitical topics missing from source topic-results file:
+None
+
+Topics
+------
+
+Topic 0
+  Videos: 267
+  Top words: nato, bye, allies, chief, natos, alliance, crisis, invasion, remember, give
+  Example titles:
+    1. 559z6BOzeXg, NATO vs Trump Over Greenland #conflict #shorts
+    2. rdCRvE45CT4, #Breaking: Trump issues fresh threat to NATO over Greenland
+    3. UdndFcQMcPE, breaking news trump warn nato all countris our greenland situation
+    4. LBu-sOcbC3c, “Why does Donald Trump wanting Greenland threaten NATO?! 😳”
+    5. NLEWKmfoe_I, Trump Wants Greenland — Could This Break NATO?
+    6. RkTXDRJ8jT4, Trump Wants Greenland — And This Could Break NATO
+
+Topic 5
+  Videos: 192
+  Top words: arctic, power, struggle, strategy, geopolitics, explained, suddenly, strategic, straightx, tensions
+  Example titles:
+    1. hGRoxOx5CTw, Why Is Greenland So Important? | Trump & Arctic Strategy Explained
+    2. Bl8LnzKU05o, Why the US Wants Greenland ❄️ | Trump’s Secret Arctic Strategy Explained #Shorts #greenland
+    3. MJhHJ-sHTGY, Trump advances strategic control over Greenland and the Arctic
+    4. kMNmulA_VIE, TRUMP WANTS GREENLAND — The Arctic Power Grab That Could Trigger a Global Crisis
+    5. dAoIfo2ykyg, Why Trump Wants Greenland: The Arctic Power Play #usa #trending #donaldtrump #geopolitics #short
+    6. Kq2UUVE0eGU, US & Greenland: Protecting Arctic Strategy #shorts
+
+Topic 11
+  Videos: 165
+  Top words: comedy, parody, funny, ai, moments, gillis, shane, satire, funnyvideo, jokes
+  Example titles:
+    1. eZ3mJ1s2pyk, Is that Trump in Greenland? ￼#trump #greenland #comedy #funny #justlaugh
+    2. OU5mlc_07KE, #trump #funny #greenland #comedy #shorts
+    3. KztdrG_c-cg, #Trump #Greenland #Parody #Comedy #FunnyVideo #TrumpMeme #AIVideo #ViralVideo #FunnyParody #ComedyS
+    4. CYcYBHKGG-w, Trump vs Greenland 😂 | The Funniest Political Parody #trump #comedy #humor #laugh #funny #hilarious
+    5. K_JBEYx9EhQ, Trump's First Day in Greenland😂 Funny Parody Video#trump#shorts#funny
+    6. FKlSgVqEAc8, Trump’s First Day in Greenland 🇬🇱😂 | Funny Parody Video#trump #shorts #funny (3 videos)
+
+Topic 15
+  Videos: 160
+  Top words: china, russia, chinas, logistics, ambitions, fighting, unnoticed, beijing, america, chinese
+  Example titles:
+    1. kZUxBVwBKNY, Why America, Russia and China want Greenland
+    2. le5B2JE95nQ, Why Russia, China, and the US All Want Greenland Now
+    3. xpSOdUQYGPc, Why America, Russia and China are After Greenland (3 videos)
+    4. pU4WXACyLRY, WHY USA, CHINA & RUSSIA AFTER GREENLAND?
+    5. D64CBU3N-X8, why US, RUSSIA and CHINA fighting for "Greenland"?
+    6. Lf450RFz8TM, The Real reason why Greenland has USA, China and Russia figthing
+
+Topic 16
+  Videos: 160
+  Top words: buying, buy, purchase, donald, interest, purchasing, market, donaldtrump, trump, reactions
+  Example titles:
+    1. WQVhLXCGoFk, Donald Trump Wants To.... Buy Greenland?
+    2. xrq7kZUgDoo, Donald Trump Wants to Buy Greenland
+    3. mLDlkUJqzq8, Why Donald Trump Wants to BUY Greenland
+    4. q--1v_WyBOc, DONALD TRUMP WANTS TO BUY GREENLAND!!
+    5. W29Y9snYaGo, TRUMP TO BUY GREENLAND #shorts
+    6. wdi2DvcKFF4, Trump purchase Greenland
+
+Topic 18
+  Videos: 156
+  Top words: cancels, danish, sale, politician, sell, buy, absurd, idea, tells, pm
+  Example titles:
+    1. GiEFll98AmQ, Trump Wants to Buy Greenland Again 🇺🇸🧊 | Denmark Responds🇩🇰🌍⚠️🛰️⛏️🛡️#Greenland #Trump #Denmark
+    2. 7XEj397oJ9U, Donald Trump Wants To Buy Greenland From Denmark
+    3. AREer0kvLxE, Why Donald Trump Tried to Buy Greenland from Denmark #shorts #usa #denmark
+    4. DtQ3freDzgY, Denmark Government reacting to Donald Trump wanting to buy Greenland 🇺🇸 🇩🇰 ~🇬🇱 😎🤪 ?
+    5. QwD3bjX8wp0, Why does President Trump want to buy Greenland from Denmark? #trump #greenland #denmark #usa
+    6. iyht1Jqg4ho, Denmark's reaction to Trump saying he wants to buy Greenland
+
+Topic 19
+  Videos: 155
+  Top words: europe, eu, european, union, eu5, remember, leaders, brexit, aoc, europeanunion
+  Example titles:
+    1. aYAZdZyk5rY, BREAKING: Trump Threatens Europe Over Greenland; Europe Responds
+    2. TqS2bLFsSIE, Europe's Threats to Trump Over Greenland Just BACKFIRED!
+    3. HVZrVkx8ZnM, "We NEED Greenland" :TRUMP hinting at another conflict in Europe. #trump #trendingsa #greenland
+    4. z1314oVX_ho, Trump VS Europe Over Greenland, European Union Comes To Greenland's Rescue As Trump Plans To Take It
+    5. F9-8KnNACwE, “Why is Europe protecting Greenland from Trump?”😐
+    6. EqX0UoxweEw, Greenland Shock: Why Trump’s Plan Is Scaring Europe? #TimesOfUK #Greenland #Trump #Europe #NATO
+
+Topic 25
+  Videos: 146
+  Top words: pdac, gold, mining, minerals, treasure, mineral, aex, resources, eldur, project
+  Example titles:
+    1. 3smmIwFIoO8, Why Greenland is the World's New Mining Goldmine
+    2. VAZOi7nKMUU, Exploring and Mining the Virgin Mineral and Gold Resources of Greenland with Eldur Olafsson
+    3. 9odOhh4cPOA, Greenland's Hidden Treasure: The New Mineral Gold Rush! #shorts
+    4. PFcn-1KKGUM, Why Greenland is the New Gold Mine #shortvideo #facts
+    5. sfOGWWJ2scc, Why the U.S. Wants Greenland: A Strategic Gold Mine
+    6. -46Tp32m31Q, Unlocking Greenland's Mineral Wealth: Eldur Olafsson's Vision for Amaroq Minerals #Gold #Iceland
+
+Topic 27
+  Videos: 144
+  Top words: invasion, military, invaded, attacked, invading, takeover, marines, alliances, expansion, would
+  Example titles:
+    1. QdFBcr9m1iQ, if America attacked Greenland #military
+    2. 0gZB6IolWQ0, Greenland Invasion: A Strategic National Security Threat? #shorts
+    3. SUPqVYa-ItU, What If US Invades Greenland
+    4. e09D4Ixvlx8, What if the US INVADED GREENLAND?
+    5. xJ8m8h4K4sY, US Invasion of Greenland: Military Consequences Explained #shorts
+    6. oy8FeFd1YBw, US Plans to Invade Greenland?
+
+Topic 29
+  Videos: 143
+  Top words: danish, pm, pressure, unacceptable, nasty, mep, threats, comments, denmark, takeover
+  Example titles:
+    1. bVNdRVEKYSg, How Denmark views Trump's threats to take over Greenland
+    2. C4fYEPiqNas, Denmark 🇩🇰 takes Trump's threats about Greenland seriously
+    3. 2lp_kR6DDrE, How Denmark is reacting to Trump's push for Greenland
+    4. ZCGl8TmjD-c, Greenland and Denmark taking Trump's threats 'extremely seriously': Fmr. Amb. to Denmark
+    5. CGWu5_z1Wco, Denmark’s Ex-PM: Trump’s Greenland Threat Is NO JOKE!
+    6. fapcWkCc2QA, American reacts to Denmark Responds to Trump ESCALATING Threats to take Greenland
+
+Topic 41
+  Videos: 129
+  Top words: denmark, donaldtrump, anders, danish, denmarks, andersvistisen, trump2024, paithan, warno, trump
+  Example titles:
+    1. 3vsU9vVUXDA, greenland | denmark | usavsgreenland | trump
+    2. GmKP_Tj7hkg, Trump latest Greenland now update news politics greenland denmark
+    3. qCSujYq1Lao, #trump #greenland #denmark #trump2024
+    4. 1FLuVNxGIOk, Trump Brings The World Together! 🇺🇸 #trump #greenland #denmark #danish #fyp #goviral #usa #funny
+    5. m7PQ4cHNT9c, Denmark Just Told Trump No Way #TrumpNews #Greenland #Shorts
+    6. -p4Go3cUKZY, Why does Trump want Greenland? #Geopolitics #Trump #Greenland #Denmark #Republican #Danish
+
+Topic 43
+  Videos: 125
+  Top words: buy, tried, bought, trying, almost, states, buys, united, america, interest
+  Example titles:
+    1. uGMPPSyj9Eo, US Wants to BUY Greenland!! 🤯 #shorts
+    2. ULooZ2M9iDI, Why USA wanted to buy Greenland
+    3. aDyxz3R2zNU, Why Did the United States Try to Buy Greenland #shorts (2 videos)
+    4. JhI1UNJjPog, USA buying Greenland? 🇺🇸🇬🇱 #shorts
+    5. O5rXj5Vd_Mk, Why Does the USA Want to Buy Greenland?
+    6. 3ixIA48l4wE, Why Did the United States Attempt to Buy Greenland?
+
+Topic 44
+  Videos: 124
+  Top words: geopolitics, geopolitical, worldpolitics, globalpower, global, becoming, flashpoint, took, importance, hotspot
+  Example titles:
+    1. EMp9NidRLX8, Why is Greenland becoming so important in global geopolitics? #Greenland
+    2. w9C_OPqvZpc, this is why the US wants greenland #greenland #geopolitics
+    3. qXSPkxy7-Co, Why Usa Wants Greenland? 🤷|#shorts #greenland #geopolitics
+    4. ond0HOymZI4, Why Greenland is important in Geopolitics
+    5. Pb2mLXSeTvY, The Geopolitical Importance of Greenland for the US
+    6. DLXcu0B62IY, Why is the USA interested in Greenland #facts #geopolitics #usa #greenland
+
+Topic 47
+  Videos: 123
+  Top words: buy, wants, buying, idea, rogan, wanted, joe, sources, replied, trump
+  Example titles:
+    1. f_K6QCEwn5M, Trump wants to buy Greenland #shorts #trending
+    2. -KMs-rw8jlw, #Trump wants to buy #Greenland
+    3. jpIwtGrH3oU, Trump wants to buy Greenland. But why!?
+    4. dKl64GXgstw, Trump Wants to Buy Greenland!
+    5. 75-NsE6vK9Q, Trump Wants To Buy Greenland?
+    6. FhpN2VPj9Mw, Why Trump wants to buy Greenland? (2 videos)
+
+Topic 51
+  Videos: 119
+  Top words: iran, protect, offers, mindless, iranian, iranisraelwar, eu, cant, mocks, statement
+  Example titles:
+    1. NW_dVEipQlY, iran going to protect Greenland from us 😂😂 #iran #greenland #usa #shortsfeed #globalnews
+    2. KfnrcvZ4k2s, TRUMP’S REAL TARGET— Not Iran, But Greenland
+    3. SN3kalsHzSE, Is Greenland a Distraction from Iran? | One Decision #greenland #trump #iran
+    4. xoJRw23paC8, Iran will Protect Europe’s Greenland from Mindless Trump if needed #longliveiran #againstimperialism
+    5. OaIh695Xs4Y, IRAN offers to protect Greenland from US
+    6. uwRMH_wa0u8, Iran attack or Greenland?
+
+Topic 53
+  Videos: 115
+  Top words: canada, 3b, expansion, 51st, direct, canadas, annexed, ditches, goes, warning
+  Example titles:
+    1. ZSQBblwN-jE, Trump v Canada for Greenland Grab #trump #canada #greenland
+    2. -DiPMlicaJo, Trump's Big Plans for Canada and Greenland #trump #greenland
+    3. PBwJzBcmoNs, Trump's Bold Claims: Canada & Greenland Next? #canada #trump #economy
+    4. XrVN0lpEZOs, Trump's Controversial Expansion Plans: Greenland and Canada
+    5. uOct302NUrI, President Trump’s plans for Greenland & Canada 👀
+    6. dWezRgBlV1E, Canada Sends DIRECT WARNING to Trump With Greenland Expansion!
+
+Topic 55
+  Videos: 113
+  Top words: geopolitics, geopolitical, crisis, propaganda, global, politics, brits, worldpolitics, meltdown, worldnews
+  Example titles:
+    1. 9woXkI_iIBg, Greenland Deal: Geopolitical Strategy or Trump is crazy? #shorts #geopolitics #trump #worldnews
+    2. 8XO3PLJphzc, #Greenland#WorldPolitics#TrumpNews#Geopolitics#GlobalAffairs
+    3. T-OZX94C9hE, Why Trump wants Greenland #shorts #geopolitics #trump
+    4. gtMEHYyXVIo, Why Trump wants Greenland? #shorts #geopolitics
+    5. w2tyXYIo0Vw, Trump Setting Sights on Greenland #Trump #Greenland #WorldNews #Geopolitics
+    6. Y8Oi7QR3uU8, Why Trump wans Greenland? #shorts #trump #geopolitics #greenland #usa
+
+Topic 57
+  Videos: 113
+  Top words: vance, jd, usha, vice, jdvance, vp, wife, vances, lady, president
+  Example titles:
+    1. jdh1VYvmbgw, Vice President JD Vance on Greenland Talks
+    2. c7Nnn68pdTk, Greenland reacts to JD Vance's visit amid Trump comments
+    3. 2caGYRPiMg0, Vice President JD Vance Visits Greenland Amid Tensions Over U.S. Acquisition Plans #Greenland #Vance
+    4. 8H5mxHSvML4, JD Vance is desperate for Greenland #jdvance #greenland #trump
+    5. lC5LeUNBndc, Vice President JD Vance visits Greenland
+    6. nEO1Im4i6bc, JD Vance set to join Usha Vance in Greenland #shorts
+
+Topic 61
+  Videos: 110
+  Top words: nuclear, base, secret, under, buried, city, century, coldwar, camp, reactor
+  Example titles:
+    1. leeA1kIYZKQ, US Cold War Secret Nuclear Base Under Greenland Ice #shorts
+    2. 2aXtISveEp4, The US Secret Nuclear City Hidden Beneath Greenland's Ice
+    3. 8GLTtb8A8R4, Why The US Built A Secret Nuclear Base Under Greenland's Ice 🧊☢️
+    4. 2KfEwhIKkfQ, Secret Nuclear City Hidden Under Greenland Ice - Camp Century Exposed (2 videos)
+    5. -JXYoeSRgZA, The Secret Nuclear City Hidden Under Greenland's Ice Sheet ❄️
+    6. AaNGKISzaqQ, The Secret U.S. Nuclear Base Hidden Under Greenland's Ice/ like share subscribe
+
+Topic 69
+  Videos: 105
+  Top words: wants, reason, usa, america, usashorts, obviously, united, states, want, badly
+  Example titles:
+    1. YJiBMvW24lI, Greenland - Why the USA wants it
+    2. YK40su3AWlo, Why USA wants Greenland? 😱 #shorts
+    3. _4TyIO60YqM, Why USA wants Greenland
+    4. EVK-pn0OnC4, US Wants Greenland 🇬🇱 #usa #greenland #shorts
+    5. JNMzjJ-XS6A, Why Us wants Greenland #shorts
+    6. CnvfjWt6EBM, Why the US Wants Greenland?
+
+Topic 70
+  Videos: 105
+  Top words: attack, ally, denmark, nato, warns, troops, tensions, prepared, us, denmarks
+  Example titles:
+    1. 0_mCiqdd3N8, Denmark Calls the US a Security Threat #denmark #usa #greenland #nato #worldsecurity #defensepolicy
+    2. 88aNtwpkmk8, Denmark Warns Greenland Invaders #greenland #denmark #nato #usa #geography
+    3. ySB4YytOkCs, Denmark Says US Attack on Greenland Would End NATO
+    4. RTiNiTs4bK4, 🇩🇰🇬🇱 Denmark boosts defense in greenland amid renewed us interest #greenland #denmark #trump #arctic
+    5. P3oL_GLRSII, U.S.A - America Is Trying to Annex Greenland - Denmark and NATO are ANGRY!
+    6. I9_pXOsW0TM, Trump vs NATO: A Crisis Over Denmark's 'Not For Sale' Greenland #usa #trump #greenland #denmark
+
+Topic 76
+  Videos: 102
+  Top words: denmark, talks, breaking, boosts, locked, carney, militarily, munichsecurityconference, against, constructive
+  Example titles:
+    1. kf8k4hblkcg, Denmark protecting Greenland.#denmark #usa
+    2. 18y2anLl7k8, Trump says US, Denmark, and Greenland will reach an Arctic security deal
+    3. 3Un3VlNfGPA, “Can’t Rely On Denmark”: Trump Reiterates Russian Threat On Greenland | ET Now #shorts
+    4. rwgwqtq-RDg, Trump and Greenland #threats #war #seizing #denmark #greenland
+    5. tgNTGTEAa9s, Greenland Denmark’s Strategic Power Play #greenland #denmarkvsus #trump #military #denmark
+    6. NN399Q0s37s, Denmark Threatens Greenland
+
+Topic 89
+  Videos: 96
+  Top words: superpowers, powers, superpower, power, pivot, electrician, fighting, global, fat, nuked
+  Example titles:
+    1. 4dX5VbDIcvo, Why Worlds Superpowers Fighting Over Greenland? 🤔🤨
+    2. y_-BqSJJV0w, Why World Super Powers are fighting Over Greenland?
+    3. vk9sPnOlx_c, Why World Super Powers are fighting Over Greenland
+    4. My0_CjNSPRU, Greenland Is Center of a Global Power Struggle
+    5. l8RsurCjcN0, Why Greenland Will Decide Global Power by 2026 ?
+    6. pn9yhz7oDhU, Is Greenland the Next Global Power Battle? ❄️🌍
+
+Topic 91
+  Videos: 94
+  Top words: consulate, consulates, open, opens, france, canadian, opening, canada, ceremony, embassy
+  Example titles:
+    1. jlYbr-WaTiw, Canada opens consulate in Greenland
+    2. BKtg-dxM4xo, Canada Opens Greenland Consulate
+    3. _HFf9a2Qg0w, 🇨🇦 Canada opened consulate in Greenland
+    4. AWOCxFb4E44, Canada and France open consulates in Greenland
+    5. y9lKgWUJG-U, Canada and France open their consulates in Greenland (2 videos)
+    6. OwOwaLTslE0, International: Canada, France Open Greenland Consulates
+
+Topic 94
+  Videos: 93
+  Top words: way, take, other, get, control, were, it, one, going, taking
+  Example titles:
+    1. 7H_ZdTqIhYE, Trump says U.S. will take Greenland ‘one way or the other’
+    2. --x4XlX_tjg, Trump Wants to Take Over Greenland!
+    3. UAcjPQKvmSc, President Trump Says He Will Take Greenland "One Way or the Other"
+    4. 8ZQwXJQHNzs, TRUMP TAKES OVER GREENLAND
+    5. 9DNzoBCQc2o, How Will Trump Take Greenland?
+    6. StPvp58_t9M, Will Trump take Greenland?
+
+Topic 100
+  Videos: 90
+  Top words: bomb, nuclear, missing, 1968, still, lost, crash, since, bombs, years
+  Example titles:
+    1. JPm94Zs-fe0, Nuclear Bomb Still Missing Under Greenland Ice Since 1968 Crash
+    2. scl_anUNWJc, The Missing Nuclear Bomb Still Lost Under Greenland's Ice
+    3. KCffB_HK0is, Missing Nuclear Bomb Still Lost in Greenland Ice Since 1968 Crash
+    4. FBI7a85DgGw, The Nuclear Bomb Still Lost Under Greenland's Ice Since 1968 (2 videos)
+    5. _ijNUDcblSI, Nuclear Bomb Still Lost Under Greenland Ice for 50+ Years
+    6. F56r8pqQ0b4, Nuclear Bomb Lost Under Greenland Ice for 50+ Years - Military Cover-Up Exposed
+
+Topic 101
+  Videos: 90
+  Top words: deal, estate, leavitt, agreed, karoline, concept, pretty, negotiation, well, negotiating
+  Example titles:
+    1. k0gO7fnI-9c, Trump’s Greenland Deal! #Greenland #Trump #Shorts
+    2. _LSqwL-6bJo, Trump's Greenland Real Estate Deal #shorts
+    3. tVPLfAWHf4w, URGENT: Did Trump Just Make a DEAL on Greenland?
+    4. ZSSwiDqza6Q, Trump Greenland Deal: What You Need to Know #shorts
+    5. udQeKSQeuUE, Trump's Greenland Deal: Concept or Reality?
+    6. 7jH078JqKP8, Buying Greenland: Trump's Most Insane Real Estate Deal Yet?
+
+Topic 103
+  Videos: 89
+  Top words: tariffs, tariff, vantage, palki, sharma, framework, deal, eu, threatens, ankit
+  Example titles:
+    1. 9kX30_XbYXE, Trump Backs Off Tariffs on Europe Over Greenland Plan
+    2. 5LR3vjPqJIk, Trump Greenland Tariff Threat Risks New US-Europe Trade War
+    3. i7u5p5grO4Y, TRUMP GOES CRAZY ON EUROPE | Tariffs on NATO Allies for Defending Greenland | By Prashant Dhawan
+    4. NMZO1Z04DYo, Trump announces new tariffs on European nations that oppose his Greenland plan
+    5. Gmx9eO0PFx8, Trump's Greenland Deal: Tariffs or Godfather Threats? #shorts
+    6. nhiu41j41O0, NEW: Trump considers tariffs for countries opposing US control of Greenland #shorts
+
+Topic 107
+  Videos: 88
+  Top words: hospital, ship, sending, send, boat, rejects, healthcare, medical, sends, thanks
+  Example titles:
+    1. PXwIEqBeAw4, Trump Sending Hospital Ship to Greenland? 🚢
+    2. IZzfoPuktWw, Trump to send hospital ships to Greenland
+    3. JXE9M-QlMtc, Trump Plans to Send Hospital Ship to Greenland #news
+    4. QlxipwQR7Fo, Is President Trump Sending a Hospital Ship to Greenland? | Where Are They and Can They Go?
+    5. 2U-nR3G4tbY, Is President Trump Sending a Hospital Ship to Greenland. - Where Are They and Can They Go
+    6. 76RGueyBX4M, Is Trump Really Sending a Hospital Ship to Greenland or Is This Something Else | Lets Read News
+
+Topic 113
+  Videos: 86
+  Top words: exercises, leads, exercise, patrol, gripen, sweden, military, nielsen, nordic, jets
+  Example titles:
+    1. Jp-EhhNyJDE, Denmark High Alert! NATO Allies Boost Military Presence in Greenland Amid Arctic Tensions
+    2. OZ8JPx182Ao, Denmark leads NATO Arctic drill in Greenland
+    3. 2cdevCooePM, Greenland Responds #news #greenland #usa #denmark #nato #europe #military #arctic #geopolitics
+    4. CqckV1Ll0Sc, Denmark Leads NATO Arctic Exercise Amid Tensions Over Greenland
+    5. mXo6g2XoMxo, FULL PRESSER: Greenland, Canada & Denmark FMs on Arctic Security, Defense, US Relations, NATO | AC1N
+    6. LkjJJEhPU18, Arctic Tensions Rise: Denmark, Greenland Address Trump & NATO Strategy | Munich Conference | AC15
+
+Topic 115
+  Videos: 86
+  Top words: president, treatin, getting, whether, aint, donald, trump, pov, he, going
+  Example titles:
+    1. RTT6J5Lwgs8, Greenland🚫#greenland #trump
+    2. DsbTaOp9Vo0, TRUMP vs GREENLAND
+    3. AzixrgBPFEI, 😂😂😂#greenland #trump
+    4. HmA_MohyxvM, Trump x Greenland
+    5. jp_aIkOCfuw, trump greenland
+    6. Lik6H0LBkSQ, Trump & Greenland
+
+Topic 116
+  Videos: 86
+  Top words: plan, takeover, secret, trillion, mason, shares, trumps, plans, critical, eyes
+  Example titles:
+    1. OapAhMW_Mpw, Trump's SECRET Greenland Plan REVEALED! (2 videos)
+    2. FRwAOC228ok, Trump's SECRET Greenland Plan EXPOSED!
+    3. QiXkAdIifYA, Trump's SHOCKING Plan for Greenland
+    4. W4Utb2HfEEY, Trump's Greenland Plan: What Really Happened?
+    5. OHJYpAYcWw4, Trump's Greenland Plan: Greenland Unaware of
+    6. MG1eG0jLkeA, Why Trump Needs Greenland: The Secret Trillion-Dollar Plan
+
+Topic 124
+  Videos: 83
+  Top words: independence, independent, party, self, election, eske, eskebrun, brun, parties, determination
+  Example titles:
+    1. TcYR0WHHBJ4, Greenland Elections and Independence
+    2. uFSgqreJKRA, Greenland wants independence
+    3. mh9hxZ9TIiQ, Will Greenland Get Independence?
+    4. WqyROFjcPaI, Greenland but Independent??? #shorts
+    5. ges5D_VlSDM, Will Greenland be independent?
+    6. _4k8oghDPug, Greenland's Election: Independence or US Influence?
+
+Topic 130
+  Videos: 81
+  Top words: move, bold, next, administrations, insurrection, relationshi, strengthen, whats, political, carla
+  Example titles:
+    1. oBE92gJObYM, Greenland's Election: Trump's UnexpectedInfluence! #greenland #donaldtrump #politics #news #shorts
+    2. -nVcfdgQZlU, Trump's Bold Greenland Move: What's Next? 🇺🇲
+    3. PupU068UALs, Trump’s 2026 Move for Greenland
+    4. u8VP-6gsr1Y, 🇬🇱🇺🇸😂Trump vs Greenland: The Shocking Political Drama Explained
+    5. tgf06mHXNoI, “Inside Donald Trump’s Greenland Strategy 😳”
+    6. ZKohDvilRLo, Trump's Greenland Strategy: What's the Real Story Behind It?
+
+Topic 133
+  Videos: 80
+  Top words: panama, canal, canada, mexico, panamacanal, bold, control, greater, labour, reclaim
+  Example titles:
+    1. 8K2ZADNUZZ4, Trump Wants Panama Canal, Greenland & Canada
+    2. AQxv9QnuJSM, Why Trump wants Greenland, Canada, and the Panama Canal
+    3. QDPNW6n0odI, Why Trump Wants Greenland and the Panama Canal
+    4. LTQTZtEHGk4, Why Donald Trump wants Greenland, Canada and the Panama Canal
+    5. wDTTkxgEN5g, Why does Trump want to acquire the Panama Canal, Greenland and Canada?
+    6. 3y5Y4KdfBZI, Trump Wants Greenland, Panama Canal, and Canada?! #geopolitics #internationalrelations #breakingnews
+
+Topic 137
+  Videos: 79
+  Top words: canada, border, baffin, annexed, united, agesofconflict, technate, canadian, empire, states
+  Example titles:
+    1. cq0rXaXPjNc, Do Americans want to annex Canada and Greenland?
+    2. zSbaXliTgiM, What If the USA, Canada, and Greenland United into One Country?
+    3. KxVJZyizh5c, America’s Ambition Behind Canada & Greenland!
+    4. P5hMrmB2z70, Greenland Canada United States and north america
+    5. yiwr8jiim_A, Canada is connected to Greenland??? #country #geography
+    6. U9LC9nRm7jw, What If Canada and Greenland United??🇨🇦🇬🇱
+
+Topic 143
+  Videos: 78
+  Top words: breakingnews, protest, protests, congressman, worldnews, journalist, foreignpolicy, oreillys, dumpert, battleships
+  Example titles:
+    1. PXjFVCuQthw, #TrumpWantsGreenland #Greenland #WorldNews #Trump #InternationalPolitics #BreakingNews
+    2. WCZm-Io-yZA, Trump on war and Greenland #breakingnews
+    3. _HZK0NAR0ew, DONALD TRUMP EVERYDAY ABOUT THIS PLANET #BreakingNews #Trump #Greenland #Geopolitics#WorldEye360
+    4. 5-0F-EMOdaM, Why Trump wants Greenland? #greenland #trump #america #usa #trumptariffs #war #trumpnews #shorts
+    5. YpjwuJcG6L8, Greenland News Trump Attack #shorts #news #greenland #viralnews
+    6. iHhbvAIdCwU, “We’re Taking What’s Ours” Trump’s Greenland Plan Sparks Global Alarm #trumpnews #greenland #usnews
+
+Topic 145
+  Videos: 78
+  Top words: venezuela, cuba, rico, puerto, iran, doctrine, justification, monroe, dirty, dhs
+  Example titles:
+    1. 5_rp3R1kNe0, Trump's WILD Global Takeover: Venezuela, Iran, Greenland?! 🌍🤯 #shorts
+    2. EgSHzZEfmDs, Greenland is not Venezuela ❌ So Please President Trump🖕Off🏴🇵🇰💯
+    3. Rb-XhKW4mGY, Trump's Strategy in Panama Venezuela Cuba Greenland Iran Cuba: Protect Trade Routes/Energy/Security
+    4. -Fy-xWZivEQ, Why Trump Targeting So many Countries - Greenland, Venezuela,Iran ?
+    5. ODf_QEONRyw, Trump’s Trillion-Dollar Masterplan: Trade Wars, Iran, Venezuela, Greenland
+    6. iDZeYcw-vIc, Geo political situation Now💀 #russia #trump #greenland #venezuela #geopolitics
+
+Topic 146
+  Videos: 77
+  Top words: rare, minerals, dome, earths, uranium, golden, mining, logistics, rareearth, mineral
+  Example titles:
+    1. bp2gruBZd1U, Greenland Crisis, Why America Wants Greenland, Rare Earth Minerals
+    2. E6y1VrInNWo, #Greenland US Wants Rare Earth Minerals Shocking Truth
+    3. GeiYEDZ0gbo, Largest Rare Earth Mineral owner REVEALS TRUMP wanted to BUY GREENLAND #trump #greenland #rareearth
+    4. at88PAPr9hc, Why USA Wants Greenland Security or Rare Minerals?
+    5. iNOheTiedoo, Trump Tariffs & Greenland Minerals Geopolitical Hotspot Explained
+    6. 7-V19farsSc, The Real Reason the U.S. Wants Greenland | Rare Earths, Resources, and U.S. Strategy #usa #greenland
+
+Topic 150
+  Videos: 75
+  Top words: base, thule, abandoned, military, bases, stationed, coldwar, encountered, militarys, air
+  Example titles:
+    1. EuilJyJ4vtc, The Secret US Military Base in Greenland 🇬🇱🤫
+    2. GNCcrPp6fY4, The USA's Abandoned Military Base in Greenland
+    3. ShOaxL_WSxI, Did You Know? US Military Base in Greenland
+    4. wKP6tYA6ds4, How NASA Discovered a Military Base under Greenland
+    5. UW7zg-vpJZY, The Top Secret To Build A Military Base In Greenland #history #war #military #trump #coldwar #fyp
+    6. TT616WgK5LQ, #coldwar #history #greenland #nuclearbase #militarysecret
+
+Topic 153
+  Videos: 73
+  Top words: annexation, annex, senators, senator, murkowski, trust, pushback, backfires, scheme, tried
+  Example titles:
+    1. GeZrCEJUikg, Trump's Greenland Ambition: US Annexation?
+    2. 8v3rLUqJHO8, Trump's Greenland Annexation Threat!
+    3. mKALjI-KTvQ, Greenland's Future: Trump's Deal or Annexation?
+    4. QQPI7I-6xZY, Greenland’s Future in Focus: U.S. Promises Security, Not Annexation #breakingnews #trump
+    5. 7FmwThFy9-k, Trump Predicts Greenland Annexation! #news
+    6. uJhahVhx-v4, Trump confident US will annex Greenland
+
+Topic 156
+  Videos: 72
+  Top words: strategic, ww2, war, wwii, nazis, asset, importance, during, qfleetnews, ii
+  Example titles:
+    1. LW-7_PyHe7M, Greenland in World War 2
+    2. 6PRaJM7F7ug, #youtubeshorts #greenland #usa #war
+    3. 6ZanqmrUaHg, Greenland: US Strategic Importance & Defense #shorts
+    4. _4pOAksClLI, Greenland in World War II |
+    5. v8PPUavBfUs, Greenland in World War II
+    6. EY4X6QHkeFM, Allies of USA🇺🇲 and Greenland🇬🇱🇩🇰 #usa #greenland #edit #war
+
+Topic 168
+  Videos: 69
+  Top words: election, frederiksen, elections, mette, snap, votes, early, vote, seeks, calls
+  Example titles:
+    1. oxp3kPwLIjc, Danish Elections #denmark #elections #greenland #war #geopolitics
+    2. GJlj6jF5STM, 🇩🇰 Denmark Calls Early Election After Trump’s Greenland Push Sparks Political Tensions!
+    3. nNtgHxoTwow, Denmark votes in election clouded by Trump's Greenland push
+    4. q0zcZp6j77w, Denmark calls early election amidst Greenland tensions
+    5. vd8I6Xj96DM, #Greenland votes for pro-business party in elections | #shorts #election #politics #trump #denmark
+    6. V7GoRJr1eCU, Denmark Election Under Threat? Russia, Greenland & Global Tensions
+
+Topic 172
+  Videos: 68
+  Top words: invade, hegseth, invading, military, invasion, deny, options, attack, plans, pentagon
+  Example titles:
+    1. 1jdELHhU-Q4, Trump is going to invade Greenland
+    2. T8t3mrvQcMw, Why Trump Wants To Invade Greenland
+    3. LSa-VVW2YbE, Is Donald Trump going to invade Greenland? #trump #greenland
+    4. 1mU0VmkHHU8, Will Trump invade Greenland? (2 videos)
+    5. KpKKmAWZUiY, Will Donald Trump Invade Greenland?
+    6. -vQp9evl12g, Trump Just Ordered A Military Invasion Of Greenland
+
+Topic 183
+  Videos: 65
+  Top words: ruby, rubies, miners, crystals, gem, gems, tugtupite, gemstone, fluorescent, rubys
+  Example titles:
+    1. 1JpOtVgV6Zw, Greenland rubies #gems #ruby #geology
+    2. B-ipT5AUHiw, The Mystery of the Greenland Ruby: Gem Beneath the Ice
+    3. T_UWBvSzH-c, Unveiling the Mystery of the Greenland Ruby: A Gem from the Ice
+    4. yfJ-RdELyRw, Miners Discover Stunning RUBY Deposit In Greenland! | Ice Cold Gold
+    5. OLVIhttDuTk, American Miners Uncover Greenland's Hidden Riches: From Rubies To Sapphires! | Ice Cold Gold
+    6. HDZau9OLrNU, These are #rubies being sorted from a mine in #Greenland #shorts #gems
+
+Topic 189
+  Videos: 64
+  Top words: force, use, threats, wont, take, issues, ultimatum, uncertainty, rules, statements
+  Example titles:
+    1. _lxxSRdeSkg, WHY IS TRUMP THREATENING FORCE FOR GREENLAND
+    2. shI_mfukbn8, Donald Trump threatened Greenland. #shorts
+    3. LweiJYVrXLk, Greenland reacts to Donald Trump's threats
+    4. b07-vCPD8Hs, Trump says he 'won't use force' to take Greenland
+    5. 5VW536UBEhY, Trump does not rule out taking Greenland by force
+    6. pzAV0QOoLr8, President Trump says he won't use force for Greenland
+
+Topic 196
+  Videos: 63
+  Top words: iceworm, project, secret, tunnels, nuclear, under, beneath, worm, city, missiles
+  Example titles:
+    1. Zn4hs5n0wbg, Project Iceworm: The secret US nuclear missile base hidden under Greenland's ice
+    2. NMEG1zwGMx0, Project Iceworm: The US Army's Secret Nuclear City Under Greenland's Ice
+    3. dXS8egdFSxs, Project Iceworm: The Secret Nuclear Plan Hidden Beneath Greenland’s Ice #history
+    4. hIBQOWFwPXw, Project Iceworm: The Secret Nuclear Base Hidden Under Greenland’s Ice
+    5. je67AjlPgkQ, Project Iceworm: America's Secret Nuclear City Under Greenland's Ice
+    6. zSE1gr0ZkWk, Project Iceworm: The Secret U.S. Nuclear City Buried Under Greenland's Ice
+
+Topic 200
+  Videos: 62
+  Top words: gambit, nobel, prize, snub, drama, peace, politician, island, trumps, unfolds
+  Example titles:
+    1. hD_pkd4NpxE, Trump’s Greenland Gambit: Why the US Needs This Island Now
+    2. 7IRZ6ZP-dvA, Trump's Greenland Gambit
+    3. W1O2LQuEj2g, TRUMP'S Greenland Gambit : A Diplomatic Drama unfolds!
+    4. x_pxzeGJGZ8, Greenland: Trump's Obsession with Buying the Island #shorts
+    5. KQSEIdA6NPE, 📰 New analysis: "The Arctic Gambit: Can Trump Actually Buy Greenland?"
+    6. zvLO0tqmeXs, Trumps Greenland Gambit #trump #greenland
+
+Topic 201
+  Videos: 62
+  Top words: resources, strategy, trade, china, business, arctic, treasure, investment, role, giuk
+  Example titles:
+    1. Kvs91UWlUkk, Why Greenland Is So Valuable: Arctic Resources, Strategy, and Global Power
+    2. CbloxVrYL5k, Greenland: The Hidden Geopolitical Goldmine #ArcticPower #GlobalStrategy
+    3. K3otlYFaMtE, Greenland: Strategic Arctic Hub or Resource Goldmine? #shorts
+    4. YukfAivuklI, Greenland: The Arctic’s Strategic Prize
+    5. ePzYYbvO5Qw, The Arctic Is Melting — And It's Redrawing the Global Economy #Arctic #Geopolitics#Greenland#Shorts
+    6. qowPDaIZkGU, Greenland's New Role: The Melting Arctic's Opportunities
+
+Topic 206
+  Videos: 61
+  Top words: does, want, needs, bad, desire, whether, donald, need, own, bennyboimusic
+  Example titles:
+    1. qexV6m5jULM, Why does Trump want Greenland? (9 videos)
+    2. NoXuW4QfbUU, Why Does Trump Want Greenland ? #shorts
+    3. 7p5I_DqAgS4, Why Does TRUMP Want Greenland? #shorts
+    4. 2WA-i7uVBaY, Why does Trump Want Greenland? #greenland (2 videos)
+    5. tJhmJmEfNe8, Why Does Trump Want Greenland? 🇬🇱
+    6. njm1DpwmO8c, Why does Trump want Greenland ? 🇬🇱
+
+Topic 207
+  Videos: 61
+  Top words: security, covert, national, operation, conducting, operations, cia, need, needs, international
+  Example titles:
+    1. fjVpZzbfHs0, Trump on Greenland and National Security
+    2. 4VzbWUiuPwE, Trump Says US Needs Greenland For National Security | 10 News
+    3. C96isyAxRKA, Trump Says US Needs Greenland for ‘National Security’
+    4. Wr39uvijpMg, Donald Trump Says US Needs Greenland for National Security
+    5. 60F_y48HVEA, Donald Trump on Greenland: 'We Need It for National and International Security
+    6. wxgjepu0HOY, #watch | Trump says US needs Greenland for international security #viral #shorts
+
+Topic 208
+  Videos: 60
+  Top words: reason, reasons, minutes, real, wants, cares, want, australia, does, secretplan
+  Example titles:
+    1. L0aoYbuvaBQ, Real reason why Trump wants Greenland
+    2. yJ0P-xkIQHY, The Real Reason Trump Wants Greenland (3 videos)
+    3. b9RjE6YZ7pY, Greenland - The Real Reason why Trump Wants - Video # 2
+    4. MGVdMpWiUow, This Is The Reason Trump Wants Greenland
+    5. 71WDC5wPUJk, Why Trump Wants Greenland ? | Real Reasons
+    6. O0AX-4QlVlA, 3 SHOCKING Reasons Trump Wants Greenland
+
+Topic 216
+  Videos: 59
+  Top words: putin, trumpinc, played, putins, takes, well, xi, maduro, disguise, troll
+  Example titles:
+    1. egIG5h2Z2YY, Trump takes Greenland, But Putin's played wellI| #usa #trump #funny #trumpinc #shorts
+    2. UJopMT_oABo, Trump takes Greenland, But Putin's played well || #usa #trump #funny #trumpinc (5 videos)
+    3. IRgd4iAoJME, Trump takes Greenland, But Putin's played well || #usa #trump #funny#trumpinc
+    4. FqQ9zg4vaVk, Trump takes greenland,but Putin’s played well||#usa#trump#funny#trumpinc
+    5. CYUtrobsWeI, Putin Saves Greenland! Trump Arrives in Disguise 😂 #PoliticalSatire #Greenland #Putin #Trump #Parody
+    6. t6fY0n4rF3s, Trump takes Greenland, But Putin's played well 😁😁#aishorts #ai #aivideo #usa #trump #viral #shorts
+
+Topic 217
+  Videos: 59
+  Top words: sentry, launches, internet, nato, danger, arcticsentry, arctic, concerns, threats, mission
+  Example titles:
+    1. nwtqKJBx1xc, Greenland: US Arctic Defense? NATO's Out!
+    2. a5gmfw8Mc8I, NATO’s Arctic Shield! 🏔️🇺🇸 #NATO #Greenland #Trump #ArcticSentry #BreakingNews #Geopolitics
+    3. L5c2Qya1mRQ, NATO launches Arctic mission amid Trump’s Greenland threats | ABC NEWS
+    4. RT2KIEggy_A, NATO Boosts Arctic Security as Greenland Debate Grows | What NATO Is Planning | World News
+    5. UPTl0eKfxzw, #NATO #ArcticSentry #ArcticSecurity #Greenland #GlobalSecurity #Geopolitics #InternationalRelations (2 videos)
+    6. ROP8I1PHHl4, LIVE: Will NATO’S “Arctic Sentry” Ease Tensions Over Trump’s Greenland Push? | Firstpost America
+
+Topic 222
+  Videos: 58
+  Top words: independence, defensive, fortification, danes, denmark, weapon, start, geopolitics, danish, greenlanders
+  Example titles:
+    1. TmXSH6sJSyw, Why Does Denmark Control Greenland?🌎#shorts #denmark #greenland
+    2. 09yEjkwcGLY, Greenland is important for all latest update us denmark update politic
+    3. MKavX9xaPQ4, Greenland and denmark Conflict
+    4. 2Ff6zKpmHO4, The Shocking Reason Greenland Is Still Owned By Denmark! 🇩🇰😲 |#shorts #geopolitics #greenland
+    5. hCJyDfpy2Is, Greenland Is Moving Towards Independence From Denmark VERY Quickly #trump #greenland #news
+    6. 8P7Xf8Njhls, US Denmark and Greenland #geopolitics #internationalrelations #currentaffairs
+
+Topic 224
+  Videos: 58
+  Top words: funny, memes, noah, trevor, meme, hilarious, takes, grammys, shanegillis, prank
+  Example titles:
+    1. 49MuMPRglSk, Trump First Day in Greenland 🤣| Trump || Full FunnY 🤣 || #funny #memes
+    2. GyJve8hV-90, Trump Wants Greenland but 🤦🤣 Funny Meme #trump
+    3. 51Q_5sbwL5M, Trump and Greenland #funny #trump #greenland #humor #jokes #lol #memes #laugh #comedy #fun
+    4. 4ONPpII40k8, #funny #memes #trump #greenland
+    5. -dMdd1WaiQU, Trump in Greenland 2 #trump #funny #shortsvideo #greenland
+    6. -ROL1ywaC7E, Trump vs Greenland #funny #comedy #prank #memes #facts #fun #duet #newmemes #redditrecap #redditdown
+
+Topic 225
+  Videos: 58
+  Top words: pm, minister, message, prime, athletes, address, territory, you, residents, asmongold
+  Example titles:
+    1. y6y811mtTZU, Trump responds to Greenland's PM
+    2. t6qMSc3cM-Y, Greenland PM Fires Back At Trump Over Territory Remarks
+    3. MgCe7CWSbR8, What Greenland’s prime minister said about Trump
+    4. bDiQBLg4FkQ, Q&A | Greenland's PM takes questions on Trump, sovereignty and what comes next
+    5. b6O79xp1gMo, Greenland PM Warns Trump Still Wants Control
+    6. 9lFmaK9i4cc, Greenland PM REJECTS Trump's Bold Claim! #newsdigests #greenland #trump
+
+Topic 232
+  Videos: 56
+  Top words: donaldtrump, maga, bestshorts, donald, currentaffairs, elonmusk, finally, got, politics, fasching
+  Example titles:
+    1. zx9ygBOS034, Why Trump want Greenland?? #donaldtrump #usa #greenland
+    2. v2cJzqSiBcg, Donald Trump on Greenland Update #usa #trump #donaldtrump
+    3. 5fR7jSlSqh0, Donald Trump Ingin Greenland #donaldtrump #america #greenland
+    4. sGLSsGBqFjg, Why Donald Trump Want Greenland? #CurrentAffairs #UPPSC #DonaldTrump #Greenland #Shorts
+    5. UmGAY_UjgcE, Donald Trump really wants Greenland #trump #donaldtrump #greenland
+    6. YBPTVerjt78, Donald Trump's intrest in GREENLAND #trending #greenland #donaldtrump #usa #history #worldnews
+
+Topic 234
+  Videos: 56
+  Top words: exos, heroes, ufc, mma, battle, pvp, fight, team, clan, battlegroup
+  Example titles:
+    1. qa5S1TTfScI, Battle of Greenland
+    2. IcUi9s87edw, The Battle for Greenland (2 videos)
+    3. azIHHj1bgJg, Battle for Greenland
+    4. Z9gteG3blD4, Fight for Greenland
+    5. Yb3KfVMItYk, We fight for Greenland
+    6. e1LVfzLmupo, The Battle For Greenland? #facts
+
+Topic 245
+  Videos: 53
+  Top words: davos, avoiding, tactics, carney, mark, dominates, steals, issue, reluctant, show
+  Example titles:
+    1. 2BTFOvDeAMw, Trump doesn't back down on Greenland at Davos
+    2. eEHnAtZWS4s, Greenland Issue: Trump's Davos Tactics & Avoiding War #shorts (7 videos)
+    3. bz_LiZGWIdc, OPERATION GREENLAND: Trump Takes Davos!
+    4. tbf4o-oKz9A, At Davos, Trump's Greenland agenda causes "rupture" in relations with America's allies
+    5. 0mMu0hF1VR8, President Trump heads to Davos as Greenland tensions rise | BBC News
+    6. kFzODnA7baU, "Trump's Greenland Threat: Military Force? Then Davos Backdown! 😱 #TrumpGreenland"
+
+Topic 249
+  Videos: 52
+  Top words: iran, nato, slams, poorly, deepens, rift, piece, war, kerahkan, revives
+  Example titles:
+    1. J4tUH6mIJFs, Trump vs NATO: Greenland & Iran?
+    2. mGWQvrhqJB8, TRUMP SLAMS NATO! "Where is the Support for Iran?" 🌍 TRUMP WANTS GREENLAND?
+    3. GdkYNwJMpU0, 🚨Trump vs Iran Over Greenland?😳Global Tension Rising🌍#Shorts #Breakingnews #Geopolitics #NATO #USA
+    4. 6R5GN1TARIQ, US-NATO divide deepens as Trump revives Greenland ambitions amid Iran conflict
+    5. qjAZrKuR8sA, Trump Brings Up Taking Over Greenland Again #news #trump #politics #iran #greenland #nato #military
+    6. LLxN2mBnOHQ, Trump Raises Greenland Issue, Hits Out At NATO Over Iran Conflict
+
+Topic 252
+  Videos: 51
+  Top words: sale, mr, thanks, tells, zillow, email, were, cruz, not, rhoads
+  Example titles:
+    1. tY7UIMRnC1c, Greenland Not For Sale #trump #greenland
+    2. F3PLE4TlhP8, Greenland is NOT for Sale! #greenland #trump
+    3. P35dVutK2gI, Greenland is NOT for sale!🚫🇬🇱 #Greenland #USA #Trump #viralshorts #trending #youtubeshorts #ytshorts
+    4. wbnnHsidbK0, Greenland 🇬🇱 Not For Sale #ytshorts #trendingshorts #greenland #america #trump # #news #tamil
+    5. o8Ashy--hd0, Greenland is not for sale. #trump #usa #greenland #foryou
+    6. estif5d1He0, Greenland to Trump: We're Not for Sale
+
+Topic 253
+  Videos: 51
+  Top words: think, lie, talking, he, important, uniqueness, skidding, renee, dodges, conversations
+  Example titles:
+    1. WfOlYbKJZuQ, This Is Why the U.S. Wants Greenland 🧊💎
+    2. HtKqRhIV7ow, Why the U.S Wants Greenland! 🇺🇸🧊🤯 #shorts
+    3. Bucx1_3uF84, why U.S.A. wants greenland
+    4. _N0IZb_H-So, Why U.S.A Wants Greenland? 🌏
+    5. NRn3DLXFBDo, ⚔️ Why the U.S. Wants Greenland #shorts #viralshorts
+    6. oPvCQk0sE2c, Greenland Is NOT What You Think 😳
+
+Topic 254
+  Videos: 51
+  Top words: carney, defend, canada, reese, vows, just, lead, defense, oslo, alliance
+  Example titles:
+    1. fTCd6wzBCRA, Trump's push for Arctic security through Greenland strains relations with Canada #shorts
+    2. P1dhgOVRRs0, JUST IN: Trump in Tension as Canada Moves Fast in Greenland Arctic Strategy
+    3. jeAOgcwIVSg, Carney says Canada "fully prepared" to defend the Arctic in response to Greenland question
+    4. eZGv_A0DQJY, Just In: Trump Shocked as Canada Expands Arctic Presence in Greenland
+    5. l48WWOK9db4, JUST IN : Canada Leads Arctic Defense — Trump’s Greenland Strategy Collapses
+    6. bf4lgGIBLoo, Trump wants Greenland. The Arctic allies just chose Canada to lead the response
+
+Topic 264
+  Videos: 49
+  Top words: important, degrasse, tyson, neil, so, importance, strategically, irving, defense, nick
+  Example titles:
+    1. UHNcSUOcrdg, Why Is Greenland So Important to the USA ? #shorts
+    2. VVVUQkG1_1I, Why Greenland Is So Important to America
+    3. HH1US2-9jXs, Why Is Greenland So Important to the U.S.? #america
+    4. y10_oOyxhZw, why Greenland is important for USA ?#news #shorts
+    5. GoLitvls1Ak, Why Greenland Is So Strategically Important 🧊🌍
+    6. BgcyL99zs9Q, Why the Greenland is so important for U.S.A? #greenland #usa #viral #viralshort #viralvideo #world
+
+Topic 266
+  Videos: 48
+  Top words: navy, russian, near, then, russia, deploys, shocked, fleet, intimidate, ukraine
+  Example titles:
+    1. W7NokIvhfPY, NATO Sent Troops to Greenland Against Russia — What the U S Navy Did Next Shocked Everyone
+    2. vivggsWvXeo, Russia Deployed Its Nuclear Icebreakers off Greenland to Confront the U S Navy — Then This Happened
+    3. pjCBiAlN0Q0, France DEPLOYS Fleet in Greenland to INTIMIDATE US Navy Then Russia SHOCKED This (2 videos)
+    4. VMlB5WhvmWM, France DEPLOYS Fleet in Greenland to INTIMIDATE US Navy - Then Russia SHOCKED
+    5. VzKcVU01sSA, NATO Deployed Troops to Greenland to Counter Russia — Then the U S Navy Did This
+    6. lgMdicl6w48, France Deploys a Fleet Near Greenland to Intimidate the U S Navy — Then Russia Was Shocked
+
+Topic 273
+  Videos: 48
+  Top words: polymarket, viralitypoly, sooner, oil, debate, acquisition, predictions, acquire, bets, predictionmarkets
+  Example titles:
+    1. NxuOj37ptQ4, TJR THINKS TRUMP WILL TAKE GREENLAND 🤯 #polymarket #viralitypoly #tjr #trump
+    2. F2-xLjA1o1k, TJR talks about TRUMP conquering greenland and iceland #viralitypoly #polymarket #shorts #tjr
+    3. KDR24qzqL6c, TJR thinks that Donald Trump will have more than just Greenland. #viralitypoly #tjr #polymarket
+    4. uQmPMSJgEDM, Will Trump acquire Greenland?😯 #predictions #viral #trending #geopolitics #trump #war #viralitypoly
+    5. 32LxAhMskO8, TJR BETS THAT TRUMP WILL TAKE GREENLAND #polymarket #viralitypoly #tjr #tjrclips
+    6. B4NcFFGWnjw, Why USA Wants to BUY Greenland! (Shocking Truth) 🤯 #Greenland #Trump #Geopolitics #US #WorldNews
+
+Topic 275
+  Videos: 47
+  Top words: runways, blow, missiles, blood, planned, 45m, prepared, destroy, explosives, protect
+  Example titles:
+    1. kZL-NE4u18w, Denmark was ready to blow up Greenland runways if US invaded
+    2. 2miUX2XpoDw, Denmark Planned Blowing Up Greenland Runways If US Invaded
+    3. sH5RDyjLtik, Denmark Prepared to Blow Up Runways If Greenland Was Attacked
+    4. x8F7RQejAr8, Denmark reportedly planned to blow up Greenland runways to block a potential U.S. invasion
+    5. cyCCfz7agag, Trump's Greenland Invasion/ Denmark Prepping To Blow Up Runways
+    6. 4PKTuELBpKo, 🇩🇰Denmark prepared to sabotage Greenland runways to prevent US Invasion💥
+
+Topic 279
+  Videos: 47
+  Top words: macron, france, french, emmanuel, frances, sold, troops, solidarity, arrive, nor
+  Example titles:
+    1. h6Tw_SgAG7U, France Sending More Forces to Greenland, Macron Says
+    2. WhLnrMPDhSs, Macron arrives in Greenland to show solidarity for island coveted by Trump • FRANCE 24 English
+    3. Hstz__qLly4, Macron Meets Leaders of Greenland, Denmark in Paris
+    4. 4qduoSKE_kE, FRANCE VS USA in GREENLAND !! Macron Deploys French Military to Stop Trump #France #Greenland #USA
+    5. XmR8uTmgOEQ, Tensions in Greenland #trump #macron #greenland #worldnews #usa #france #denmark
+    6. fyPXl2VvfB4, Greenland PM Thanks French President Macron For Support Against Trump's Pressure | AC1G
+
+Topic 280
+  Videos: 46
+  Top words: greenland, greenlanders, respond, greenlandpurchase, greenlandnews, we, greenlandcrisis, sale, 24, bilateral
+  Example titles:
+    1. jnU2oRYFqro, IS TRUMP SERIOUS About Buying Greenland? #DonaldTrump #Greenland #Geopolitics #GreenlandDeal
+    2. pG8jDpymTOM, What we know about Trump's 'Greenland deal’
+    3. cR7LgFvrVKw, Trump and Greenland: Greenlanders respond
+    4. MJlEhQPOo-I, Why USA needs to buy Greenland? #greenlandissue #podcast #trump
+    5. WIJ8qtp-_Sg, Trump says he believes US will 'get Greenland' #trump #usa #greenland
+    6. sS7TDMat4RU, Greenlanders on Trump's plans to take over their country
+
+Topic 282
+  Videos: 46
+  Top words: bagger, ane, money, lone, coin, wealth, coins, generational, elders, divide
+  Example titles:
+    1. L48nBHFx_sI, Greenland’s Hidden Wealth
+    2. DnboCulW7VE, greenland #news #money
+    3. w7db2l36Avg, ❤️🌟#shortvideo#greenLand#money
+    4. IB9MkhQ9kOw, greenland #money #news
+    5. eO0zBpKjUKk, Economy of Greenland |
+    6. J1RLR4vH3uo, The economy of Greenland
+
+Topic 283
+  Videos: 46
+  Top words: son, ambitions, ambition, grab, disapprove, jr, trumps, republicans, rejects, poll
+  Example titles:
+    1. u4SfMW_e5PA, Trump's Greenland Ambitions (3 videos)
+    2. ReJe7PmwKMk, Trump's Greenland Ambitions: What's the Deal? #greenland
+    3. 5C0Jp_-aKvo, Trump's Greenland Ambition
+    4. 9cLstX3egU8, Trump's Greenland Ambitions A New Era
+    5. ySUc0nlcnFI, The Truth About Trump's Greenland Ambition
+    6. j_e9TMNqdaM, What is Trump's goal in Greenland?
+
+Topic 289
+  Videos: 45
+  Top words: sale, 50k, danny, alligators, deciding, mattresses, millbrook, commando, rewind, sonnywils
+  Example titles:
+    1. LZom1Kg073M, H&L in Greenland for Sale
+    2. vsZzonIDv4k, Greenland for sale
+    3. -hVcEQrl-Pg, Not for sale #greenland
+    4. fImqjAzHlMo, Greenland (Not for sale (2 videos)
+    5. URFFOUjCCNA, Greenland IS NOT for sale (4 videos)
+    6. WIE1LbUvIHY, Greenland is NOT for Sale 🚫🇩🇰
+
+Topic 293
+  Videos: 44
+  Top words: wants, parthapaul, aquire, robots, ranting, ish, joking, tired, desperately, hes
+  Example titles:
+    1. 0FWqg6IjbQM, Trump Wants Greenland?!
+    2. cRjnOkCX0-U, Why Trump Wants Greenland 🇬🇱🇺🇸
+    3. MwzngezD_Iw, Trump wants Greenland!
+    4. tHQ85aLpSRI, Why Trump Wants Greenland (4 videos)
+    5. 7cviEgAOidE, Why Trump Wants Greenland #shorts
+    6. Sc5s48MVFTY, Why Trump wants Greenland? (5 videos)
+
+Topic 297
+  Videos: 44
+  Top words: maga, epstein, epsteinfiles, orange, hats, because, beers, friendship, clinton, trevor
+  Example titles:
+    1. _KOMpOH5kJ0, Donald trump orange #epsteinfiles #donaldtrump #trump #greenland #maga
+    2. YMfBO_CQQNc, #donaldtrump#epsteinfiles#elonmusk#greenland#trump
+    3. CppkMFxAZWc, #breaking news #trump #greenland #protest in usa # trending news #epsteinfiles
+    4. NXn35aG18Cc, Trumps Greenland Obsession #trump #tradewar #epsteinfiles
+    5. EMTKYOt6iI8, Trump wants Greenland #grammys #trumpnews #greenland #epsteinfiles #shorts #viral #viralnews
+    6. TkHT-YbWcxo, The Orange nutjob is at it again. #magacult #trumpcult #greenland #podcast
+
+Topic 303
+  Videos: 43
+  Top words: zelenskiy, mosco, poses, ukraine, zelenskyy, zelensky, says, peace, negotiating, moscow
+  Example titles:
+    1. HrYTEux6a8M, Russia Warns Trump Over Greenland Plan — “Start of World War?#breakingnews #trump #russia #greenland
+    2. BxoWmwmjb8w, Trump Says U.S. in Greenland Talks, Presses Zelenskiy on Peace Deal
+    3. Gi06TSXs2L0, Trump Signals Greenland Talks, Pressures Zelenskiy Over Ukraine Peace Push
+    4. Zn2YU4tK16g, Trump, Europe & Iran War | Greenland & Ukraine Warning | Powerful Political Statement
+    5. waUX4IQhrVw, Trump says US negotiating with Europe on Greenland, urges Zelenskiy to ‘move’ on peace deal
+    6. CK69uqbw9l0, Zelenskyy slams Europe's response to Trump's Greenland threats
+
+Topic 313
+  Videos: 41
+  Top words: allow, tries, didnt, invade, putin, nato, funny, natodidnt, tramp, trump
+  Example titles:
+    1. kDO6boiXcC4, Trump tries to invade Greenland, But NATO didn't allow that 😆😆 || ##trump #funny #nato #putin (10 videos)
+    2. vWDnRWuV97w, Trump tries to invade Greenland, But NATO didn't allow that ||##trump#funny #nato #putin
+    3. pgss16A23dc, Trump tries to invade Greenland, But NATO didn't allow that || ##trump #funny#nato #putin😄😄
+    4. tIAx6q-Jw4I, Trump tries to invade Greenland, But NATO didn't allow that || #trump #funny #nato #putin
+    5. 3fXN2noxxhw, Trump tries to invade Greenland, But NATO didn't allow that##trump #funny#nato #putin
+    6. ICwh53mZXxg, Trump tries to invade Greenland, But NATO didn't allow that 😆😆 ##trump #funny #nato #putin
+
+Topic 318
+  Videos: 41
+  Top words: frederik, king, visits, unity, denmarks, mary, arrives, queen, amid, stresses
+  Example titles:
+    1. zS0e-huaUGc, Denmark's King Frederik visits Greenland in show of unity amid Trump threats
+    2. 1O9TEtdOGlo, King Frederik X of Denmark Begins His Official Visit to Greenland. Plus, More #royalnews
+    3. C1Aogr8Tr5o, Denmark's King Frederik visits Greenland, showing unity amid US Trump's takeover threats
+    4. eaM65rXFbgg, Denmark's King Frederik visits Greenland, stresses unity amid Trump Arctic acquisition push (3 videos)
+    5. Mtp_YPj9OVI, Denmark's King Frederik arrives in Greenland amid Trump threats
+    6. 7G2m6P_0SkE, LIVE: Denmark's King Frederik Visits Greenland Amid Trump Acquisition Push | NewsX World
+
+Topic 322
+  Videos: 39
+  Top words: putin, serious, maduro, ah1c, capture, putins, regarding, russia, says, plans
+  Example titles:
+    1. L1UJIHg53vg, Putin threatens Trump on effort to acquire Greenland #trump #like #subscribe
+    2. oe7wev_pii4, RUSSIA wants US to acquire GREENLAND #greenland #trump #putin #geopolitics
+    3. Q222f3TlwzQ, Why Trump Wants Greenland – Putin’s Shocking Statement
+    4. aceEf77QqgY, Trump wants Greenland | Putin proposes "Missile Duel" with US | 24 Dec 2024 #geopolitics #russia
+    5. xCcOtd_RcUc, Greenland Is Not Our Business: Putin Distances Russia From Trump Plan
+    6. BJCAHzF_JSU, Why Does Trump Want Greenland? #trump #greenland #russia
+
+Topic 332
+  Videos: 38
+  Top words: penguin, penguins, oths28, splatoon, post, antartica, house, sir, white, gemini
+  Example titles:
+    1. n2096XU0spM, Penguin Go to Greenland #penguin #Trump #greenland
+    2. 9kWUFjuT2KY, They Put This Penguin in Greenland 😭🐧 #penguin #funnyanimals #antarctica #greenland #satire #trump
+    3. 1SJ1s9F6QHo, Penguins in Greenland #greenland #usa #trump #penguins
+    4. CSLzQw8C6mY, Penguin Saving Greenland From Trump🐧❄️🐻‍❄️🇺🇸
+    5. hcpEIjseoR0, A penguin showed Trump how to vacation in Greenland #shorts
+    6. CqbaILz9heE, Penguins Vs Greenland
+
+Topic 335
+  Videos: 38
+  Top words: conservativevoices, graham, shesright, heres, lindsey, shit, trumpstrategy, grahamstephan, narrative, dollar
+  Example titles:
+    1. 4ewzL_23MKc, Trump Wanted to Buy Greenland… But Why The Real Reason!
+    2. IALcywDVdq4, Why Did Donald Trump Want to Buy Greenland? | The Real Reason 🌎❄️
+    3. PYheGKgDNyQ, Here's why Trump wants to acquire Greenland
+    4. wFdpF45jVsY, Why Trump Tried to Buy Greenland 😳 (Real Reason) #shortsfeed
+    5. CMENdNvxUmU, Why Did Trump Want to Buy Greenland? Hidden Trillion Dollar Secret! 😳 #facts #shorts
+    6. 0Vb1TeVY4yM, Do you know why Trump wanted to buy Greenland?#history #shorts #greenland
+
+Topic 337
+  Videos: 37
+  Top words: rajshamanipodcast, podcastshorts, america, take, control, humble, chances, pursue, yankee, usspecialforces
+  Example titles:
+    1. iGKvYpzfcw4, America to TAKE OVER Greenland?!
+    2. KcxFVi6HjJs, USA take over Greenland?
+    3. kDTnOCVO7Ho, Will America take Greenland 😱⁉️
+    4. cQAWXlz_7fo, #america #trump #greenland
+    5. G2nbGYAhSgo, #news #america #trump #greenland
+    6. uFEZ0crvHGg, What Will Happen If America Takes Control of Greenland ? #greenland #america
+
+Topic 349
+  Videos: 36
+  Top words: envoy, appoints, special, landry, louisiana, governor, backlash, have, jeff, fury
+  Example titles:
+    1. OLOUvM1qj1w, Trump Appoints Special Envoy to Greenland: #movie Diplomatic Fallout
+    2. S8F-zwXY3hA, US appoints special envoy to Greenland
+    3. 1-AJy4io3fg, Trump: We HAVE to Have Greenland – Special Envoy to Make It Happen #trump #usa #politics #greenland
+    4. h6vqoyxNsvc, ‘We need it for national protection’: Trump appoints special envoy for Greenland
+    5. nfNMkd5dlmY, U.S. Appoints Envoy for Greenland
+    6. rNeG9xKv8pI, Trump appoints Greenland envoy sparking diplomatic crisis | 7NEWS
+
+Topic 350
+  Videos: 36
+  Top words: summons, envoy, ambassador, diplomat, appoints, interference, appointment, deeply, upset, influence
+  Example titles:
+    1. HXkBK_gDAhA, After Trump Appoints Envoy to Greenland, Denmark Summons U S Ambassador
+    2. 2-KuZWhF334, Trump Appoints Special Envoy For Greenland: Denmark To Summon US Ambassador Over Matter | WION
+    3. JOPYnjiLl3c, Denmark summons US ambassador over Trump appointing Greenland special envoy | DW News
+    4. n2u1VgkFs3Q, Denmark ‘Deeply Upset’ as Trump Appoints Envoy Who Wants Greenland to Become Part of the US
+    5. tjbmOfKxPBg, 🔴 Denmark Summons US Envoy 🇩🇰💼 | Alleged Influence Operations in Greenland #DenmarkUSR
+    6. _RIYALJ5XPQ, GREENLAND TENSIONS SPIKE, Denmark Summons US Envoy After Trump Pushes Annexation | Times Now World
+
+Topic 358
+  Videos: 34
+  Top words: buying, cost, much, bought, expensive, hairdresser, altucher, skechers, racist, serenitia
+  Example titles:
+    1. zmUhwEyypSQ, U.S.A. to buy Greenland
+    2. fpBsCnaS-AI, Buy Greenland💰💲
+    3. 6-OdFYEvA44, We are not buying Greenland
+    4. jFGR1j5n8dU, Buying Greenland? 🇬🇱
+    5. tl9C6EOXQ6A, I want to buy Greenland - Part 1
+    6. Mz1LKZ4_pZU, Why the U.S. wants to buy Greenland in 2026
+
+Topic 360
+  Videos: 34
+  Top words: gro, harrogate, pgsr, samsunny, nland, usa, australia, whos, miami, america
+  Example titles:
+    1. B1LAbHQvV1s, Usa vs Greenland (5 videos)
+    2. RMca7D1N0Ss, #greenland #usa #podcast #news
+    3. frqkPYk3cnw, The USA & Greenland
+    4. ncKGfFUL9n0, #podcast #greenland #usa
+    5. ky7ASPYPK7g, #news #usa #greenland
+    6. pRR-LVFBfbY, Greenland (vs) usa😲
+
+Topic 361
+  Videos: 34
+  Top words: valuable, collateral, outsourced, worth, value, secret, rich, digitalnation, bucks, necular
+  Example titles:
+    1. ujCQaIuj4UM, Why Greenland Is So Valuable (2 videos)
+    2. 1hNzlpvG-JY, Why is Greenland so valuable? (2 videos)
+    3. XBNnspxrX0w, GREENLAND: US SECRET ASSET?
+    4. p5kWo37IGjo, Why Greenland is valuable to the U.S
+    5. dQ6CmneoPtU, Greenland: Why is it valuable?
+    6. 8HZlLqM3oEk, The Secret Value of Greenland: Why the U.S. Is Interested
+
+Topic 369
+  Videos: 31
+  Top words: rutte, other, tries, plans, capture, have, oval, putin, nato, office
+  Example titles:
+    1. ytp4YlpaikE, Trump tries to capture Greenland, But NATO have other plans |||| #trump #funny (2 videos)
+    2. l9jpflXHLv8, Trump tries to capture Greenland, But NATO have other plans || 😆😆|| #trump #funny (3 videos)
+    3. krX668gsosE, Trump tries to capture Greenland, But NATO have other plans || 😂😂||#trump #funny
+    4. gRHvRA-MsKY, Trump tries to capture Greenland, But NATO have other plans || || #trump #funny (2 videos)
+    5. lcWFgNQh_rM, Trump tries to invade Greenland, But Putin have other plans 😃😃|| #trump#funny #putin #nato
+    6. vQ5xbMX0sVQ, Trump tries to invade Greenland, But Putin have other plans video 😆😆 || #trump #funny #putin #nato
+
+Topic 372
+  Videos: 31
+  Top words: want, does, deserves, belong, own, should, deserved, who, badly, take
+  Example titles:
+    1. Fl0-tfpWR4U, Why does the US want Greenland? (3 videos)
+    2. N4HwLDFi2gs, Why does the US want Greenland? #short
+    3. BEVEdJ7_164, Why does the US want Greenland? 🙄
+    4. 5mPhESooL4o, Does Greenland want to be part of the US?
+    5. xd_qM1ueLZI, Should the US take Greenland 🤔 (2 videos)
+    6. HtlXVcNSJvI, Why does the US want Greenland so badly? #shorts #viral #greenland #trending
+
+Topic 375
+  Videos: 31
+  Top words: everyone, wants, suddenly, throwforward, piece, someone, thursday, fail, thats, already
+  Example titles:
+    1. T6dhfER80og, Why everyone wants Greenland #shorts​ (2 videos)
+    2. eEHJu4f-VCs, Why everyone wants Greenland #shorts (8 videos)
+    3. v7crcuH95B8, Why everyone wants Greenland #shorts‍ (3 videos)
+    4. yjOA6ds2cUM, why Everyone Wants Greenland? #shorts #greenland #shortsfeed
+    5. jHd3hjpsnPI, Why Everyone Wants Greenland (2 videos)
+    6. h624OQRfnPA, Why Everyone Wants Greenland?
+
+Topic 381
+  Videos: 29
+  Top words: obsessed, obsession, weird, jeffries, bacon, eaglescreech, hakeem, buckshot, appealing, socks
+  Example titles:
+    1. rCBt4XgCX-0, Why Trump is obsessed with Greenland (2 videos)
+    2. GBmpiNr_SAs, Why Is Trump Obsessed with Greenland?
+    3. PwRsTDlqU8I, Trump's obsession with Greenland
+    4. O1Yz6bgcBg0, Why is Trump so obsessed with Greenland?
+    5. HfVzRB3A658, Why Is Trump So Obsessed With Greenland? 🤔
+    6. iAOAUFOomiE, Trump’s Obsession With Greenland Explained
+
+Topic 392
+  Videos: 27
+  Top words: geography, try, owns, states, swap, demography, mapnosis, geoshorts, usaarmy, usarmy
+  Example titles:
+    1. 95EUKWLMZoM, Why Did the United States Try to Buy Greenland? #shorts #geography (3 videos)
+    2. JRoS0qblLNo, Why Did the United States Try to Buy Greenland #shorts #geography #greenland
+    3. y0dsQZnGCHk, Why the USA wants to BUY Greenland in 2026? 🇬🇱 (Geography Facts
+    4. azF-vr_szkY, Why Does USA Want Greenland? 🤔🇺🇸#shorts #geography #greenland#countryfacts
+    5. i7LZ7PCkmbs, The Surprising Reason the US Tried to Buy Greenland! #geographyfacts #geography #geographyshorts
+    6. mIhUPVxI3ys, How many times the US tried to buy Greenland? #greenland #geography #history #usa
+
+Topic 401
+  Videos: 26
+  Top words: lavrov, militarising, jens, hits, piece, rules, nielsen, warns, warning, calls
+  Example titles:
+    1. yFyA1-7Dauw, LAVROV'S GREENLAND WARNING LIVE | Russia Vows 'Countermeasures' if US Militarizes Greenland
+    2. TJDuAfSv1zY, ‘Won’t Spare If Greenland…’: Russia’s ALARMING Announcement Stuns US, NATO | Lavrov’s Big Revel
+    3. iGvndTjBT80, Russia’s Warning To West Over Militarising Greenland And Message To US On Nuclear Deal | Watch
+    4. B2cOheBdd_Y, Lavrov’s Arctic Warning: What Happens If Greenland Is Militarised?
+    5. ZZ1xXcWlxMA, Countries trumps want to invade next || #trump #america #greenland #ice
+    6. EAqi9ihrIO4, Lavrov likes Trump territorial ambitions #putin #russia #lavrov #greenland #canada #ukraine
+
+Topic 404
+  Videos: 26
+  Top words: invest, investment, responsible, dollars, investments, billion, worth, engineer, grlrf, gtec
+  Example titles:
+    1. R_r0m8FzmpM, How Can You Invest in Greenland?
+    2. dEG1xBwSj3g, Price for Greenland🇬🇱: $10 billion? 🤔💰
+    3. uB3FFqyN8mo, Explore and invest in Greenland
+    4. o1wp4cjGmgs, The Greenland Investment Everyone Is Missing
+    5. 73Boe58mZWY, Country of Greenland for $30-50 Billion Dollars. #shorts #greenland
+    6. DqTAlhBzxHc, How To Invest IN Greenland I Overview of Investments
+
+Topic 406
+  Videos: 26
+  Top words: city, nasa, detected, beneath, secret, hidden, conclusive, nasadiscovery, intel, disclosed
+  Example titles:
+    1. m7QcyTrbe6M, The Ice City Hidden Beneath Greenland
+    2. OAapiiMEYvA, Hidden History: The Forgotten City Under Greenland’s Ice #shorts #SpaceverseHQ
+    3. q6wnpwYVV54, A Hidden City Under Greenland’s Ice: America’s Cold War Secret #shorts
+    4. ZagfewtxSgs, There's a Secret City Under Greenland’s Ice?!
+    5. KOPPvzp4YSw, The Secret City Under Greenland's Ice
+    6. _nvgcJjLYaY, NASA found secret city in Greenland #nasa #secret #greenland #city #discovery #fact #ytshots
+
+Topic 410
+  Videos: 25
+  Top words: matters, suddenly, owns, controversy, cleversnap, s2ep121, hemmer, homegrown, stumpf, unearthedsecrets
+  Example titles:
+    1. CQRr3oVsu4I, Why Greenland Suddenly Matters (2 videos)
+    2. FTYN3l7BrmM, Why Greenland Matters Now More Than Ever
+    3. XIk6iDlb4cY, Why Greenland matters now. #greenland #shorts
+    4. oleiDJiGTAs, Why Greenland Matters to the U.S
+    5. j1VNCuUw2Sc, This Is Why Greenland Matters
+    6. -wltd85lDsI, Why Greenland Suddenly Matters to the World
+
+Topic 420
+  Videos: 24
+  Top words: confuses, davos, mixing, kaine, mixes, repeatedly, speech, instead, up, calling
+  Example titles:
+    1. EFWSlW8F5pQ, Trump Mixes Up Greenland and Iceland 🌍
+    2. eBjFNjZAYkE, Trump appears to mix up Iceland and Greenland in Davos remarks
+    3. goCfinkE_QQ, Trump confuses Greenland and Iceland during speech in Davos
+    4. LGJ10nosddg, Trump keeps mixing up Greenland and Iceland
+    5. CkBE1UvFNVc, Donald Trump confuses Greenland and Iceland mid-rant #shorts
+    6. Zb0slHWTfFI, Did Donald Trump mix up Iceland and Greenland in his speech? #Greenland #Trump #BBCNews
+
+Topic 421
+  Videos: 23
+  Top words: gulf, hegseth, drawn, pete, mapanimation, map, greater, dummies, bikers, mashup
+  Example titles:
+    1. NFGMFUdTJ-U, Why does Trump want Greenland? #explained #map #greenland #usa
+    2. N1GugOTz1bs, Trump Wants to Change the Map of America by Including Greenland
+    3. 7UfSTtIjcRw, Why Trump is after Greenland? #maps #facts #geography #trump #americandream
+    4. npdTATnazf4, HEGSETH: “Donald Trump has drawn a new strategic map from Greenland to the Gulf of America (2 videos)
+    5. r-TvhRvg0H8, Trump’s #Greenland obsession is probably all about the wrong map #shorts #Trump #geopolitics
+    6. y47uT8-K0to, Why Does President Donald Trump Want to Invade Greenland? #countries #geography #greenland #map
+
+Topic 428
+  Videos: 22
+  Top words: framework, announces, deal, reached, details, thetake, vague, dean, formed, claps
+  Example titles:
+    1. sw4PkPnYF_k, Trump announces 'framework' deal for Greenland
+    2. z-ES0zPAruQ, Trump announces ‘framework’ deal on Greenland
+    3. Qtrzvgumu7Q, Trump announces a ‘framework’ for a deal on Greenland
+    4. oRMcWd5GX54, Trump Announces GREENLAND Framework Deal! 🇬🇱 #Trump #Greenland
+    5. gUq4OeZ_1q8, Trump announces framework formed for Greenland deal
+    6. ovHVqn8UF_U, Trump offers vague details about Greenland 'framework' deal
+
+Topic 441
+  Videos: 21
+  Top words: hecklers, jimmycarr, carr, animation, jimmy, sell, dane, crowdwork, cartoons, cartoon
+  Example titles:
+    1. MPYQWpkP9HE, Trump Attacks Greenland?! 😳 Funny Cartoon Animation #shorts
+    2. SMVrXx8JyTY, Trump in Greenland 😱😱😱#trump #greenland #usa #animation
+    3. 0A8ogNMKqzw, What If Trump Really Conquers Greenland? 😆 Funny Animation #animation
+    4. haAeojtOAN8, Trump Built This Greenland Animation
+    5. qRPveQs2niM, tinny trump #cartoon #trump #animation #ai #greenland
+    6. Jo5uR-ErK3Q, 7 ice cold cartoons about Trump's Greenland deal
+
+Topic 447
+  Videos: 19
+  Top words: troops, many, send, soldiers, german, germany, did, lykketoft, kallalit, nunat
+  Example titles:
+    1. CCnGhXvmnhg, How many troops did your country send to Greenland? | #greenland #mapping
+    2. 3TxNUo20CKw, How many troops did your country send to Greenland? #mapping
+    3. 4rIwWow4tYA, How many troops did your Country send to Greenland? #europe #country
+    4. Kg2In3ifzQ0, How many troops did your country send to Greenland #europe #map #greenland #usa #war #troops #mapper
+    5. ZDRE06jnWBI, How many troops did your country send to Greenland?
+    6. MTA2FYxi2Ik, Germany sends troops to defend Greenland
+
+Topic 455
+  Videos: 18
+  Top words: xrp, state, become, becomes, usnewstoday, xylem, bartiromo, newest, germany, maria
+  Example titles:
+    1. 7K1XboVnRnQ, Will Greenland become part of the USA??
+    2. 33Oi_J1xxOE, Greenland Will Become a Part of the USA
+    3. ikHCmhNSuqA, What if Greenland become a part of USA #youtubeshorts #shorts #greenland #usa
+    4. HpTU7QuZu68, What if Greenland becomes a US state? 🤯
+    5. M3KWV2w44So, Trump: Greenland will become a state of the USA 🇺🇸
+    6. Z3iGvk2wvTU, What if Greenland becomes a US territory
+
+Topic 461
+  Videos: 17
+  Top words: 51st, state, 52nd, became, swietoniowski, jessica, studios, usstates, 51ststate, skeleton
+  Example titles:
+    1. WK5jmvZ9x9Y, Greenland: The 51st State?
+    2. pBdEiLbGkvo, What if Greenland became the 51st US state?
+    3. fjPiZkI53as, What if Greenland Became the 51st State
+    4. i13TqPuPXxY, Greenland Becoming The 51st U.S. State! #shorts #donaldtrump #usnews
+    5. spLyofrhBPc, Could Trump make Greenland the 51st state of America?
+    6. iIGX4pgFqM4, Is Donald Trump Eyeing Greenland as the 51st State?
+
+Topic 462
+  Videos: 17
+  Top words: nuummite, handpolished, rough, polished, wand, fire, billion, feminine, iridescent, 390kg
+  Example titles:
+    1. 78I7at2Z7zg, Greenland nuummite
+    2. Di5NgOt3oZc, Greenland Nuummite in fire 🔥🔥🔥
+    3. _6sbem08X2g, Greenland Nuummite just cut 🔥
+    4. Rzq-2STH9Bc, Nuummite skull Greenland
+    5. gZK9MiWTIgs, Duo greenland nuummite
+    6. sIc6o97J6gA, 3 billion years Greenland Nuummite
+
+Topic 467
+  Videos: 16
+  Top words: rubio, marco, outcome, positive, talks, secretary, officials, expects, affleck, ceded
+  Example titles:
+    1. O8itBs6rMMI, New talks on Greenland after Rubio meeting, Danish PM says
+    2. xNjspEJDaS4, New Greenland talks after Danish PM meets Marco Rubio
+    3. slrS-Ss0fq0, Rubio meets Danish foreign minister in first high-level talks since Trump's vow to take Greenland
+    4. -CYbDFR_MW4, Reporter Asks Marco Rubio: Is There U.S. Agreement That Greenland Will Not Be Ceded By Denmark?
+    5. bZtjZW7ComY, Marco Rubio Says Greenland Wants Out of Denmark; New PM Responds to Secession Claim
+    6. T4m7se35U0w, Greenland and Denmark officials meet with Vance and Rubio
+
+Topic 472
+  Videos: 15
+  Top words: superstory, badly, factsshorts, once, tried, profile, owns, didyouknow, twice, did
+  Example titles:
+    1. jKjhRDayVU4, Why Did the U.S. Want to Buy Greenland? 🇺🇸💰 #shorts #facts
+    2. Pyd-OaxhO1I, Did the U.S. Try to Buy Greenland? #history #facts #didyouknow #funfacts #historyfacts
+    3. 2emw0dIwifg, Did you know the U.S.A Tried to Buy Greenland?! Not Once… But Twice 🤯 #facts #didyouknow #history
+    4. C5mWZJjTpjs, Did You Know the U.S. Once Tried to Buy Greenland? 🤯🌍 Shocking History Fact! #shorts
+    5. b-Ngb2ay5YI, He Sold Greenland With One Name. #history #historyshorts #facts
+    6. PutHt75CHdo, 🇺🇸💰 Why the U.S. Tried to Buy Greenland Multiple Times! 🏔️🌍 #shorts #greenland #facts #factsshorts
+
+Topic 477
+  Videos: 14
+  Top words: care, putin, become, didnt, king, throne, unbothered, clearly, affair, nato
+  Example titles:
+    1. vMxLVedqwds, Trump become King of Greenland, But Putin didn't care || 😆😆 || #trump #usa #putin #greenland #nato (2 videos)
+    2. KUY7FV6GQPc, Trump become King of Greenland, But Putin didn't care || #trump #usa #putin #greenland #nato
+    3. sHGpzGO_LVM, Trump become King of Greenland, But Putin didn't care 😁😁 #trump #usa #putin #greenland #nato
+    4. cxiooe48BlI, Trump become King of Greenland, But Putin didn't care __ 😆😆 __ #trump #usa #putin #greenland #nato (2 videos)
+    5. 5-RLOSs3sbU, Trump become King of Greenland, But Putin didn't care|| #trump #usa#putin#greenland#nato
+    6. PIruyT3UPm8, Trump Become King Of Greenland But Putin Didn't Care || 🤣😂 || #trump #usa #putin #greenland #nato
+
+Topic 488
+  Videos: 12
+  Top words: elon, musk, musks, grandfather, handle, osbourne, thiels, osbournefamily, sharon, sharonosbourne
+  Example titles:
+    1. 0wVpzexyAvs, Could Elon Musk actually buy Greenland?
+    2. Yzg_ghYsQKM, Elon Musk wealth #elonmusk #trump #greenland
+    3. 1rQVqWw6ND4, Elon Musk is considering purchasing Greenland
+    4. VFedlxVA6FQ, Elon Musk Wants Greenland To Join The U.S
+    5. RzDGxghZ4TM, #short #Trump #Musk #Greenland Is Ready 4
+    6. A4noDFq4-BM, Elon Musk is Buying Greenland?! 🇬🇱 #bruh #memes #funny
+
+Topic 490
+  Videos: 11
+  Top words: masterstroke, chessboard, chess, strategic, antoni, nwos, 4d, ways, simply, trumps
+  Example titles:
+    1. Ws0EFYvD37c, Greenland: The Arctic Chessboard & Trump's Strategic Masterstroke #shorts (7 videos)
+    2. 6QNsKelkN48, Global Chess Strategy: Trump and Greenland Explained Simply #shorts
+    3. cwEwrtw7SHM, Trump’s Greenland Deal: A Masterstroke in More Ways Than One | E.J. Antoni
+    4. csZS6_PMu5c, TRUMP IS PLAYING 4D CHESS ON MAGA WHILE GREENLAND IS ABOUT TO JOIN THE NWOS NORTH AMERICAN UNION!!
+    5. jA7wc_d09d8, Trump’s National Security "Masterstroke": Greenland
+
+Topic 491
+  Videos: 11
+  Top words: pub, irish, rowdy, tantrum, song, sale, still, monkey, teacup, silk
+  Example titles:
+    1. HKuWA-PMP60, Greenland Is Not For Sale! 🍻 – A Rowdy Irish Pub Song About a Global Tantrum
+    2. 4epLxtjDugE, Greenland Is Still Not For Sale! 🍻 – The $100,000 Money Tantrum (Rowdy Irish Pub Song
+    3. OhSx2IGc6fQ, Greenland Is Still Not For Sale! 🍻 – A Rowdy Irish Pub Song About a Frozen Russian Tantrum
+    4. VeUE-T9mzqY, Greenland Is Not For Sale! 🍻 – The Monkey King’s Golden Tantrum (Rowdy Irish Pub Song
+    5. iBm2w3xIRG8, Greenland Is Still Not For Sale! 🐉 – The Dragon's Cold Silk Road (Rowdy Irish Pub Song
+    6. LQximG3L0_I, Greenland Is Still Not For Sale! 🍻 – A Rowdy Irish Pub Song About an Empire’s Fragile Teacup
+
+Topic 492
+  Videos: 11
+  Top words: shield, missile, americas, unbreakable, defense, fishyfirearms, greenlandmissile, deterrence, fishmissile, gtam
+  Example titles:
+    1. nSkUUoyA-wU, Greenland: North America's Missile Defense Shield #shorts (4 videos)
+    2. aQSMgdrZdI8, Greenland: America's Unbreakable Shield Explained #shorts (3 videos)
+    3. 6kx77teMqLM, Why the Ice on Greenland is America's Most Important Shield!
+    4. Ogm5SWQSJXg, 163 - The Arctic Front: Greenland’s Role in U.S. Deterrence and Missile Defense
+    5. Y24rXz7J32A, The Missile Path to the US is Over Greenland!
+    6. cLrAEctN0gQ, Greenland GTAM: The Apex of Air Defense #FishyFirearms #FishMissile #GreenlandMissile #Security #SAM

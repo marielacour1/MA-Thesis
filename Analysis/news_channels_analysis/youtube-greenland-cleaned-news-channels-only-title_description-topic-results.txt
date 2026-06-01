@@ -1,0 +1,109 @@
+Validation over candidate k values
+======================================
+k=8: silhouette=0.0649, discovered_topics=8, noise_docs=0
+k=10: silhouette=0.0687, discovered_topics=10, noise_docs=0
+k=12: silhouette=0.0709, discovered_topics=12, noise_docs=0
+k=14: silhouette=0.0711, discovered_topics=14, noise_docs=0
+
+Best k based on validation:
+k=14 (silhouette=0.0711, discovered_topics=14, noise_docs=0)
+
+Top words per topic (best k):
+- Topic 0 (126 videos): denmark, trump, danish, us, president, donald, island, election, trumps, frederiksen
+  Examples:
+    1. US-Greenland Takeover LIVE: Trump Still Wants Greenland, Danish PM Issues Fresh Warning | WION (2 videos)
+    2. Trump Says US Will Get Greenland, Holds “Fiery” Talks With Danish PM | Subscribe to Firstpost | N18G (1 video)
+    3. How Denmark views Trump's threats to take over Greenland (1 video)
+    4. Denmark Calls For Snap Polls Amid Trump's Greenland Threat | Vantage with Palki Sharma | N18G (1 video)
+    5. Denmark's PM says Trump wanting Greenland 'should be taken seriously' (2 videos)
+- Topic 1 (122 videos): ice, melting, sheet, climate, scientists, melt, change, sea, glaciers, glacier
+  Examples:
+    1. How Greenland's massive ice melt will totally transform the world (1 video)
+    2. Climate change: Greenland's ice sheet has melted past the point of no return (1 video)
+    3. Greenland ice sheet begins melting again ++REPLAY++ (2 videos)
+    4. Greenland losing 250 billion tonnes of ice yearly, says study (1 video)
+    5. Ice sheets in Greenland, Antarctica melting faster than previously thought, research shows (1 video)
+- Topic 2 (96 videos): trump, deal, tariffs, european, framework, davos, he, president, donald, nato
+  Examples:
+    1. Donald Trump drops threat of tariffs over Greenland after Nato talks in Davos | BBC News (1 video)
+    2. Greenland latest: What comes next after Trump's ‘framework’ deal (4 videos)
+    3. Greenland Deal DONE, Europe Blindsided? Trump Drops Bombshell Details After Talks With NATO Chief (1 video)
+    4. Has Trump backed down on Greenland? | Global News Podcast (1 video)
+    5. Greenland: Will Europe fight Trump or surrender (1 video)
+- Topic 3 (88 videos): denmark, trump, us, india, nato, danish, arctic, envoy, has, daily
+  Examples:
+    1. Denmark To Cede Greenland To Trump? ‘Angers’ Putin & Xi, Backs Permanent NATO Presence In Arctic (1 video)
+    2. GREENLAND TENSIONS SPIKE, Denmark Summons US Envoy After Trump Pushes Annexation | Times Now World (1 video)
+    3. Denmark TRICKS Trump Over Greenland? ‘Fight For Power Begins…’ | Trump Core Team In Huddle (1 video)
+    4. 'Mind Your Own Business!': Trump RAGES As Greenland PM Picks Denmark Over US | 'NATO Ineffective...' (1 video)
+    5. Denmark Says, "Shoot First, Talk Later" Amid Row With Trump Over Greenland | Firstpost America (1 video)
+- Topic 4 (81 videos): trump, sharma, headlines, show, panama, force, canal, donald, new, davos
+  Examples:
+    1. Donald Trump Mulls Over 3 Options to Take Greenland | Vantage with Palki Sharma | N18G (1 video)
+    2. Trump Rules Out Force Against Greenland but Demands "Immediate" Talks | Vantage with Palki Sharma (1 video)
+    3. Trump Hints at Military Action to take over Greenland, Panama Canal | Vantage with Palki Sharma (1 video)
+    4. Why Trump Wants Greenland | Vantage with Palki Sharma | Subscribe to Firstpost (2 videos)
+    5. Trump Wants NATO to Help "Annex" Greenland. How Will it Work? | Vantage with Palki Sharma | N18G (2 videos)
+- Topic 5 (77 videos): military, denmark, nato, arctic, macron, troops, french, danish, us, european
+  Examples:
+    1. Watch: Danish F-35s Roar Over Greenland As European Troops Land In Denmark Territory Amid US Threat (1 video)
+    2. Denmark, Greenland “In Serious Situation’, Frederiksen Says as Troops Train Under ‘Arctic Endurance’ (1 video)
+    3. On Cam: Danish Troops Storm Greenland As US-Canadian Command Declares Military Aircraft Deployment (1 video)
+    4. Danish soldiers land in Greenland amid Trump threats | REUTERS (1 video)
+    5. Danish troops touch down in Greenland ❄️ (1 video)
+- Topic 6 (70 videos): arctic, russia, nato, india, putin, trump, us, now, china, military
+  Examples:
+    1. Greenland Partitioned: Trump Takes Control of Arctic Bases in Major NATO Deal | GRAVITAS (1 video)
+    2. Breaking: Putin Orders Russian Troops Movement Near Greenland In Arctic, Issues Warning To US Trump (1 video)
+    3. LIVE: Will NATO’S “Arctic Sentry” Ease Tensions Over Trump’s Greenland Push? | Firstpost America (1 video)
+    4. Greenland Deal Done? NATO Boss' Full Speech Fuels Trump Power Play Speculation | Denmark on Edge? (1 video)
+    5. Russia Threatens Military Action Over Greenland, Confirms Nuclear Pact Stance | WION Pulse (1 video)
+- Topic 7 (64 videos): trump, buying, buy, sale, president, donald, he, denmark, danish, said
+  Examples:
+    1. Why Trump wants to buy Greenland ... and what the people have to say about it (2 videos)
+    2. Why Trump can’t let Greenland go (1 video)
+    3. Why Donald Trump Wants to Buy Greenland | The Full Story Explained (2 videos)
+    4. Donald Trump Planning To 'Buy' Greenland, Danish MPs Hit Back | CRUX (1 video)
+    5. Greenland not for sale: Why The Fuss? (1 video)
+- Topic 8 (57 videos): television, survey, keys, trusted, found, network, source, engagement, trump, fbn
+  Examples:
+    1. BREAKING: Trump announces framework of a future deal on Greenland has been reached (1 video)
+    2. BREAKING: Trump announces tariffs on countries opposing US control of Greenland #foxnews #news (1 video)
+    3. NATO leaders RIP Trump's new tariffs over Greenland: 'UNACCEPTABLE' (1 video)
+    4. Trump reveals DEADLINE for Greenland deal (1 video)
+    5. NEW: Trump considers tariffs for countries opposing US control of Greenland #shorts (1 video)
+- Topic 9 (52 videos): trump, us, president, donald, nato, he, has, security, says, control
+  Examples:
+    1. The real reason Trump wants Greenland (2 videos)
+    2. Trump Says Greenland 'Is Going to Want Us' (1 video)
+    3. Why Trump says America needs Greenland (1 video)
+    4. Breaking: Trump Threatens To Use U.S Army To Annex Greenland, Says "We Need Greenland for Security" (1 video)
+    5. Trump’s Obsession With Greenland Explained (3 videos)
+- Topic 10 (48 videos): vance, jd, aptn, president, visit, usha, trump, us, island, take
+  Examples:
+    1. Trump says world needs U.S. takeover of Greenland (1 video)
+    2. Greenland reacts to JD Vance's visit amid Trump comments (1 video)
+    3. Donald Trump to keep pushing to take control over Greenland (1 video)
+    4. Trump Pushes for Greenland Takeover as JD Vance, Usha Head to Island | Firstpost America | N18G (1 video)
+    5. Vance Criticizes Denmark as Trump Restates Desire for Greenland (1 video)
+- Topic 11 (45 videos): canada, consulate, canadian, nuuk, consulates, arctic, open, opening, new, their
+  Examples:
+    1. Canada opens new consulate in Greenland amid Arctic tensions (3 videos)
+    2. LIVE: Canada Opens New Embassy in Greenland | Historic Opening Ceremony in Nuuk! | Mark Carney (2 videos)
+    3. Canada, France deepen Arctic ties with consulates in Greenland (3 videos)
+    4. Canada, France embassies open in Greenland amid Trump’s threats (1 video)
+    5. Canada And France Open Greenland Consulates In Show Of Denmark Support | WION (1 video)
+- Topic 12 (19 videos): knr, 05, 03, 11, great, 15, awg2016, aallakaatitaq, container, futsal
+  Examples:
+    1. Future Greenland 2022 (4:4) KNR 18.05.2022 (2 videos)
+    2. AWG2016 Futsal Nunavut - Greenland Junior male 07-03-2016 (1 video)
+    3. AWG2016 Futsal Alaska - Greenland junior female 07-03-2016 (1 video)
+    4. Greenland Everest Expedition (6:6) KNR oktobari 2019 (2 videos)
+    5. Local Guide Greenland, KNR 05.05.2025 (1 video)
+- Topic 13 (17 videos): women, inuit, contraception, forced, victims, young, danish, campaign, contraceptive, consent
+  Examples:
+    1. Greenland, breaking the silence: The scandal of Denmark's forced contraception campaign (1 video)
+    2. Victims recall forced contraception of Indigenous women and girls in Greenland (1 video)
+    3. ‘Like torture, like rape’: Greenland urges Denmark to confront its dark past • FRANCE 24 (1 video)
+    4. Greenland women recount forced contraception as Danish PM set to apologise • FRANCE 24 English (2 videos)
+    5. #REPORTERS - The despair of Greenland's Inuit youth (1 video)
