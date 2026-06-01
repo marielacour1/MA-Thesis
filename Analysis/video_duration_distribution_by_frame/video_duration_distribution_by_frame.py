@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_DIR = Path(__file__).resolve().parents[2]
-INPUT_CSV = PROJECT_DIR / "Datasets" / "gl-cl-w-topics-FINAL.csv"
+INPUT_CSV = PROJECT_DIR / "Datasets" / "final_dataset.csv"
 OUTPUT_PNG = SCRIPT_DIR / "gl-cl-video-duration-distribution-by-frame.png"
 OUTPUT_STATS_TXT = SCRIPT_DIR / "gl-cl-video-duration-descriptive-statistics-by-frame.txt"
 FRAME_COLUMN = "frame"

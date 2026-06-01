@@ -648,7 +648,7 @@ def write_text_table(output_path: Path, summary_rows: list[dict[str, float | int
 
 def main() -> None:
     script_dir = Path(__file__).resolve().parent
-    default_csv = script_dir.parents[1] / "Datasets" / "gl-cl-w-topics-FINAL.csv"
+    default_csv = script_dir.parents[1] / "Datasets" / "final_dataset.csv"
     default_google_docs_output = script_dir / "gl-cl-descriptive-numeric-table-google-docs.html"
 
     parser = argparse.ArgumentParser(
@@ -700,19 +700,6 @@ def main() -> None:
 
     summary_rows = [summarize_column(rows, column) for column in columns]
     write_google_docs_html(google_docs_output_path, summary_rows, decimals=max(args.decimals, 0))
-
-    print(f"Dataset: {csv_path}")
-    print(f"Rows: {len(rows):,}")
-    print(f"Numeric columns summarized: {', '.join(columns)}")
-    print(f"Saved Google Docs HTML table to: {google_docs_output_path}")
-    print("")
-    print(
-        "Notes: n is the number of usable numeric values for each variable; "
-        "rows with blank fields are counted as missing values and excluded from n. "
-        "Mean and SD values are rounded to whole numbers for readability. "
-        "SD is the sample standard deviation. "
-        "Q1/Q3 are the 25th/75th percentiles."
-    )
 
 
 if __name__ == "__main__":

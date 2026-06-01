@@ -1,5 +1,0 @@
-Source CSV: C:\Users\marie\Desktop\Thesis tests\MA-Thesis\youtube_scraper\\Datasets\youtube-greenland-cleaned.csv
-Total videos in source dataset: 29207
-Videos kept from identified news channels: 965
-Identified news channels: 77
-Selection basis: curated review of channel names in the cleaned dataset.

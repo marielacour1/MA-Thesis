@@ -42,44 +42,21 @@ def sample_rows(rows: list[dict[str, str]], sample_size: int, seed: int) -> list
     return rng.sample(rows, sample_size)
 
 
-def first_filtering_deleted_pool(
-    deleted_rows: list[dict[str, str]],
-    greenland_only_rows: list[dict[str, str]],
-    duplicate_rows: list[dict[str, str]],
+def deleted_review_pool(
+    deleted_1_rows: list[dict[str, str]],
 ) -> list[dict[str, str]]:
-    greenland_only_ids = {
-        (row.get("video_id") or "").strip()
-        for row in greenland_only_rows
-        if (row.get("video_id") or "").strip()
-    }
-    duplicate_ids = {
-        (row.get("video_id") or "").strip()
-        for row in duplicate_rows
-        if (row.get("video_id") or "").strip()
-    }
-
+    """Filter deleted videos to only include those NOT deleted for duplicate or greenland-only reasons."""
     rows = []
-    for row in deleted_rows:
+    for row in deleted_1_rows:
+        category = (row.get("deletion_reason_category") or "").strip()
+        # Exclude duplicates and greenland-only titles, keep all other deletion reasons
+        if category in {"duplicate", "greenland_only_title"}:
+            continue
         video_id = (row.get("video_id") or "").strip()
-        if not video_id or video_id in greenland_only_ids or video_id in duplicate_ids:
+        if not video_id:
             continue
         rows.append(video_row(row))
-    return rows
-
-
-def deleted_review_pool(
-    deleted_rows: list[dict[str, str]],
-    deleted2_rows: list[dict[str, str]],
-    greenland_only_rows: list[dict[str, str]],
-    duplicate_rows: list[dict[str, str]],
-) -> list[dict[str, str]]:
-    stage1_rows = first_filtering_deleted_pool(
-        deleted_rows,
-        greenland_only_rows,
-        duplicate_rows,
-    )
-    stage2_rows = [video_row(row) for row in deleted2_rows]
-    return unique_video_rows(stage1_rows + stage2_rows)
+    return unique_video_rows(rows)
 
 
 def column_letter(index: int) -> str:
@@ -209,11 +186,8 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("--sample-size", type=int, default=SAMPLE_SIZE)
     parser.add_argument("--seed", type=int, default=RANDOM_SEED)
-    parser.add_argument("--final-csv", type=Path, default=dataset_dir / "gl-cl-w-topics-FINAL.csv")
-    parser.add_argument("--deleted-csv", type=Path, default=dataset_dir / "deleted.csv")
-    parser.add_argument("--deleted2-csv", type=Path, default=dataset_dir / "deleted2.csv")
-    parser.add_argument("--greenland-only-csv", type=Path, default=dataset_dir / "greenland-only-title-videos.csv")
-    parser.add_argument("--duplicate-csv", type=Path, default=dataset_dir / "duplicate-videos.csv")
+    parser.add_argument("--final-csv", type=Path, default=dataset_dir / "final_dataset.csv")
+    parser.add_argument("--deleted-1-csv", type=Path, default=dataset_dir / "deleted_1.csv")
     parser.add_argument("--output-dir", type=Path, default=script_dir)
     return parser.parse_args()
 
@@ -222,12 +196,8 @@ def main() -> None:
     args = parse_args()
 
     final_rows = unique_video_rows([video_row(row) for row in read_csv_rows(args.final_csv)])
-    deleted_pool = deleted_review_pool(
-        deleted_rows=read_csv_rows(args.deleted_csv),
-        deleted2_rows=read_csv_rows(args.deleted2_csv),
-        greenland_only_rows=read_csv_rows(args.greenland_only_csv),
-        duplicate_rows=read_csv_rows(args.duplicate_csv),
-    )
+    deleted_1_rows = read_csv_rows(args.deleted_1_csv)
+    deleted_pool = deleted_review_pool(deleted_1_rows)
 
     precision_sample = sample_rows(final_rows, args.sample_size, args.seed)
     recall_sample = sample_rows(deleted_pool, args.sample_size, args.seed + 1)

@@ -5,7 +5,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 PROJECT_DIR = HERE.parent.parent
-DEFAULT_CSV = PROJECT_DIR / "Datasets" / "gl-cl-w-topics-FINAL.csv"
+DEFAULT_CSV = PROJECT_DIR / "Datasets" / "final_dataset.csv"
 DEFAULT_OUTPUT = HERE / "gl-cl-dataset-totals-summary-google-docs.html"
 
 

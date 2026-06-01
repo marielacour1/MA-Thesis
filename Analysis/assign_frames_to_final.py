@@ -4,7 +4,7 @@ from collections import Counter
 from pathlib import Path
 
 
-CSV_PATH = Path(__file__).resolve().parents[1] / "Datasets" / "gl-cl-w-topics-FINAL.csv"
+CSV_PATH = Path(__file__).resolve().parents[1] / "Datasets" / "final_dataset.csv"
 FRAME_COLUMN = "frame"
 
 

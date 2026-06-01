@@ -1,4 +1,4 @@
-# MA Thesis — YouTube Greenland Discourse Analysis
+# MA Thesis — YouTube Greenland Frame Analysis
 
 A complete pipeline for studying how "Greenland" is framed in YouTube video content. The pipeline goes from raw API scraping through NLP topic modeling, manual frame assignment, and statistical regression analysis.
 
@@ -13,7 +13,7 @@ Datasets/
 ├── yt-greenland.csv                     # Raw API output
 ├── gl-cl.csv                            # After language/spam filtering
 ├── gl-cl-w-topics.csv                   # After BERTopic topic assignment
-├── gl-cl-w-topics-FINAL.csv            # After final filtering + frame assignment
+├── final_dataset.csv            # After final filtering + frame assignment
 ├── deleted.csv / deleted2.csv           # Videos removed in each filtering pass
 ├── deleted-videos.csv                   # Merged deletion log with reasons
 ├── duplicate-videos.csv                 # Detected near-duplicate videos
@@ -146,7 +146,7 @@ Excludes specific topics, terms, channels, and video IDs identified during manua
 ```bash
 python Analysis/final_filtering.py
 # Input:  Datasets/gl-cl-w-topics.csv
-# Output: Datasets/gl-cl-w-topics-FINAL.csv
+# Output: Datasets/final_dataset.csv
 #         Datasets/deleted2.csv
 #         Datasets/deleted-videos.csv  (merged with deleted.csv)
 ```
@@ -165,12 +165,12 @@ Maps each of the 500 discovered topics to one of five analytical frames:
 
 ```bash
 python Analysis/assign_frames_to_final.py
-# Input/Output: Datasets/gl-cl-w-topics-FINAL.csv  (adds "frame" column in place)
+# Input/Output: Datasets/final_dataset.csv  (adds "frame" column in place)
 ```
 
 ### Step 5 — Analysis
 
-All analysis scripts read from `Datasets/gl-cl-w-topics-FINAL.csv` unless noted. Run each from the repo root:
+All analysis scripts read from `Datasets/final_dataset.csv` unless noted. Run each from the repo root:
 
 ```bash
 # Geopolitical subframes (subdivides geopolitical frame into 5 sub-categories)
@@ -244,7 +244,7 @@ gl-cl.csv  (language/spam filtered)
     ↓  title_bertopic_modeling.py
 gl-cl-w-topics.csv  (500 topics assigned)
     ↓  final_filtering.py
-gl-cl-w-topics-FINAL.csv  (core analysis dataset, with frame column)
+final_dataset.csv  (core analysis dataset, with frame column)
     ├→ assign_geopolitical_subframes.py
     ├→ frame_prevalence_over_time.py
     ├→ channel_country_analysis/

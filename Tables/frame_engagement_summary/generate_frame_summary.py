@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Read dataset
-input_csv = "Datasets/gl-cl-w-topics-FINAL.csv"
+input_csv = "Datasets/final_dataset.csv"
 df = pd.read_csv(input_csv)
 
 # Parse numeric columns

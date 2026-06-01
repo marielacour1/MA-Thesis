@@ -4,10 +4,10 @@ from pathlib import Path
 
 
 INPUT_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "gl-cl-w-topics.csv"
-OUTPUT_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "gl-cl-w-topics-FINAL.csv"
-DELETED_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "deleted2.csv"
-PREVIOUS_DELETED_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "deleted.csv"
-MERGED_DELETED_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "deleted-videos.csv"
+OUTPUT_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "final_dataset.csv"
+DELETED_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "deleted_2.csv"
+PREVIOUS_DELETED_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "deleted_1.csv"
+MERGED_DELETED_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "deleted_total.csv"
 
 
 TOPICS_TO_EXCLUDE = {
@@ -336,8 +336,8 @@ def read_rows_for_merge(path: Path, source_name: str) -> tuple[list[dict[str, st
 
 
 def merge_deleted_files() -> int:
-    previous_rows, previous_fieldnames = read_rows_for_merge(PREVIOUS_DELETED_CSV, "deleted.csv")
-    current_rows, current_fieldnames = read_rows_for_merge(DELETED_CSV, "deleted2.csv")
+    previous_rows, previous_fieldnames = read_rows_for_merge(PREVIOUS_DELETED_CSV, "deleted_1.csv")
+    current_rows, current_fieldnames = read_rows_for_merge(DELETED_CSV, "deleted_2.csv")
 
     merged_fieldnames = []
     for fieldname in previous_fieldnames + current_fieldnames:

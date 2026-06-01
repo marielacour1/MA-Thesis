@@ -286,7 +286,7 @@ def parse_args() -> argparse.Namespace:
         type=Path,
         default=script_dir / "recall_sample_deleted_videos.xlsx",
     )
-    parser.add_argument("--final-csv", type=Path, default=dataset_dir / "gl-cl-w-topics-FINAL.csv")
+    parser.add_argument("--final-csv", type=Path, default=dataset_dir / "final_dataset.csv")
     parser.add_argument("--deleted-csv", type=Path, default=dataset_dir / "deleted.csv")
     parser.add_argument("--deleted2-csv", type=Path, default=dataset_dir / "deleted2.csv")
     parser.add_argument("--greenland-only-csv", type=Path, default=dataset_dir / "greenland-only-title-videos.csv")

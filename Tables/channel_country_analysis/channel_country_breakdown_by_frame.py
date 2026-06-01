@@ -5,7 +5,7 @@ from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_DIR = SCRIPT_DIR.parents[1]
-INPUT_CSV = PROJECT_DIR / "Datasets" / "gl-cl-w-topics-FINAL.csv"
+INPUT_CSV = PROJECT_DIR / "Datasets" / "final_dataset.csv"
 OUTPUT_TXT = SCRIPT_DIR / "channel-country-breakdown-by-frame.txt"
 FRAME_COLUMN = "frame"
 COUNTRY_COLUMN = "channel_country"

@@ -266,7 +266,7 @@ def write_google_docs_html(
 
 def parse_args() -> argparse.Namespace:
     script_dir = Path(__file__).resolve().parent
-    default_csv = script_dir.parents[1] / "Datasets" / "gl-cl-w-topics-FINAL.csv"
+    default_csv = script_dir.parents[1] / "Datasets" / "final_dataset.csv"
     default_output = script_dir / "gl-cl-youtube-categorical-table-google-docs.html"
 
     parser = argparse.ArgumentParser(

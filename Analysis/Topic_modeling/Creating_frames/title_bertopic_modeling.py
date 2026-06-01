@@ -1,6 +1,5 @@
 import argparse
 import csv
-import json
 import os
 import re
 from collections import Counter
@@ -311,23 +310,7 @@ def result_to_payload(result: KResult) -> dict:
         "top_words": {str(k): v for k, v in result.top_words.items()},
         "topic_examples": {str(k): v for k, v in result.topic_examples.items()},
     }
-def save_results_payload(
-    output_path: Path,
-    *,
-    csv_path: Path,
-    title_column: str,
-    result: KResult,
-) -> None:
-    payload = {
-        "csv": str(csv_path),
-        "title_column": title_column,
-        "k_values": [result.k],
-        "results": [result_to_payload(result)],
-        "best_k": result.k,
-        "best_result": result_to_payload(result),
-    }
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+
 
 
 def build_results_text(result: KResult) -> str:
@@ -510,12 +493,6 @@ def main() -> None:
     )
     parser.add_argument("--min-word-length", type=int, default=2, help="Minimum token length")
     parser.add_argument(
-        "--output-json",
-        type=Path,
-        default=None,
-        help="Path to save validation results and the best-topic summary JSON. Default: save in this script folder.",
-    )
-    parser.add_argument(
         "--output-text",
         type=Path,
         default=None,
@@ -547,11 +524,6 @@ def main() -> None:
     if not csv_path.exists():
         raise FileNotFoundError(f"CSV not found: {csv_path}")
 
-    output_json_path = (
-        args.output_json.resolve()
-        if args.output_json
-        else script_dir / f"{csv_path.stem}-topic-results.json"
-    )
     output_text_path = (
         args.output_text.resolve()
         if args.output_text
@@ -560,7 +532,6 @@ def main() -> None:
     output_assignments_path = script_dir / f"{csv_path.stem}-topic-assignments.csv"
     output_csv_with_topics_path = script_dir / f"{csv_path.stem}-w-topics.csv"
 
-    print(f"Saving JSON output to: {output_json_path}")
     print(f"Saving text output to: {output_text_path}")
 
     rows, titles, fieldnames = read_csv_rows(csv_path, title_column=args.title_column)
@@ -592,12 +563,6 @@ def main() -> None:
     results_text = build_results_text(result)
     print(results_text, end="")
 
-    save_results_payload(
-        output_path=output_json_path,
-        csv_path=csv_path,
-        title_column=args.title_column,
-        result=result,
-    )
     output_text_path.parent.mkdir(parents=True, exist_ok=True)
     output_text_path.write_text(results_text, encoding="utf-8")
     save_topic_assignments_csv(
@@ -611,7 +576,6 @@ def main() -> None:
         fieldnames=fieldnames,
         topic_assignments=result.topic_assignments,
     )
-    print(f"\nSaved topic results to: {output_json_path}")
     print(f"Saved text summary to: {output_text_path}")
     print(f"Saved topic assignments to: {output_assignments_path}")
     print(f"Saved CSV with topics to: {output_csv_with_topics_path}")

@@ -7,7 +7,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 ANALYSIS_DIR = HERE.parent
 PROJECT_DIR = ANALYSIS_DIR.parent
-DATASET_PATH = PROJECT_DIR / "Datasets" / "gl-cl-w-topics-FINAL.csv"
+DATASET_PATH = PROJECT_DIR / "Datasets" / "final_dataset.csv"
 
 GEOPOLITICAL_FRAME = "Geopolitics"
 TOPIC_COLUMN = "topic"
