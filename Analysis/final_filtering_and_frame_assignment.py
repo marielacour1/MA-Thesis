@@ -1,4 +1,6 @@
 import csv
+import subprocess
+import sys
 from collections import Counter
 from pathlib import Path
 
@@ -420,6 +422,17 @@ def main() -> None:
     print(f"Wrote: {OUTPUT_CSV}")
     print(f"Wrote deleted rows: {DELETED_CSV}")
     print(f"Wrote merged deleted rows: {MERGED_DELETED_CSV} ({merged_deleted_count:,} rows)")
+
+    assign_frames_script = Path(__file__).resolve().parent / "assign_frames_to_final.py"
+    if assign_frames_script.exists():
+        print("")
+        print("Assigning frames to final dataset...")
+        subprocess.run([sys.executable, str(assign_frames_script)], check=True)
+        print("")
+        print(f"Updated final dataset with frame column: {OUTPUT_CSV}")
+    else:
+        print("")
+        print(f"Warning: could not find assign_frames_to_final.py at {assign_frames_script}")
 
 
 if __name__ == "__main__":
