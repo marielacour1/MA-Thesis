@@ -5,7 +5,7 @@ from collections import Counter
 from pathlib import Path
 
 
-INPUT_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "gl-cl-w-topics.csv"
+INPUT_CSV = Path(__file__).resolve().parents[1] / "Analysis" / "Topic_modeling" / "gl-cl-w-topics.csv"
 OUTPUT_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "final_dataset.csv"
 DELETED_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "deleted_2.csv"
 PREVIOUS_DELETED_CSV = Path(__file__).resolve().parents[1] / "Datasets" / "deleted_1.csv"

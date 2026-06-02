@@ -1,4 +1,3 @@
-import argparse
 import csv
 import re
 from collections import Counter, defaultdict
@@ -418,15 +417,7 @@ def save_multiplot(
     draw_panel(panel_index=1, metric="prevalence", label=share_panel_label)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    high_res_image = image.resize((width * 2, height * 2), Image.Resampling.LANCZOS)
-    high_res_image.save(output_path, dpi=(1200, 1200))
-    image.save(output_path.with_name(f"{output_path.stem}_600dpi.tif"), dpi=(600, 600), compression="tiff_lzw")
-    high_res_image.save(
-        output_path.with_name(f"{output_path.stem}_1200dpi.tif"),
-        dpi=(1200, 1200),
-        compression="tiff_lzw",
-    )
-    image.save(output_path.with_suffix(".pdf"), "PDF", resolution=600.0)
+    image.save(output_path)
 
 
 def write_outputs(
@@ -437,12 +428,9 @@ def write_outputs(
     rows: list[dict[str, str]],
     output_prefix: str,
     palette: list[tuple[int, int, int]] | None = None,
-) -> tuple[Path, Path, Path]:
-    csv_out = output_dir / f"{output_prefix}.csv"
+) -> Path:
     plot_out = output_dir / f"{output_prefix}.png"
-    pdf_out = output_dir / f"{output_prefix}.pdf"
 
-    save_csv(csv_out, rows)
     save_multiplot(
         plot_out,
         periods=periods,
@@ -450,72 +438,40 @@ def write_outputs(
         rows=rows,
         palette=palette,
     )
-    return csv_out, plot_out, pdf_out
+    return plot_out
 
 
 def main() -> None:
     script_path = Path(__file__).resolve()
     script_dir = script_path.parent
-    default_csv = script_path.parents[4] / "Datasets" / "gl-cl-w-topics-FINAL.csv"
-    default_output_dir = script_dir
-
-    parser = argparse.ArgumentParser(
-        description="Plot frame frequency and distribution over time."
-    )
-    parser.add_argument("--csv", type=Path, default=default_csv, help="Path to frame-annotated CSV.")
-    parser.add_argument("--frame-column", default="frame", help="Frame column name.")
-    parser.add_argument("--date-column", default="published_at", help="Publication date column name.")
-    parser.add_argument(
-        "--frames",
-        nargs="+",
-        default=None,
-        help="Optional list of specific frame labels to plot. Default: use the top frames by overall size.",
-    )
-    parser.add_argument("--top-n", type=int, default=10, help="How many top frames to plot when --frames is not set.")
-    parser.add_argument("--output-dir", type=Path, default=default_output_dir, help="Where to save outputs.")
-    parser.add_argument(
-        "--interval-months",
-        type=int,
-        choices=[1, 2],
-        default=2,
-        help="Number of months per period. Default: 2.",
-    )
-    parser.add_argument(
-        "--palette",
-        choices=["frame", "subframe"],
-        default="frame",
-        help="Color palette to use. Default: frame.",
-    )
-    parser.add_argument(
-        "--output-prefix",
-        default=None,
-        help="Output filename prefix without extension. Default: standard filename for normal settings, descriptive filename otherwise.",
-    )
-    args = parser.parse_args()
-    csv_path = args.csv.resolve()
-    output_dir = args.output_dir.resolve()
+    project_root = script_path.parents[2]
+    dataset_dir = project_root / "Datasets"
+    
+    # Fixed settings: monthly intervals with subframe palette
+    csv_path = dataset_dir / "final_dataset.csv"
+    output_dir = script_dir
+    frame_column = "frame"
+    date_column = "published_at"
+    interval_months = 1  # monthly
+    palette_choice = "subframe"
+    top_n = 10
+    output_prefix = "frame_distribution_over_time_monthly"
 
     if not csv_path.exists():
         raise FileNotFoundError(f"CSV not found: {csv_path}")
 
     counts_by_period, period_totals, invalid_rows = load_frame_period_counts(
         csv_path,
-        frame_column=args.frame_column,
-        date_column=args.date_column,
-        interval_months=args.interval_months,
+        frame_column=frame_column,
+        date_column=date_column,
+        interval_months=interval_months,
     )
-    frames = choose_frames(counts_by_period, frames=args.frames, top_n=args.top_n)
+    frames = choose_frames(counts_by_period, frames=None, top_n=top_n)
     rows = build_rows(counts_by_period, period_totals, frames)
     periods = sorted(counts_by_period)
-    output_prefix = args.output_prefix
-    if output_prefix is None:
-        output_prefix = "frame_distribution_over_time_latest"
-        if args.interval_months != 2 or args.palette != "frame":
-            interval_label = "monthly" if args.interval_months == 1 else "two_month"
-            output_prefix = f"frame_distribution_over_time_{interval_label}_{args.palette}_palette"
-    palette = SUBFRAME_PALETTE if args.palette == "subframe" else None
+    palette = SUBFRAME_PALETTE if palette_choice == "subframe" else None
 
-    csv_out, plot_out, pdf_out = write_outputs(
+    plot_out = write_outputs(
         output_dir=output_dir,
         periods=periods,
         frames=frames,
@@ -525,13 +481,11 @@ def main() -> None:
     )
 
     print(f"Source CSV: {csv_path}")
-    print(f"{args.interval_months}-month periods found: {len(periods)}")
+    print(f"{interval_months}-month periods found: {len(periods)}")
     print(f"Rows with missing frame/date: {invalid_rows}")
     print(f"Frames plotted: {', '.join(frames)}")
-    print(f"Palette: {args.palette}")
-    print(f"Saved period CSV to: {csv_out}")
-    print(f"Saved multiplot to: {plot_out}")
-    print(f"Saved PDF to: {pdf_out}")
+    print(f"Palette: {palette_choice}")
+    print(f"Saved plot to: {plot_out}")
 
 
 if __name__ == "__main__":
