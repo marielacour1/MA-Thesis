@@ -87,7 +87,7 @@ The main data files currently used by the project are:
 
 ```text
 Datasets/yt-greenland.csv      Raw scraped data
-Datasets/gl-cl.csv             Cleaned data used as topic-modeling input
+Datasets/gl-cl.csv             Initial filtering output and cleaned topic-modeling input
 Analysis/Topic_modeling/gl-cl-w-topics.csv
                                Topic-modeling output with topic labels
 Datasets/final_dataset.csv     Main analysis dataset with topic and frame columns
@@ -108,7 +108,7 @@ YOUTUBE_API_KEY_2=optional_second_key
 YOUTUBE_API_KEY_3=optional_third_key
 ```
 
-Configure date ranges, search terms, quotas, and refresh behavior in `config.yaml`, then run:
+`yt_scraper.py` reads `config.yaml` for date ranges, search terms, quotas, and refresh behavior. After updating the config, run:
 
 ```powershell
 python yt_scraper.py
@@ -126,9 +126,10 @@ The current repository contains `Datasets/gl-cl.csv` as the cleaned input to top
 python Analysis/initial_filtering.py --input-csv Datasets/yt-greenland.csv
 ```
 
-Output:
+Outputs:
 
 ```text
+Datasets/gl-cl.csv
 Datasets/deleted_1.csv
 ```
 
