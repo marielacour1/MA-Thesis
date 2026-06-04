@@ -195,7 +195,7 @@ html_content += """        </tbody>
 """
 
 # Write to file
-output_path = "Analysis/frame_engagement_summary/frame-engagement-summary-table.html"
+output_path = "Tables/frame_engagement_summary/frame-engagement-summary-table.html"
 with open(output_path, 'w', encoding='utf-8') as f:
     f.write(html_content)
 

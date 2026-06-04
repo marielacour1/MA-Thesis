@@ -1,6 +1,6 @@
 Video duration descriptive statistics by frame (seconds)
 Middle 50 mean = mean after keeping only values from Q1 through Q3.
-Input CSV: C:\Users\marie\Desktop\MA-Thesis\youtube_scraper\Datasets\final_dataset.csv
+Input CSV: Datasets\final_dataset.csv
 
 -------------------------------------------------------------------------------------------------------------------------------------
 Frame                               | n     | Mean   | Middle 50 mean | SD      | Min  | Q1    | Median | Q3     | P95     | Max     

@@ -649,7 +649,7 @@ def write_text_table(output_path: Path, summary_rows: list[dict[str, float | int
 def main() -> None:
     script_dir = Path(__file__).resolve().parent
     default_csv = script_dir.parents[1] / "Datasets" / "final_dataset.csv"
-    default_google_docs_output = script_dir / "gl-cl-descriptive-numeric-table-google-docs.html"
+    default_google_docs_output = script_dir / "gl-cl-numeric-metadata-summary-google-docs.html"
 
     parser = argparse.ArgumentParser(
         description="Save a Google Docs-ready HTML descriptive statistics table for numeric variables."
@@ -665,7 +665,7 @@ def main() -> None:
         "--columns",
         nargs="+",
         default=None,
-        help="Optional list of numeric columns to summarize. Default: standard YouTube numeric columns if present.",
+        help="Optional list of numeric columns to summarize. Default: standard platform numeric columns if present.",
     )
     parser.add_argument(
         "--infer-columns",

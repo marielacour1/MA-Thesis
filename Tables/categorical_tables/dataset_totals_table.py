@@ -94,14 +94,7 @@ def build_html_table(summary: list[tuple[str, str]], total_rows: int) -> str:
     html = """<!doctype html>
 <html>
 <head>
-  <meta charset=\"utf-8\">
-  <style>
-    body { font-family: Arial, sans-serif; }
-    table { border-collapse: collapse; width: 100%; }
-    th, td { border: 1px solid #999; padding: 8px; }
-    th { background: #f2f2f2; text-align: left; }
-    td { text-align: left; }
-  </style>
+  <meta charset=\"utf-8\">\n  <style>\n    body { font-family: Arial, sans-serif; }\n    table { border-collapse: collapse; width: 100%; }\n    th, td { border: 1px solid #999; padding: 8px; }\n    th { background: #f2f2f2; text-align: left; }\n+    td { text-align: left; }\n  </style>
 </head>
 <body>
   <h1>Dataset Totals Summary</h1>
@@ -120,7 +113,7 @@ def write_html(output_path: Path, summary: list[tuple[str, str]], total_rows: in
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Build dataset-level totals for the YouTube dataset." 
+        description="Build dataset-level totals for the final video dataset." 
     )
     parser.add_argument(
         "--csv",

@@ -1,7 +1,7 @@
 Channel subscriber descriptive statistics by frame
 Middle 50 mean = mean after keeping only values from Q1 through Q3.
 Each channel is counted once per frame.
-Input CSV: C:\Users\marie\Desktop\MA-Thesis\youtube_scraper\Datasets\final_dataset.csv
+Input CSV: Datasets\final_dataset.csv
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Frame                               | Channels | Mean      | Middle 50 mean | SD         | Min  | Q1    | Median | Q3       | P95        | Max        

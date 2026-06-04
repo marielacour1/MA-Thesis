@@ -4,8 +4,8 @@ suppressPackageStartupMessages({
 })
 
 args <- commandArgs(trailingOnly = TRUE)
-default_input_csv <- file.path(getwd(), "Datasets", "gl-cl-w-topics-FINAL.csv")
-default_output_dir <- file.path(getwd(), "Analysis", "Topic_modeling", "frame_engagement_regression")
+default_input_csv <- file.path(getwd(), "Datasets", "final_dataset.csv")
+default_output_dir <- file.path(getwd(), "Analysis", "frame_engagement_regression")
 default_frame_column <- "frame"
 default_reference_frame <- "Nature/Tourism"
 plot_font_family <- "Times New Roman"

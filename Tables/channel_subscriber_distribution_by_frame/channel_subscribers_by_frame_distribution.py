@@ -9,8 +9,8 @@ from PIL import Image, ImageDraw, ImageFont
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_DIR = Path(__file__).resolve().parents[2]
 INPUT_CSV = PROJECT_DIR / "Datasets" / "final_dataset.csv"
-OUTPUT_PNG = SCRIPT_DIR / "gl-cl-channel-subscriber-distribution-by-frame.png"
-OUTPUT_STATS_TXT = SCRIPT_DIR / "gl-cl-channel-subscriber-descriptive-statistics-by-frame.txt"
+OUTPUT_PNG = SCRIPT_DIR / "gl-cl-channel-subscribers-by-frame-distribution.png"
+OUTPUT_STATS_TXT = SCRIPT_DIR / "gl-cl-channel-subscribers-by-frame-descriptive-statistics.txt"
 FRAME_COLUMN = "frame"
 CHANNEL_ID_COLUMN = "channel_id"
 SUBSCRIBER_COLUMN = "channel_subscriber_count"

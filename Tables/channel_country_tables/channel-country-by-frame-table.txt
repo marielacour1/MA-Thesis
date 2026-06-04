@@ -1,6 +1,6 @@
 Channel Country Breakdown by Frame
 ==================================
-Input CSV: C:\Users\marie\Desktop\MA-Thesis\youtube_scraper\Datasets\final_dataset.csv
+Input CSV: Datasets\final_dataset.csv
 Total videos with a frame: 26,379
 Rows skipped because frame was missing: 0
 
