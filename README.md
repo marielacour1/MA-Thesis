@@ -1,4 +1,4 @@
-# MA Thesis - Greenland Video Frame Analysis
+# MA Thesis - Greenland Video Titles Frame Analysis
 
 This repository contains the data and analysis pipeline for a thesis project on how Greenland is framed in video metadata and engagement patterns. It includes scraping, filtering, topic modeling, frame-level analysis, regression outputs, figure generation, and thesis-ready tables.
 
@@ -83,7 +83,7 @@ The regression scripts require R plus `ggplot2`. If `Rscript` is not on PATH on 
 
 ## Data Files
 
-The main data files currently used by the project are:
+The repository contains the following data files:
 
 ```text
 Datasets/yt-greenland.csv      Raw scraped data
@@ -91,7 +91,7 @@ Datasets/gl-cl.csv             Initial filtering output and cleaned topic-modeli
 Analysis/Topic_modeling/gl-cl-w-topics.csv
                                Topic-modeling output with topic labels
 Datasets/final_dataset.csv     Main analysis dataset with topic and frame columns
-Datasets/deleted_1.csv         First-stage deletion log
+Datasets/deleted_1.csv         Initial-filering deletion log
 Datasets/deleted_2.csv         Final-filtering deletion log
 Datasets/deleted_total.csv     Combined deletion log
 ```
